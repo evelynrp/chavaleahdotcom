@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chavaleah.com/</loc>
+    <loc>/</loc>
     <lastmod>2025-01-04T15:40:10-05:00</lastmod>
   </url><url>
-    <loc>https://chavaleah.com/posts/horse/</loc>
+    <loc>/posts/horse/</loc>
     <lastmod>2025-01-04T15:40:10-05:00</lastmod>
   </url><url>
-    <loc>https://chavaleah.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-01-04T15:40:10-05:00</lastmod>
   </url><url>
-    <loc>https://chavaleah.com/posts/yetzer-hara/</loc>
+    <loc>/posts/yetzer-hara/</loc>
     <lastmod>2024-07-28T15:49:11-05:00</lastmod>
   </url><url>
-    <loc>https://chavaleah.com/posts/orthopraxy/</loc>
+    <loc>/posts/orthopraxy/</loc>
     <lastmod>2024-04-25T15:48:04-05:00</lastmod>
   </url><url>
-    <loc>https://chavaleah.com/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://chavaleah.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://chavaleah.com/privacy/</loc>
+    <loc>/privacy/</loc>
   </url><url>
-    <loc>https://chavaleah.com/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://chavaleah.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

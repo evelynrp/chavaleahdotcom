@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Tags on chava leah</title>
-  <link rel="alternate" href="https://chavaleah.com/tags/" />
-  <link rel="self" href="https://chavaleah.com/tags/index.xml" />
+  <link rel="alternate" href="/tags/" />
+  <link rel="self" href="/tags/index.xml" />
   <subtitle>Recent content in Tags on chava leah</subtitle>
-  <id>https://chavaleah.com/tags/</id>
+  <id>/tags/</id>
   <generator uri="http://gohugo.io" version="0.145.0">Hugo</generator>
   <language>en</language>
   <updated>0001-01-01T00:00:00Z</updated>
