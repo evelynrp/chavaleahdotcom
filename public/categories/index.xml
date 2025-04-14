@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Categories on chava leah</title>
+  <link rel="alternate" href="https://chavaleah.com/categories/" />
+  <link rel="self" href="https://chavaleah.com/categories/index.xml" />
+  <subtitle>Recent content in Categories on chava leah</subtitle>
+  <id>https://chavaleah.com/categories/</id>
+  <generator uri="http://gohugo.io" version="0.145.0">Hugo</generator>
+  <language>en</language>
+  <updated>0001-01-01T00:00:00Z</updated>
+  <author>
+    <name>chava leah</name>
+    
+  </author>
+  <rights>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) chava leah</rights>
+
+</feed>
+
+
