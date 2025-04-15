@@ -29,3 +29,5 @@ I don't do this for money, but because it's fun, I want to keep my skills sharp,
 **This is a pay-what-you-want service.**
 
 If I need to buy parts, I will charge you the *actual amount that I paid for them*.
+
+I accept most forms of payment, including cash, card, and cryptocurrency.
