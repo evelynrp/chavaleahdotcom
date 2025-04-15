@@ -3,9 +3,9 @@ date = '2024-07-28T15:49:11-05:00'
 title = 'Coriolanus Snow and the yetzer hara'
 +++
 
-## Introduction
-
 *This post is in progress and/or possibly abandoned.*
+
+## Introduction
 
 Prequels occupy a unique space within their fictional universes. It would be reckless to suggest that *Ballad* truly precedes the main trilogy in thought, that Coriolanus's experiences with Lucy Gray inform his interactions with Katniss. On the contrary, Coriolanus's interactions with Katniss inform his interactions with Lucy Gray. The prequel novel draws on the material in the main trilogy and *recontextualizes* it to give the main trilogy a level of depth that it previously lacked.
 
@@ -215,6 +215,78 @@ A begrudging friendship based on expedience is born. It is interesting to note C
 > Here, in the relative privacy of the corner, he realized for the first time that she would be dead in a few days... he had thought about her more as his contender. His filly in a race, his dog in a fight. The more he treated her as something special, the more she'd become human... Lucy Gray was not really an animal, even if she was not Capitol. (p. 68)
 
 Coriolanus invokes the images of horse racing and dog fighting. He explicitly acknowledges his thinking of her as subhuman, and his treatment of her as an animal. She had value only insofar as it allowed Coriolanus to sell tickets to the show, so to speak. And yet, he has begun to recognize something human in her. Coriolanus attributes this to his own actions &mdash; it is his treatment of her that elevates her. However, we have seen his appreciation of her talents, the personality traits they share, and their subsequently growing camaraderie. It is becoming increasingly difficult not to recognize Lucy Gray's humanity. We will see whether this changes once she is no longer behind bars.
+
+> His mother used to sing him a song at bedtime. Not this one, exactly, but it had used those same words... He could sense her presence, almost smell the delicate scent of the rose powder she wore, and feel the warm blanket of security that had enveloped him each night. (pp. 70-71)
+
+Coriolanus associates his mother with delicacy and the scent of roses, security and the feeling of warmth. And now, thanks to Lucy Gray's singing, he associates his mother with Lucy Gray. It may be partly because of his love of, or longing for, his late mother that he develops such strong feelings for Lucy Gray.
+
+> He again felt the bitterness of a Plinth being granted the mightiest tribute. And he was tired of Sejanus whining over his father's buying him the victor. (p. 73)
+
+Here, Coriolanus seems to be comparing himself to the proverbial "starving children in Africa." What right does Sejanus have to complain when there are poor, underprivileged kids like Coriolanus in the world? As if it weren't bad enough that Coriolanus's position has been usurped, it could not have been given to a more ungrateful subject!
+
+> There was one more consideration. He had something Sejanus Plinth wanted, and wanted badly. Sejanus had already usurped his position, his inheritance, his clothes, his candy, his sandwiches, and the privilege due a Snow. Now he was coming for his apartment, his spot at the University, his very future, and he had the gall to be resentful of his good fortune. To reject it. To consider it a punishment, even. If having Marcus as a tribute made Sejanus squirm, then good. Let him squirm. Lucy Gray was one thing belonging to Coriolanus that he would never, ever get. (pp. 74-75)
+
+Coriolanus comes close to trading Lucy Gray, *his girl*, for who he assumes will be the winning tribute. Interestingly, he seems to value spite above maximizing his chances to win the Games and Plinth Prize. Is this envy, hatred, or mere sadism?
+
+> "We don't have a mirror, so I can only imagine." She didn't bother to put on her sparkly camera personality for him, and in a way he was glad. Maybe she was beginning to trust him. (p. 85)
+
+Coriolanus continues to see Lucy Gray as a means to an end. Her trust increases his chances of making a good impression. We also see his naivety and the narrowness of his self-centered perception. He sees as an expression of trust what could just as easily be exhaustion, resignation, a strategic reservation of energy.
+
+> "Married?"...
+>
+> "Why? Are you asking?" said Lucy Gray seriously. He looked up in surprise. "Because I think this could work."
+>
+> Coriolanus felt himself blush a little at her teasing. "I'm pretty sure you could do better."
+>
+> "Haven't yet." A flicker of pain crossed her face, but she hid it with a smile. "I bet you've got sweethearts lined up around the block."
+>
+> Her flirtation left Coriolanus tongue-tied. (pp. 86-87)
+
+It is impressive how little it takes to get Coriolanus riled up.
+
+> "My mother always smelled like roses," he said, and then felt awkward. He rarely mentioned his mother, even at home. (p. 89)
+
+Perhaps it is Coriolanus who is beginning to trust Lucy Gray. This is certainly an unprecedented level of vulnerability. Even around Tigris, he seems to be at least somewhat cautious.
+
+> Coriolanus's initial reaction was to recoil like the others, to grab hold of the monkey house bars for support, but Lucy Gray hissed, "Help her!" He remembered the cameras streaming live to the Capitol audience. He had no idea what to do for Arachne, but he did not want to be seen cringing and clinging. His terror was a private thing, not meant for public display.
+>
+> He forced his legs into motion and was the first to reach Arachne. (p. 100)
+
+This scene recalls Lucy Gray's advice to "own it" when Coriolanus first landed in the monkey house. In this case, however, it seems far more likely that Lucy Gray is concerned for Arachne's life, not for how Coriolanus looks in front of the cameras. Lucy Gray may be attempting to act as Coriolanus's *yetzer hatov*, but it is his *yetzer hara*, his desire to look good for the cameras and hide his unflattering terror, that actually spurs him to action.
+
+> "Maybe they'll just send the tributes home." The idea was not entirely unappealing when he thought of Lucy Gray. Hy wondered how the fallout from Arachne's death was affecting her. Were all the tributes being punished? Would they allow him to see her?" (p. 189)
+
+Coriolanus seems to be developing some sort of empathy, or, at least, sympathy for Lucy Gray. It is, however, still tempered by his own desire to see her.
+
+> "There is a point to everything or nothing at all, depending on your worldview," said Dr. Gaul. "Which brings me to your proposal. I like it. Who wrote it? Just you two? Or did your brassy friend weigh in before her throat was cut?" (p. 111)
+
+Okay, Camus.
+
+Jokes aside, Dr. Gaul's callousness toward Arachne's death is noteworthy. It is an attitude Coriolanus will slowly, but surely, adopt.
+
+> Coriolanus had just begun to put two and two together when he saw the look of alarm on Clemensia's face. She yanked her hand fromt he tank, but not before a half dozen neon snakes sank their fangs into her flesh. (p. 113)
+
+Snakes. Fear. Deception. Lavish displays of violence. No doubt this incident is a defining moment in young Coriolanus's life.
+
+> He buried his head in his hands, confused, angry, and most of all afraid. Afraid of Dr. Gaul. Afraid of the Capitol. Afraid of everything. If the people who were supposed to protect you played so fast and loose with your life... then how did you survive? Not by trusting them, that was for sure. And if you couldn't trust them, who could your trust? All bets were off. (p. 116)
+
+Coriolanus's catastrophizing is here on full display, as is his selfishness. Sejanus doesn't trust the Capitol either, but his response is to selflessly risk his own personal safety and comfort to help the districts. Coriolanus's response is to shrug off any obligation to society and look out only for number one.
+
+> Strangely, he found the only person he wanted to talk to was Lucy Gray, who was both clever and unlikely to repeat his words. (p. 117)
+
+Coriolanus chooses to confide in Lucy Gray because she is about to die. To whom can she confide? His secrets are safe with her.
+
+> "But I'm participating in them. I'm helping them happen!" His head dropped in shame. "I should be like Sejanus and at least try to quit."
+>
+> ... 
+>
+> Ignoring the guard's warning, he impulsively stepped over the rock and crouched down across the bars from her. "Are you all right?" She nodded, but she didn't look all right. He'd wanted to tell her about the scare with the snakes and Clemensia's brush with death. He'd hoped to ask her advice, but it all paled in comparison to her situation. He remembered the crackers the nurse had given him and fumbled for the crumpled packets in his pocket. "I brought you these. They're not big, but they're very nutritious." (pp. 120-121)
+
+Genuine empathy! Genuine feelings of guilt for his role in the senseless slaughter of children! Here he recognizes that Sejanus is moral, and that he is not.
+
+> "You matter to me," he insisted. The Capitol may not value her, but he did. Hadn't he just poured his heart out to her? (p. 122)
+
+Is Coriolanus saying that she matters as a result of his actions, or are his actions the result of her mattering?
 
 ## Katniss
 
