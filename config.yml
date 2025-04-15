@@ -68,6 +68,7 @@ params:
   profileMode:
     enabled: true
     title: chava leah
+    subtitle: open humanities and pop culture analyses
     # imageUrl: "#"
     # imageTitle: my image
     # imageWidth: 120

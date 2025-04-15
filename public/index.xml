@@ -55,8 +55,7 @@
         <id>//localhost:1313/about/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
-        <summary type="html">&lt;p&gt;&lt;a href=&#34;//localhost:1313/cv.pdf&#34;&gt;Full CV&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+        <summary type="html">&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 &lt;h3 id=&#34;master-of-library-and-information-science&#34;&gt;Master of Library and Information Science&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Jun. 2026, projected&lt;/li&gt;

@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-[Full CV](/cv.pdf)
-
 ## Education
 
 ### Master of Library and Information Science  
