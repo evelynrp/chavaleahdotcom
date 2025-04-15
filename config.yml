@@ -64,6 +64,7 @@ params:
   ShowToc: true
   # comments: false
   # images: ["images/papermod-cover.png"]
+  ShowFullTextinRSS: true
 
   profileMode:
     enabled: true
@@ -105,6 +106,10 @@ params:
     - name: pgpkey
       title: PGP Public Key
       url: "https://keys.openpgp.org/search?q=chava%40disroot.org"
+
+    - name: rss
+      title: RSS
+      url: /posts/index.xml
 
   # editPost:
   #   URL: "https://codeberg.org/evelyn/chavaleahdotcom/src/branch/main/content"
