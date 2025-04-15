@@ -76,7 +76,7 @@ params:
       - name: 📒 Posts
         url: posts
       - name: 📑 Resume/CV
-        url: cv.pdf
+        url: https://codeberg.org/evelyn/my-cv/raw/branch/main/cv-llt.pdf
       - name: 🖥️ Local IT Support
         url: it-support
 

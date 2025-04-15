@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-01-04T15:40:10-05:00</lastmod>
   </url><url>
-    <loc>/posts/horse/</loc>
+    <loc>//localhost:1313/posts/horse/</loc>
     <lastmod>2025-01-04T15:40:10-05:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-01-04T15:40:10-05:00</lastmod>
   </url><url>
-    <loc>/posts/yetzer-hara/</loc>
+    <loc>//localhost:1313/posts/yetzer-hara/</loc>
     <lastmod>2024-07-28T15:49:11-05:00</lastmod>
   </url><url>
-    <loc>/posts/orthopraxy/</loc>
+    <loc>//localhost:1313/posts/orthopraxy/</loc>
     <lastmod>2024-04-25T15:48:04-05:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/it-support/</loc>
+    <loc>//localhost:1313/it-support/</loc>
   </url><url>
-    <loc>/privacy/</loc>
+    <loc>//localhost:1313/privacy/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>//localhost:1313/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
