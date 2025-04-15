@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Posts on chava leah</title>
-  <link rel="alternate" href="//localhost:1313/posts/" />
-  <link rel="self" href="//localhost:1313/posts/index.xml" />
+  <link rel="alternate" href="/posts/" />
+  <link rel="self" href="/posts/index.xml" />
   <subtitle>Recent content in Posts on chava leah</subtitle>
-  <id>//localhost:1313/posts/</id>
+  <id>/posts/</id>
   <generator uri="http://gohugo.io" version="0.145.0">Hugo</generator>
   <language>en</language>
   <updated>2025-01-04T15:40:10-05:00</updated>
@@ -15,8 +15,8 @@
   <rights>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) chava leah</rights>
       <entry>
         <title>Horse, hevel, and healing</title>
-        <link rel="alternate" href="//localhost:1313/posts/horse/" />
-        <id>//localhost:1313/posts/horse/</id>
+        <link rel="alternate" href="/posts/horse/" />
+        <id>/posts/horse/</id>
         <published>2025-01-04T15:40:10-05:00</published>
         <updated>2025-01-04T15:40:10-05:00</updated>
         <summary type="html">&lt;p&gt;&lt;em&gt;This post is in progress and/or possibly abandoned.&lt;/em&gt;&lt;/p&gt;
@@ -32,8 +32,8 @@
       </entry>
       <entry>
         <title>Coriolanus Snow and the yetzer hara</title>
-        <link rel="alternate" href="//localhost:1313/posts/yetzer-hara/" />
-        <id>//localhost:1313/posts/yetzer-hara/</id>
+        <link rel="alternate" href="/posts/yetzer-hara/" />
+        <id>/posts/yetzer-hara/</id>
         <published>2024-07-28T15:49:11-05:00</published>
         <updated>2024-07-28T15:49:11-05:00</updated>
         <summary type="html">&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -42,8 +42,8 @@
       </entry>
       <entry>
         <title>Orthopraxy, ethno-religions, and Jewish identity</title>
-        <link rel="alternate" href="//localhost:1313/posts/orthopraxy/" />
-        <id>//localhost:1313/posts/orthopraxy/</id>
+        <link rel="alternate" href="/posts/orthopraxy/" />
+        <id>/posts/orthopraxy/</id>
         <published>2024-04-25T15:48:04-05:00</published>
         <updated>2024-04-25T15:48:04-05:00</updated>
         <summary type="html">&lt;h2 id=&#34;nicea-canonization-and-the-aryan-heresy&#34;&gt;Nicea, canonization, and the Aryan Heresy&lt;/h2&gt;

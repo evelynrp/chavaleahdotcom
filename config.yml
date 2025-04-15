@@ -77,6 +77,8 @@ params:
         url: posts
       - name: 📑 Resume/CV
         url: cv.pdf
+      - name: 🖥️ Local IT Support
+        url: it-support
 
   socialIcons:
     - name: codeberg

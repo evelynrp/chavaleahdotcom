@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Home on chava leah</title>
-  <link rel="alternate" href="//localhost:1313/" />
-  <link rel="self" href="//localhost:1313/index.xml" />
-  <subtitle>Recent content in Home on chava leah</subtitle>
-  <id>//localhost:1313/</id>
+  <title>chava leah</title>
+  <link rel="alternate" href="/" />
+  <link rel="self" href="/index.xml" />
+  <subtitle>Recent content on chava leah</subtitle>
+  <id>/</id>
   <generator uri="http://gohugo.io" version="0.145.0">Hugo</generator>
   <language>en</language>
   <updated>2025-01-04T15:40:10-05:00</updated>
@@ -15,8 +15,8 @@
   <rights>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) chava leah</rights>
       <entry>
         <title>Horse, hevel, and healing</title>
-        <link rel="alternate" href="//localhost:1313/posts/horse/" />
-        <id>//localhost:1313/posts/horse/</id>
+        <link rel="alternate" href="/posts/horse/" />
+        <id>/posts/horse/</id>
         <published>2025-01-04T15:40:10-05:00</published>
         <updated>2025-01-04T15:40:10-05:00</updated>
         <summary type="html">&lt;p&gt;&lt;em&gt;This post is in progress and/or possibly abandoned.&lt;/em&gt;&lt;/p&gt;
@@ -32,8 +32,8 @@
       </entry>
       <entry>
         <title>Coriolanus Snow and the yetzer hara</title>
-        <link rel="alternate" href="//localhost:1313/posts/yetzer-hara/" />
-        <id>//localhost:1313/posts/yetzer-hara/</id>
+        <link rel="alternate" href="/posts/yetzer-hara/" />
+        <id>/posts/yetzer-hara/</id>
         <published>2024-07-28T15:49:11-05:00</published>
         <updated>2024-07-28T15:49:11-05:00</updated>
         <summary type="html">&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -42,8 +42,8 @@
       </entry>
       <entry>
         <title>Orthopraxy, ethno-religions, and Jewish identity</title>
-        <link rel="alternate" href="//localhost:1313/posts/orthopraxy/" />
-        <id>//localhost:1313/posts/orthopraxy/</id>
+        <link rel="alternate" href="/posts/orthopraxy/" />
+        <id>/posts/orthopraxy/</id>
         <published>2024-04-25T15:48:04-05:00</published>
         <updated>2024-04-25T15:48:04-05:00</updated>
         <summary type="html">&lt;h2 id=&#34;nicea-canonization-and-the-aryan-heresy&#34;&gt;Nicea, canonization, and the Aryan Heresy&lt;/h2&gt;
@@ -51,11 +51,11 @@
       </entry>
       <entry>
         <title>About</title>
-        <link rel="alternate" href="//localhost:1313/about/" />
-        <id>//localhost:1313/about/</id>
+        <link rel="alternate" href="/about/" />
+        <id>/about/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
-        <summary type="html">&lt;p&gt;&lt;a href=&#34;//localhost:1313/cv.pdf&#34;&gt;Full CV&lt;/a&gt;&lt;/p&gt;
+        <summary type="html">&lt;p&gt;&lt;a href=&#34;/cv.pdf&#34;&gt;Full CV&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 &lt;h3 id=&#34;master-of-library-and-information-science&#34;&gt;Master of Library and Information Science&lt;/h3&gt;
 &lt;ul&gt;
@@ -80,9 +80,19 @@
 &lt;/ul&gt;</summary>
       </entry>
       <entry>
+        <title>Local IT Support</title>
+        <link rel="alternate" href="/it-support/" />
+        <id>/it-support/</id>
+        <published>0001-01-01T00:00:00Z</published>
+        <updated>0001-01-01T00:00:00Z</updated>
+        <summary type="html">&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;I offer IT Support services to friends and community members.&lt;/p&gt;
+&lt;p&gt;I am a Google-certified IT Support Professional and have been CompTIA A+ certified. Computers are confusing, and learning how to effectively set up and manage devices can take a long time. It doesn&amp;rsquo;t help that everything from your doorbell to your car is computerized, and a lot of the resources out there use specialized jargon that&amp;rsquo;s impossible to understand.&lt;/p&gt;</summary>
+      </entry>
+      <entry>
         <title>Privacy</title>
-        <link rel="alternate" href="//localhost:1313/privacy/" />
-        <id>//localhost:1313/privacy/</id>
+        <link rel="alternate" href="/privacy/" />
+        <id>/privacy/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
         <summary type="html">&lt;p&gt;The author will not collect your data in any way.&lt;/p&gt;
