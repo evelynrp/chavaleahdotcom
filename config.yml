@@ -95,6 +95,10 @@ params:
       title: XMPP
       url: "xmpp:chava@disroot.org"
 
+    - name: signal
+      title: Signal
+      url: "https://signal.me/#eu/MZjnJmOBH1hDGpLqknC1IhZ7_YkZOjHABJRlVORq5528QFDyMLBBNLRCIFCHgMye"
+
     - name: matrix
       title: Matrix
       url: "https://matrix.to/#/@evelyn:unredacted.org"
@@ -109,15 +113,15 @@ params:
 
     - name: liberapay
       title: LiberaPay
-      url: https://liberapay.com/chava/
+      url: "https://liberapay.com/chava/"
 
     - name: bitcoin
       title: Bitcoin
-      url: bitcoin:bc1qdk3jq7ylwl4uqe8d4su3d8mqs50eme075zzs9s
+      url: "bitcoin:bc1qdk3jq7ylwl4uqe8d4su3d8mqs50eme075zzs9s"
 
     - name: monero
       title: Monero
-      url: monero:89gijpm6PsW2z6VWYFAYeGFYvLJtRYWtvUHkJZ5ruVm5HSa6bVSz4Jm46xxwhYqR4R8PaoydMCx9FCxvVZuGPYL15rbhFJg
+      url: "monero:89gijpm6PsW2z6VWYFAYeGFYvLJtRYWtvUHkJZ5ruVm5HSa6bVSz4Jm46xxwhYqR4R8PaoydMCx9FCxvVZuGPYL15rbhFJg"
 
     - name: rss
       title: RSS
