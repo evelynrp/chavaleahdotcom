@@ -5,7 +5,7 @@
   <link rel="self" href="//localhost:1313/index.xml" />
   <subtitle>Recent content on chava leah</subtitle>
   <id>//localhost:1313/</id>
-  <generator uri="http://gohugo.io" version="0.145.0">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.146.7">Hugo</generator>
   <language>en</language>
   <updated>2025-01-04T15:40:10-05:00</updated>
   <author>
@@ -457,22 +457,21 @@ Yet you can be its master. (<em>The Contemporary Torah</em>, 2006, Gen. 4:7)</p>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
         <summary type="html">&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
-&lt;p&gt;I offer IT Support services to friends and community members.&lt;/p&gt;
-&lt;p&gt;I am a Google-certified IT Support Professional and have been CompTIA A+ certified. Computers are confusing, and learning how to effectively set up and manage devices can take a long time. It doesn&amp;rsquo;t help that everything from your doorbell to your car is computerized, and a lot of the resources out there use specialized jargon that&amp;rsquo;s impossible to understand.&lt;/p&gt;</summary>
+&lt;p&gt;Computers are confusing, and learning how to effectively set up and manage devices can take a long time. It doesn&amp;rsquo;t help that everything from your doorbell to your car is computerized, and a lot of the resources out there use specialized jargon that&amp;rsquo;s impossible to understand.&lt;/p&gt;
+&lt;p&gt;I offer IT Support services to friends and community members. I am a Google-certified IT Support Professional and have been CompTIA A+ certified.&lt;/p&gt;</summary>
           <content type="html"><![CDATA[<h2 id="about">About</h2>
-<p>I offer IT Support services to friends and community members.</p>
-<p>I am a Google-certified IT Support Professional and have been CompTIA A+ certified. Computers are confusing, and learning how to effectively set up and manage devices can take a long time. It doesn&rsquo;t help that everything from your doorbell to your car is computerized, and a lot of the resources out there use specialized jargon that&rsquo;s impossible to understand.</p>
+<p>Computers are confusing, and learning how to effectively set up and manage devices can take a long time. It doesn&rsquo;t help that everything from your doorbell to your car is computerized, and a lot of the resources out there use specialized jargon that&rsquo;s impossible to understand.</p>
+<p>I offer IT Support services to friends and community members. I am a Google-certified IT Support Professional and have been CompTIA A+ certified.</p>
 <p>Luckily, I grew up in the &ldquo;computer age&rdquo; and have been deploying, hardening, and maintaining my own fleet of devices for over a decade (since I was 12 years old!). Whatever you&rsquo;re having issues with, I&rsquo;m at least moderately well-prepared to deal with it!</p>
 <h2 id="how-i-can-help">How I Can Help</h2>
-<p>Here are some of the projects I&rsquo;ve worked on in the past:</p>
 <ul>
-<li>Windows &mdash; I&rsquo;ve done everything from installation to security hardening to automating software deployment and updates</li>
-<li>Linux &mdash; all of the above, plus setting up drivers, udev rules, and printers; I&rsquo;m also familiar with cli tools and window managers (i3, bspwm, sway, hyprland); I have experience with Arch, Debian and derivatives, Fedora, Universal Blue, and a few niche distros like Chimera and Gentoo</li>
-<li>Android &mdash; I regularly use adb debugging, app sideloading, alternate app stores, and custom Roms (I have used LineageOS in the past and currently run GrapheneOS)</li>
-<li>Raspberry Pi &mdash; I have set up rpi&rsquo;s with pi-hole, AdGuard Home, and RetroPie</li>
-<li>Self-hosted Services &mdash; I have hosted services like Plex, Jellyfin, Servarr</li>
-<li>Security &mdash; I&rsquo;m experienced with password managers like LastPass, Bitwarden, Keepass, and <code>pass</code>, physical security keys like the YubiKey, OnlyKey, and SoloKey, firewalls, DNS sinkholes, and the like</li>
-<li>Hardware Provisioning &mdash; I can&rsquo;t tell you how many times somebody I know has grossly overpaid for a new computer, tablet, phone, or whatever; I can almost guarantee I&rsquo;ll find you a better deal</li>
+<li>Buying new computers or devices at a good price</li>
+<li>Setting up new devices</li>
+<li>Migrating from an old device to a new one</li>
+<li>Smart appliances</li>
+<li>Home automation</li>
+<li>Virus prevention and recovery</li>
+<li>Technological black magic and man-made horrors beyond your comprehension</li>
 </ul>
 <h2 id="money-talk">Money Talk</h2>
 <p>I don&rsquo;t do this for money, but because it&rsquo;s fun, I want to keep my skills sharp, and I want to give back to my community. That said, I don&rsquo;t charge for my services.</p>
