@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>My Homelab | evelyn park</title>
+<meta name="keywords" content="">
+<meta name="description" content="For a few years now, I&rsquo;ve been self-hosting a media server so I can stream my media collection.
+Why?
+The power consumption of running my own media server is minimal compared to the savings of cancelling Netflix, Max, Disney&#43;, and Hulu. Also I like tinkering.
+Hardware
+Years ago, I bought a used Dell Optiplex from the local university&rsquo;s surplus store. It cost less than $100, and has been running for nearly a decade now. A hard drive was not included, so I bought a 1TB hard disk from the same place for an additional $15.">
+<meta name="author" content="Evelyn Park">
+<link rel="canonical" href="/posts/selfhost/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.5d45b8bd1a3cf526e72959d51f1bdc688d8e97fa0df2a697a93df6bdc746feb4.css" integrity="sha256-XUW4vRo89SbnKVnVHxvcaI2Ol/oN8qaXqT32vcdG/rQ=" rel="preload stylesheet" as="style">
+<noscript>
+    <link crossorigin="anonymous" href="/css/includes/noscript.30127fa68e36d08f5dd7f9d4e717dac42e729b844672afd0fbcacb0d9e508595.css" integrity="sha256-MBJ/po420I9d1/nU5xfaxC5ym4RGcq/Q&#43;8rLDZ5QhZU=" rel="preload stylesheet" as="style">
+</noscript>
+<link rel="icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="/posts/selfhost/">
+<meta property="og:title" content="My Homelab" />
+<meta property="og:description" content="For a few years now, I&rsquo;ve been self-hosting a media server so I can stream my media collection.
+Why?
+The power consumption of running my own media server is minimal compared to the savings of cancelling Netflix, Max, Disney&#43;, and Hulu. Also I like tinkering.
+Hardware
+Years ago, I bought a used Dell Optiplex from the local university&rsquo;s surplus store. It cost less than $100, and has been running for nearly a decade now. A hard drive was not included, so I bought a 1TB hard disk from the same place for an additional $15." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/selfhost/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2025-05-02T14:52:51-04:00" />
+<meta property="article:modified_time" content="2025-05-02T14:52:51-04:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="My Homelab"/>
+<meta name="twitter:description" content="For a few years now, I&rsquo;ve been self-hosting a media server so I can stream my media collection.
+Why?
+The power consumption of running my own media server is minimal compared to the savings of cancelling Netflix, Max, Disney&#43;, and Hulu. Also I like tinkering.
+Hardware
+Years ago, I bought a used Dell Optiplex from the local university&rsquo;s surplus store. It cost less than $100, and has been running for nearly a decade now. A hard drive was not included, so I bought a 1TB hard disk from the same place for an additional $15."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "/posts/"
+    }
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "My Homelab",
+      "item": "/posts/selfhost/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "My Homelab",
+  "name": "My Homelab",
+  "description": "For a few years now, I\u0026rsquo;ve been self-hosting a media server so I can stream my media collection.\nWhy? The power consumption of running my own media server is minimal compared to the savings of cancelling Netflix, Max, Disney+, and Hulu. Also I like tinkering.\nHardware Years ago, I bought a used Dell Optiplex from the local university\u0026rsquo;s surplus store. It cost less than $100, and has been running for nearly a decade now. A hard drive was not included, so I bought a 1TB hard disk from the same place for an additional $15.\n",
+  "keywords": [
+    
+  ],
+  "articleBody": "For a few years now, I’ve been self-hosting a media server so I can stream my media collection.\nWhy? The power consumption of running my own media server is minimal compared to the savings of cancelling Netflix, Max, Disney+, and Hulu. Also I like tinkering.\nHardware Years ago, I bought a used Dell Optiplex from the local university’s surplus store. It cost less than $100, and has been running for nearly a decade now. A hard drive was not included, so I bought a 1TB hard disk from the same place for an additional $15.\nAfter a couple years, that hard drive started making noises, which is the sign of immanent hard drive failure. I can’t remember where I bought the replacement hard drive, but I found a 4TB for cheap on some website or other. Dell did a really nice job of making Optiplex machines easy to work on. The hard drive mount is nicely accessible, and it was laughably simple to install the replacement.\nA couple years ago, I stole acquired a used uninterruptible power supply (UPS) from my workplace. For some reason this three-employee small office had a Dell R760 server in the closet that was serving absolutely no purpose whatsoever except drawing a lot of power and making a lot of noise. The only thing running on it was a DHCP server, which was silly since the router it was plugged into had DHCP built in! I unplugged the server and the UPS somehow found its way into my car. My apartment loses power a lot, so this UPS has been a lifesaver.\nThe Optiplex doesn’t have a wifi chip, and I really don’t care about wireless. I have an Ethernet cable running from my apartment’s router to a TP-Link unmanaged switch, and cables running from the switch to my smart TV (I hate smart TVs but you can’t hardly get dumb ones anymore), Optiplex, and two different desktops.\nSoon I’ll add a proper hardware firewall running pfSense, but hardware is expensive, and a raspberry pi running OpenWrt will do for now.\nSoftware Operating System For the first couple of years, I was running Ubuntu Server. I have some philosophical disagreements with Canonical, though, so I switched to Debian and forced myself to learn how to copy my SSH key over and disable password authentication, which is really the only advantage Ubuntu had for my use-case. I installed unattended-upgrades so my system won’t fall behind on critical security patches. Lately, I’ve been considering trying to switch to ucore, but that’s going to require a whole lot of extra work and learning.\nPackages For a while, I was using Plex to serve media from the Optiplex to my TV. However, I found the ads annoying and generally prefer open-source software. I switched to Jellyfin as soon as I heard about it. Jellyfin is missing a couple of obscure features that Plex has, but I didn’t use any of them.\nI have dabbled in pihole and Adguard Home, but the other people in my apartment complained that my filters were blocking something or other, so I just configure my own devices to point to Mullvad’s public DNS server.\nFor many years, Jellyfin alone was enough to satisfy my needs. Thankfully, around the end of last year, Spotify started to get bad. I don’t use Spotify, but my partner depends on it for music, podcasts, and audiobooks, despite my many attempts to convert him to open-source replacements. He likes the recommendations and auto-generated playlists and stuff.\nI seized the opportunity to look into ways of making the homelab accessible from outside the house, as well as expand its functionality beyond a mere media server. Since I’m a grad student now, something that was simple to set up was also ideal. I would love to run everything through podman, but I just don’t have the time to learn it.\nI considered using Tailscale to solve the remote access problem. This would work great to establish an encrypted connection between my partner’s device and the server, but it would be less than ideal for me. I use Mullvad VPN on my phone, and I would either have to annoyingly switch between VPNs or pay for Tailscale’s Mullvad integration, and neither of those options sounded very good.\nFor automatic software management, I looked into CasaOS and umbrelOS, both of which offer one-click installation of docker containers. Both are, however, developed specifically to sell their own hardware, so functionality on third party devices is somewhat limited, and this business model reminds me too much of Apple and leaves a bad taste in my mouth.\nIn the end, I settled on YunoHost, which is built on Debian Stable. It offers one-click installation and has a massive application catalog. It deploys native packages instead of docker containers, which I consider a slight downside, but it does have one standout feature that other options I considered lacked: built-in dynamic DNS. So long as I use one of their provided subdomains, the remote access problem is no longer a problem. Let’s Encrypt integration works out of the box, too. I just had to open ports 80 and 443 on my firewall to allow web traffic.\nI rather painlessly installed Jellyfin, audiobookshelf, and Nextcloud (my partner is always running out of storage on his phone), and everything has been running perfectly for a whole 24+ hours now. Huzzah.\nOf course, if you decide to use YunoHost, make sure to follow the security recommendations, beef up your firewall, and use encryption. Exposing your homelab to the public Internet carries additional risk.\nConclusion I have some ideas kicking around in my head for homelab improvements, but most of them require more money, space, and time than I’m willing to spend right now. The current setup is functional, but far from ideal. I’m not really much of a tech girlie, though. I consider tinkering more of a brain puzzle than a passion, like doing sudoku on the toilet to keep your mind sharp. So this will do for now.\n",
+  "wordCount" : "1008",
+  "inLanguage": "en",
+  "datePublished": "2025-05-02T14:52:51-04:00",
+  "dateModified": "2025-05-02T14:52:51-04:00",
+  "author":{
+    "@type": "Person",
+    "name": "Evelyn Park"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/posts/selfhost/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "evelyn park",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class=" dark" id="top">
+<script crossorigin="anonymous" src="/assets/js/theme.b20f95bb4da41ef90a2610a557a7000b2649a3f47282ec571676da6fc0427200.js" integrity="sha256-sg&#43;Vu02kHvkKJhClV6cACyZJo/RyguxXFnbab8BCcgA="></script>
+
+<header class="header">
+    <div id="progressBar"></div>
+    <nav class="nav">
+        <div class="logo">
+            <a href="/" accesskey="h" title="evelyn park (Alt + H)">evelyn park</a>
+            <div class="logo-switches">
+                <button type="button" id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                </ul>
+            </div>
+        </div>
+        <input name="hamburger-input" id="hamburger-input" type="checkbox" aria-label="Navigation Menu">
+        <label id="hamburger-menu" for="hamburger-input"></label>
+        <div class="overlay"></div>
+        <ul id="menu">
+            <li>
+                <a href="/about" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="/posts" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      My Homelab
+    </h1>
+    <div class="post-meta"><span title='2025-05-02 14:52:51 -0400 EDT'>May 2, 2025</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Evelyn Park
+
+</div>
+    <div class="post-meta">
+</div>
+  </header> <div class="toc side">
+    <details id="toc" >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#why" aria-label="Why?">Why?</a></li>
+                <li>
+                    <a href="#hardware" aria-label="Hardware">Hardware</a></li>
+                <li>
+                    <a href="#software" aria-label="Software">Software</a><ul>
+                        
+                <li>
+                    <a href="#operating-system" aria-label="Operating System">Operating System</a></li>
+                <li>
+                    <a href="#packages" aria-label="Packages">Packages</a></li></ul>
+                </li>
+                <li>
+                    <a href="#conclusion" aria-label="Conclusion">Conclusion</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><p>For a few years now, I&rsquo;ve been self-hosting a media server so I can stream my media collection.</p>
+<h2 id="why">Why?<a hidden class="anchor" aria-hidden="true" href="#why">#</a></h2>
+<p>The power consumption of running my own media server is minimal compared to the savings of cancelling Netflix, Max, Disney+, and Hulu. Also I like tinkering.</p>
+<h2 id="hardware">Hardware<a hidden class="anchor" aria-hidden="true" href="#hardware">#</a></h2>
+<p>Years ago, I bought a used Dell Optiplex from the local university&rsquo;s surplus store. It cost less than $100, and has been running for nearly a decade now. A hard drive was not included, so I bought a 1TB hard disk from the same place for an additional $15.</p>
+<p>After a couple years, that hard drive started making noises, which is the sign of immanent hard drive failure. I can&rsquo;t remember where I bought the replacement hard drive, but I found a 4TB for cheap on some website or other. Dell did a really nice job of making Optiplex machines easy to work on. The hard drive mount is nicely accessible, and it was laughably simple to install the replacement.</p>
+<p>A couple years ago, I <del>stole</del> acquired a used uninterruptible power supply (UPS) from my workplace. For some reason this three-employee small office had a Dell R760 server in the closet that was serving absolutely no purpose whatsoever except drawing a lot of power and making a lot of noise. The only thing running on it was a DHCP server, which was silly since the router it was plugged into had DHCP built in! I unplugged the server and the UPS somehow found its way into my car. My apartment loses power a lot, so this UPS has been a lifesaver.</p>
+<p>The Optiplex doesn&rsquo;t have a wifi chip, and I really don&rsquo;t care about wireless. I have an Ethernet cable running from my apartment&rsquo;s router to a TP-Link unmanaged switch, and cables running from the switch to my smart TV (I hate smart TVs but you can&rsquo;t hardly get dumb ones anymore), Optiplex, and two different desktops.</p>
+<p>Soon I&rsquo;ll add a proper hardware firewall running pfSense, but hardware is expensive, and a raspberry pi running OpenWrt will do for now.</p>
+<h2 id="software">Software<a hidden class="anchor" aria-hidden="true" href="#software">#</a></h2>
+<h3 id="operating-system">Operating System<a hidden class="anchor" aria-hidden="true" href="#operating-system">#</a></h3>
+<p>For the first couple of years, I was running Ubuntu Server. I have some philosophical disagreements with Canonical, though, so I switched to Debian and forced myself to learn how to copy my SSH key over and disable password authentication, which is really the only advantage Ubuntu had for my use-case. I installed <code>unattended-upgrades</code> so my system won&rsquo;t fall behind on critical security patches. Lately, I&rsquo;ve been considering trying to switch to <a href="https://github.com/ublue-os/ucore">ucore</a>, but that&rsquo;s going to require a whole lot of extra work and learning.</p>
+<h3 id="packages">Packages<a hidden class="anchor" aria-hidden="true" href="#packages">#</a></h3>
+<p>For a while, I was using Plex to serve media from the Optiplex to my TV. However, I found the ads annoying and generally prefer open-source software. I switched to <a href="https://jellyfin.org/">Jellyfin</a> as soon as I heard about it. Jellyfin is missing a couple of obscure features that Plex has, but I didn&rsquo;t use any of them.</p>
+<p>I have dabbled in pihole and Adguard Home, but the other people in my apartment complained that my filters were blocking something or other, so I just configure my own devices to point to <a href="https://mullvad.net/en/help/dns-over-https-and-dns-over-tls">Mullvad&rsquo;s public DNS server</a>.</p>
+<p>For many years, Jellyfin alone was enough to satisfy my needs. Thankfully, around the end of last year, Spotify started to get bad. I don&rsquo;t use Spotify, but my partner depends on it for music, podcasts, and audiobooks, despite my many attempts to convert him to open-source replacements. He likes the recommendations and auto-generated playlists and stuff.</p>
+<p>I seized the opportunity to look into ways of making the homelab accessible from outside the house, as well as expand its functionality beyond a mere media server. Since I&rsquo;m a grad student now, something that was simple to set up was also ideal. I would love to run everything through <a href="https://podman.io/">podman</a>, but I just don&rsquo;t have the time to learn it.</p>
+<p>I considered using <a href="https://tailscale.com/">Tailscale</a> to solve the remote access problem. This would work great to establish an encrypted connection between my partner&rsquo;s device and the server, but it would be less than ideal for me. I use Mullvad VPN on my phone, and I would either have to annoyingly switch between VPNs or pay for Tailscale&rsquo;s Mullvad integration, and neither of those options sounded very good.</p>
+<p>For automatic software management, I looked into <a href="https://casaos.zimaspace.com/">CasaOS</a> and <a href="https://umbrel.com/umbrelos">umbrelOS</a>, both of which offer one-click installation of docker containers. Both are, however, developed specifically to sell their own hardware, so functionality on third party devices is somewhat limited, and this business model reminds me too much of Apple and leaves a bad taste in my mouth.</p>
+<p>In the end, I settled on <a href="https://yunohost.org/">YunoHost</a>, which is built on Debian Stable. It offers one-click installation and has a massive application catalog. It deploys native packages instead of docker containers, which I consider a slight downside, but it does have one standout feature that other options I considered lacked: built-in dynamic DNS. So long as I use one of their provided subdomains, the remote access problem is no longer a problem. Let&rsquo;s Encrypt integration works out of the box, too. I just had to open ports 80 and 443 on my firewall to allow web traffic.</p>
+<p>I rather painlessly installed Jellyfin, <a href="https://www.audiobookshelf.org/">audiobookshelf</a>, and <a href="https://nextcloud.com/">Nextcloud</a> (my partner is always running out of storage on his phone), and everything has been running perfectly for a whole 24+ hours now. Huzzah.</p>
+<p>Of course, if you decide to use YunoHost, make sure to follow the security recommendations, beef up your firewall, and use encryption. Exposing your homelab to the public Internet carries additional risk.</p>
+<h2 id="conclusion">Conclusion<a hidden class="anchor" aria-hidden="true" href="#conclusion">#</a></h2>
+<p>I have some ideas kicking around in my head for homelab improvements, but most of them require more money, space, and time than I&rsquo;m willing to spend right now. The current setup is functional, but far from ideal. I&rsquo;m not really much of a tech girlie, though. I consider tinkering more of a brain puzzle than a passion, like doing sudoku on the toilet to keep your mind sharp. So this will do for now.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> Evelyn Park</span>
+    <span>
+        • Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer">Hugo</a> &
+        <a href="https://github.com/Wonderfall/hugo-WonderMod/" rel="noopener">WonderMod</a> 
+        • <a href="privacy" rel="noopener">Privacy</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+<script defer crossorigin="anonymous" src="/assets/js/papermod.7ea300eda6d3653624a576fbc095ccd8a0c2977756acbe5de4114132a72cc7fa.js" integrity="sha256-fqMA7abTZTYkpXb7wJXM2KDCl3dWrL5d5BFBMqcsx/o="></script>
+</body>
+
+</html>
