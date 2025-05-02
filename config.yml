@@ -1,8 +1,8 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "/"
-title: chava leah
-copyright: "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) chava leah"
+title: evelyn park
+copyright: "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Evelyn Park"
 # paginate: 5
 theme: [WonderMod]
 
@@ -45,8 +45,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "chava leah's personal site"
-  author: chava leah
+  description: "Evelyn Park's personal site"
+  author: Evelyn Park
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: dark
@@ -68,7 +68,7 @@ params:
 
   profileMode:
     enabled: true
-    title: chava leah
+    title: evelyn park
     subtitle: open humanities and pop culture analyses
     # imageUrl: "#"
     # imageTitle: my image
@@ -105,11 +105,11 @@ params:
 
     - name: email
       title: email
-      url: "mailto:chava@disroot.org"
+      url: "mailto:hello@evelynpark.com"
 
-    - name: pgpkey
-      title: PGP Public Key
-      url: "https://keys.openpgp.org/search?q=chava%40disroot.org"
+#    - name: pgpkey
+#      title: PGP Public Key
+#      url: "https://keys.openpgp.org/search?q=chava%40disroot.org"
 
     - name: liberapay
       title: LiberaPay
