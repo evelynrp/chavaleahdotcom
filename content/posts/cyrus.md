@@ -9,9 +9,9 @@ In answering this question, it seems to make sense to approach its various parts
 
 **Disclosure of possible bias:** the author is a Jew.
 
-# Early Israelite-Judean Presence in the Levant
+## Early Israelite-Judean Presence in the Levant
 
-## Merneptah
+### Merneptah
 
 The earliest extrabiblical textual evidence of a people group called Israel is the Merneptah Stele, unearthed in Thebes, Egypt, and dated to c. 1208 BCE. The last section of text on the stele celebrates Merneptah's military victories in Canaan:
 
@@ -28,11 +28,11 @@ The earliest extrabiblical textual evidence of a people group called Israel is t
 > All lands together are pacified.  
 > Everyone who was restless has been bound. (Chavalas et al.)
 
-## Conquest
+### Conquest
 
 Joshua 2-12 recounts the Israelites' invasion of Canaan and the complete annihilation of the Canaanites. This story is directly contradicted in later sections of Joshua, as well as in Judges and 2 Samuel. The invasion is also not supported archeologically: excavations of several cities named in Josh 2-12 show "no evidence of *extensive* conquest in thirteenth- and twelfth-century B.C.E. layers" (Hayes, 192). Jericho had been abandoned for two centuries at the time of the alleged conquest, so Joshua certainly did not miraculously take the city through magical circumambulations.
 
-## Immigration
+### Immigration
 
 The next few sections draw heavily from Gottwald.
 
@@ -40,21 +40,21 @@ One theory of Israelites' entry into Canaan is that they immigrated into un- or 
 
 This theory posits that Israel migrated into the Levant during this period from the east at the same time the Pelas moved in from the west via the Mediterranean. However, the archeological evidence does not support a theory of extensive Israelite migration into the Levant in the thirteenth century. Excavations of many sites listed in the biblical text do show new settlement, but these settlements' material culture is identical to that of other Canaanite settlements, with the exception of a startling lack of pig bones. This seems to suggest that these settlements were rather established by groups of Canaanites who had recently adopted a religious prohibition of consuming pork.
 
-## Revolution
+### Revolution
 
 Another theory is one of social revolution, and draws on textual evidence from the Amarna letters, government correspondence between Egypt and Canaan. In short, the letters describe a troublemaking group of social outcasts called the Habiru, who had a reputation as raiders, outlaws, and slaves. This theory posits that some Habirus escaped Egypt, settled in Canaan, and introduced the worship of their liberator god into the region. While this theory is attractive because of its consistency with the archeological continuity discussed above and its explanation of the origin of the Exodus story, the linguistic connection between "Habiru" and "Hebrew" is tenuous at best, and there is, as far as I can see, no material evidence to support it.
 
-## Gradual Emergence
+### Gradual Emergence
 
 The final theory of Israelite migration into the Levant is actually not one of migration at all. Rather, this theory posits that some Canaanites just decided to take up a new religion and started new settlements. These groups united into a loose confederation predicated on shared religious practice and eventually became Israel.
 
 Therefore, we can establish that, by the thirteenth century BCE, there was most likely a loose confederation of tribes or people groups, at least some of whom were known by the name Israel, who were united by a mono- or henotheistic worship of '' living in the Levant.
 
-## Monarchy
+### Monarchy
 
 There is some evidence that there was a historical Kingdom of Israel. The Tel Dan Stele and Mesha Stele both refer to the "House of David". Unlike the thirteenth century, there is ample evidence that *somebody* was developing an urban society in the Levant in the tenth century. Naturally, each archeological find is hotly debated, but the scholarly consensus seems to be that there probably was an Israelite kingdom or proto-kingdom, but that it was almost certainly not so large nor so unified as the biblical story claims.
 
-## The Babylonian Exile
+### The Babylonian Exile
 
 Of course, to establish the historicity of the Edict of Cyrus, we must first establish the historicity of the Babylonian Exile.
 
@@ -64,11 +64,11 @@ The Babylonian Chronicles corroborate a military campaign against Israel in 597:
 
 Archeological evidence supports the near-total destruction of Jerusalem in 587 and the deportation of at least 20,000 Judeans (also Finḳelshṭayn).
 
-# The Edict of Cyrus
+## The Edict of Cyrus
 
 All that to say that the Edict of Cyrus was almost certainly a real event; whether it applied to the Judeans is, however, up for debate.
 
-## The Cyrus Cylinder
+### The Cyrus Cylinder
 
 This baby is about as definitive as it gets.
 
@@ -82,7 +82,7 @@ Kuhrt points out two pieces of evidence that further flesh out the story of Cyru
 
 Therefore, my conclusion is that the Cyrus Cylinder almost definitely refers to an actual Edict that actually repatriated peoples and their gods to at least Sumer and Mesopotamia.
 
-## Ezra-Nehemiah
+### Ezra-Nehemiah
 
 I have to preface this section by stating that I have spent the last day poring over hundreds of pages of peer-reviewed arguments over Ezra-Nehemiah's authenticity and historicity. There is no consensus that I can discern. There's a lot of controversy over a very small amount of text. I will present the most interesting and compelling arguments here.
 
@@ -102,21 +102,21 @@ Ezra 6:10 gives Cyrus's motivation for allowing the Judeans to rebuild Jerusalem
 
 Thus far, the evidence suggests that the Edict, as presented in Ezra-Nehemiah, is plausibly authentic. We can't prove that it's authentic, but if it isn't, it's a pretty convincing imitation. This seems to be Blankenship's position, who argues that "Achaemenid strategies... are co-opted by the Jewish historian as well, and to some extent by the figures of Ezra and Nehemiah within the narrative... [T]he author of Ezra-Nehemiah... employs these authoritative Persian techniques, with guarantees of their power supplied both by literal Persian authorization and by the higher authority of YHWH, for the rhetorical purposes of asserting the self-determinacy and internal constitution of the Jewish Yehudite community after the return from Babylonia."
 
-## Obligatory Josephus Section
+### Obligatory Josephus Section
 
 The historicity of the Edict and return of Judeans to Judah is corroborated by Herodotus and Josephus, whom I consider to be *very poor historians*.
 
-## Trickle Theory
+### Trickle Theory
 
 Some sources suggested that the return from Babylon was not quite so dramatic and that it was a natural trickle of migration. Barring any substantial evidence for a significant wave of migration or for the authenticity of the Ezra-Nehemiah fragments, this is as good a theory as any.
 
 In any case, we can be pretty sure that the Judeans who were in Judah during the Roman occupation are the same ones who returned from Babylon, regardless of how much Cyrus did or did not have to do with it.
 
-## DNA
+### DNA
 
 The DNA evidence (Katsnelson) is pretty consistent with the gradual emergence model and confirms that modern Ashkenazi, Sephardi, and Mizrahi Jews all originate from the Levant.
 
-# Political Philosophy
+## Political Philosophy
 
 All history is politically motivated. Archeological digs only get funded if somebody thinks they'll like what they find. Archeological records are easily destroyed by bulldozers and tree-planting projects.
 
@@ -124,7 +124,7 @@ It can be argued from the above evidence that Jews are indigenous to the Levant.
 
 For a detailed discussion of the political philosophies surrounding Zionism, anti-Zionism, etc., I refer you to Chaim Gans's *A Political Theory for the Jewish People*.
 
-# Conclusion
+## Conclusion
 
 The Edict of Cyrus was most likely a real thing that happened.
 
