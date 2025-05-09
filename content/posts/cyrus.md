@@ -166,7 +166,7 @@ For my part, I agree with Samuel:
 >
 > The day will come when you cry out because of the king whom you yourselves have chosen; and the LORD will not answer you on that day.” (1 Samuel 8:11-18, JPS)
 
-# References
+## References
 
 Bickerman, E. J. (2007). Studies in Jewish and Christian History (2 vols): A New Edition in English including The God of the Maccabees, introduced by Martin Hengel, edited by Amram Tropper. BRILL. https://doi.org/10.1163/ej.9789004152946.i-1242
 
