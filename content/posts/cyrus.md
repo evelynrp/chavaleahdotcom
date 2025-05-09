@@ -187,3 +187,5 @@ Katsnelson, A. (2010). Jews worldwide share genetic ties. Nature, news.2010.277.
 Kuhrt, A. T. L. (1988). The Achaemenid Empire: A Babylonian perspective. Proceedings of the Cambridge Philological Society, 34, 60–76. https://doi.org/10.1017/S0068673500005058
 
 Pritchard, J. B., & Fleming, D. E. (Eds.). (2011). The ancient Near East: An anthology of texts and pictures. Princeton University Press.
+
+![A GIF of some dancing chasids.](https://media1.tenor.com/m/z9YZPQYbaukAAAAC/rabbi-jacob.gif)
