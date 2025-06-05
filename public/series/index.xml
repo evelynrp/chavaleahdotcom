@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Series on evelyn park</title>
-  <link rel="alternate" href="/series/" />
-  <link rel="self" href="/series/index.xml" />
+  <link rel="alternate" href="//localhost:1313/series/" />
+  <link rel="self" href="//localhost:1313/series/index.xml" />
   <subtitle>Recent content in Series on evelyn park</subtitle>
-  <id>/series/</id>
+  <id>//localhost:1313/series/</id>
   <generator uri="http://gohugo.io" version="0.147.3">Hugo</generator>
   <language>en</language>
   <updated>0001-01-01T00:00:00Z</updated>

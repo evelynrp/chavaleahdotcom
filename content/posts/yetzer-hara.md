@@ -1,6 +1,7 @@
 +++
 date = '2024-07-28T15:49:11-05:00'
 title = 'Coriolanus Snow and the yetzer hara'
+draft = true
 +++
 
 *This post is in progress and/or possibly abandoned.*
