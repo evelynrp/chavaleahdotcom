@@ -84,7 +84,7 @@ params:
 
   socialIcons:
     - name: codeberg
-      title: View Source on Codeberg
+      title: Codeberg
       url: "https://codeberg.org/evelyn/chavaleahdotcom"
     
     - name: mastodon
@@ -97,19 +97,31 @@ params:
 
     - name: signal
       title: Signal
-      url: "https://signal.me/#eu/MZjnJmOBH1hDGpLqknC1IhZ7_YkZOjHABJRlVORq5528QFDyMLBBNLRCIFCHgMye"
+      url: "https://signal.me/#eu/OPf1xKChtmAw59Z_PniqPIeQ-qjm4F09rglG7-hRFBLNTBxuDzVNib2eeRRaxJqQ"
 
     - name: matrix
       title: Matrix
       url: "https://matrix.to/#/@evelyn:unredacted.org"
 
-    - name: email
-      title: email
+    - name: tuta
+      title: "Tuta Mail"
       url: "mailto:hello@evelynpark.com"
 
-#    - name: pgpkey
-#      title: PGP Public Key
-#      url: "https://keys.openpgp.org/search?q=chava%40disroot.org"
+    - name: protonmail
+      title: "Proton Mail"
+      url: "havahleah@protonmail.com"
+    
+    - name: facebookmessenger
+      title: "Facebook Messenger"
+      url: "https://m.me/orangetowerphone"
+
+    - name: discord
+      title: Discord
+      url: "https://discord.com/users/1025102936512143403"
+
+    - name: whatsapp
+      title: WhatsApp
+      url: "https://wa.me/qr/XJFG6KH5GBW2F1"
 
     - name: liberapay
       title: LiberaPay
