@@ -66,6 +66,12 @@ In the next loop, Nadia sees him again at the same intersection.
 
 We next see Horse in her next loop, playfully swinging on the fence. It is very cute.
 
+Notice how Horse's physical appearance is strikingly similar to the Volsungasaga's description of Odin, the quintessential psychopomp of Northern Europe who harvests the souls of heroes and kings. He almost never appears in Midgard (earth, the mortal realm) except in the garb of a vagrant.
+
+While I find it unlikely that Horse is *intended* to be Odin-like here, he serves a similar function: that of a vagrant who facilitates a spiritual transformation. While the traditional psychopomp transforms the spirit from one of life to one of death, Horse puts Nadia's soul on the path from brokenness to healing (and, depending on your interpretation of the series finale, this may be the same thing).
+
+It is also possible that Horse is merely an example of "Wisdom from the Gutter": "You don't expect your average homeless person to want to talk, much less have a lesson they're prepared to teach you (that somehow specifically addresses your problem)" (TV Tropes).
+
 ### S01E02
 
 > Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity. (Ecclesiastes 1:2, KJV)
@@ -114,6 +120,8 @@ Cut to post-haircut. Horse holds up a tuft of severed hair.
 > HORSE: You see this? This is the old you. This is who you were day after day after day. But it's gone now. 'Cause this, this is the new you. Now you can be whoever you wanna be. (*Russian Doll*, S01E03)
 
 Nadia and Horse hunker down for the night and Nadia respawns in the bathroom having frozen to death. Nadia goes to the shelter to keep an eye on Horse's shoes. He warns her not to touch him while he sleeps because he's "got reflexes." Nadia prevents the theft. When Horse awakens the next morning he looks Nadia in the eye, announces that he wants to cut her hair, and trots out of the shelter without another word.
+
+Horse helps Nadia literally shed her old self, her baggage and trauma. The futility of life, especially life in the loop, suddenly takes a backseat to this simple selfless act of protecting Horse's shoes.
 
 ### S01E04
 
@@ -203,5 +211,7 @@ Cooper, R. M. (1978). *Psychopomps and Change-Agents, or Can Virtue Be Taught?* 
 Gray, J. M. (2017). *Vultures: Consumptions and Conjurings*. Rhetoric Society Quarterly, 47(3), 238–246. https://doi.org/10.1080/02773945.2017.1309907
 
 Jewish Publication Society. (1985). Tanakh: Torah, Nevi’im, Kethuvim; the new translation of The Holy Scriptures according to the traditional Hebrew text. The Jewish Publication Society.
+
+TV Tropes. (n.d.). Wisdom from the Gutter. TV Tropes. https://tvtropes.org/pmwiki/pmwiki.php/Main/WisdomFromTheGutter
 
 Wiktionary. (2024). *Psychopomp*. https://en.wiktionary.org/wiki/psychopomp
