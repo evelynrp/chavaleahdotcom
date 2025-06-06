@@ -85,7 +85,7 @@ params:
   socialIcons:
     - name: codeberg
       title: Codeberg
-      url: "https://codeberg.org/evelyn/chavaleahdotcom"
+      url: "https://codeberg.org/evelyn"
     
     - name: mastodon
       title: Mastodon
