@@ -97,7 +97,7 @@ params:
 
     - name: signal
       title: Signal
-      url: "https://signal.me/#eu/OPf1xKChtmAw59Z_PniqPIeQ-qjm4F09rglG7-hRFBLNTBxuDzVNib2eeRRaxJqQ"
+      url: "https://signal.me/#eu/EIGp_iW5dEkTDiM7keXRkcbEyiVMB6Vdf17tZTq4v2uQlNicnclKjb3qNkvMrxxL"
 
     - name: matrix
       title: Matrix
@@ -109,7 +109,7 @@ params:
 
     - name: protonmail
       title: "Proton Mail"
-      url: "hello@chavaleah.com"
+      url: "mailto:hello@chavaleah.com"
     
     - name: facebookmessenger
       title: "Facebook Messenger"
