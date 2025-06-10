@@ -1,396 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>evelyn park</title>
-  <link rel="alternate" href="/" />
-  <link rel="self" href="/index.xml" />
-  <subtitle>Recent content on evelyn park</subtitle>
-  <id>/</id>
-  <generator uri="http://gohugo.io" version="0.147.3">Hugo</generator>
-  <language>en</language>
-  <updated>2025-05-09T14:16:48-04:00</updated>
-  <author>
-    <name>Evelyn Park</name>
-    
-  </author>
-  <rights>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Evelyn Park</rights>
-      <entry>
-        <title>On the Historicity of the Edict of Cyrus</title>
-        <link rel="alternate" href="/posts/cyrus/" />
-        <id>/posts/cyrus/</id>
-        <published>2025-05-09T14:16:48-04:00</published>
-        <updated>2025-05-09T14:16:48-04:00</updated>
-        <summary type="html">&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Was the Edict of Cyrus a true historical event or a Biblical story? From what I can find, arguments on either side of that question are mostly propaganda in support of a political agenda for or against Zionism and claims of Jewish indigeneity to the Levant.&lt;/p&gt;
-&lt;p&gt;In answering this question, it seems to make sense to approach its various parts chronologically, so this essay will begin with a whirlwind overview of the evidence of Israelite-Judean presence in the Levant, then cover evidence for the historicity of the Edict of Cyrus, and finally briefly-but-not-really-at-all touch on claims of indigeneity and modern political philosophy as it applies to the modern state of Israel. Please feel free to skip around.&lt;/p&gt;</summary>
-          <content type="html"><![CDATA[<p><strong>Question:</strong> Was the Edict of Cyrus a true historical event or a Biblical story? From what I can find, arguments on either side of that question are mostly propaganda in support of a political agenda for or against Zionism and claims of Jewish indigeneity to the Levant.</p>
-<p>In answering this question, it seems to make sense to approach its various parts chronologically, so this essay will begin with a whirlwind overview of the evidence of Israelite-Judean presence in the Levant, then cover evidence for the historicity of the Edict of Cyrus, and finally briefly-but-not-really-at-all touch on claims of indigeneity and modern political philosophy as it applies to the modern state of Israel. Please feel free to skip around.</p>
-<p><strong>Disclosure of possible bias:</strong> the author is a Jew.</p>
-<h2 id="early-israelite-judean-presence-in-the-levant">Early Israelite-Judean Presence in the Levant</h2>
-<h3 id="merneptah">Merneptah</h3>
-<p>The earliest extrabiblical textual evidence of a people group called Israel is the Merneptah Stele, unearthed in Thebes, Egypt, and dated to c. 1208 BCE. The last section of text on the stele celebrates Merneptah&rsquo;s military victories in Canaan:</p>
-<blockquote>
-<p>The princes are prostrate, saying &lsquo;Peace!&rsquo;<br>
-Not one raises his head among the Nine Bows.<br>
-Desolation is for Tjehenu;<br>
-Hatti is pacified;<br>
-Plundered is the Canaan with every evil;<br>
-Carried off is Asqaluni;<br>
-Seized upon is Gezer;<br>
-Yanoam is made non-existent;<br>
-Israel is laid waste—its seed is no more;<br>
-Kharru has become a widow because of Egypt.<br>
-All lands together are pacified.<br>
-Everyone who was restless has been bound. (Chavalas et al.)</p></blockquote>
-<h3 id="conquest">Conquest</h3>
-<p>Joshua 2-12 recounts the Israelites&rsquo; invasion of Canaan and the complete annihilation of the Canaanites. This story is directly contradicted in later sections of Joshua, as well as in Judges and 2 Samuel. The invasion is also not supported archeologically: excavations of several cities named in Josh 2-12 show &ldquo;no evidence of <em>extensive</em> conquest in thirteenth- and twelfth-century B.C.E. layers&rdquo; (Hayes, 192). Jericho had been abandoned for two centuries at the time of the alleged conquest, so Joshua certainly did not miraculously take the city through magical circumambulations.</p>
-<h3 id="immigration">Immigration</h3>
-<p>The next few sections draw heavily from Gottwald.</p>
-<p>One theory of Israelites&rsquo; entry into Canaan is that they immigrated into un- or sparsely-populated regions of the hill country, avoiding fortified Canaanite cities, and slowly came to take over the whole territory. There was, indeed, a great deal of political upheaval at the time. The Mycenaean civilization, Trojan Wars, and Hittite invasion of Anatolia, coupled with Egypt&rsquo;s weakening grip on the region, resulted in significant migration into the Levant, especially from the Mediterranean (the &ldquo;Sea People&rdquo; who would become the Philistines were presumably Mediterranean refugees).</p>
-<p>This theory posits that Israel migrated into the Levant during this period from the east at the same time the Pelas moved in from the west via the Mediterranean. However, the archeological evidence does not support a theory of extensive Israelite migration into the Levant in the thirteenth century. Excavations of many sites listed in the biblical text do show new settlement, but these settlements&rsquo; material culture is identical to that of other Canaanite settlements, with the exception of a startling lack of pig bones. This seems to suggest that these settlements were rather established by groups of Canaanites who had recently adopted a religious prohibition of consuming pork.</p>
-<h3 id="revolution">Revolution</h3>
-<p>Another theory is one of social revolution, and draws on textual evidence from the Amarna letters, government correspondence between Egypt and Canaan. In short, the letters describe a troublemaking group of social outcasts called the Habiru, who had a reputation as raiders, outlaws, and slaves. This theory posits that some Habirus escaped Egypt, settled in Canaan, and introduced the worship of their liberator god into the region. While this theory is attractive because of its consistency with the archeological continuity discussed above and its explanation of the origin of the Exodus story, the linguistic connection between &ldquo;Habiru&rdquo; and &ldquo;Hebrew&rdquo; is tenuous at best, and there is, as far as I can see, no material evidence to support it.</p>
-<h3 id="gradual-emergence">Gradual Emergence</h3>
-<p>The final theory of Israelite migration into the Levant is actually not one of migration at all. Rather, this theory posits that some Canaanites just decided to take up a new religion and started new settlements. These groups united into a loose confederation predicated on shared religious practice and eventually became Israel.</p>
-<p>Therefore, we can establish that, by the thirteenth century BCE, there was most likely a loose confederation of tribes or people groups, at least some of whom were known by the name Israel, who were united by a mono- or henotheistic worship of &rsquo;&rsquo; living in the Levant.</p>
-<h3 id="monarchy">Monarchy</h3>
-<p>There is some evidence that there was a historical Kingdom of Israel. The Tel Dan Stele and Mesha Stele both refer to the &ldquo;House of David&rdquo;. Unlike the thirteenth century, there is ample evidence that <em>somebody</em> was developing an urban society in the Levant in the tenth century. Naturally, each archeological find is hotly debated, but the scholarly consensus seems to be that there probably was an Israelite kingdom or proto-kingdom, but that it was almost certainly not so large nor so unified as the biblical story claims.</p>
-<h3 id="the-babylonian-exile">The Babylonian Exile</h3>
-<p>Of course, to establish the historicity of the Edict of Cyrus, we must first establish the historicity of the Babylonian Exile.</p>
-<p>The Babylonian Chronicles corroborate a military campaign against Israel in 597:</p>
-<blockquote>
-<p>In the seventh year, in the month of Kislev, the king of Akkad mustered his troops, marched to the Hatti-land, and encamped against the City of Judah and on the ninth day of the month of Adar he seized the city and captured the king. He appointed there a king of his own choice and taking heavy tribute brought it back to Babylon. (Finḳelshṭayn)</p></blockquote>
-<p>Archeological evidence supports the near-total destruction of Jerusalem in 587 and the deportation of at least 20,000 Judeans (also Finḳelshṭayn).</p>
-<h2 id="the-edict-of-cyrus">The Edict of Cyrus</h2>
-<p>All that to say that the Edict of Cyrus was almost certainly a real event; whether it applied to the Judeans is, however, up for debate.</p>
-<h3 id="the-cyrus-cylinder">The Cyrus Cylinder</h3>
-<p>This baby is about as definitive as it gets.</p>
-<blockquote>
-<p>When I entered Babylon as a friend and (when) I established the seat of the government in the palace of the ruler under jubilation and rejoicing, Marduk, the great lord, [induced] the magnanimous inhabitants of Babylon [to love me], and I was daily endeavouring to worship him. My numerous troops walked around in Babylon in peace, I did not allow anybody to terrorize (any place) of the [country of Sumer] and Akkad. I strove for peace in Babylon and in all his (other) sacred cities. As to the inhabitants of Babylon, [who] against the will of the gods [had/were&hellip;, I abolished] the corvée (lit.: yoke) which was against their (social) standing. I brought relief to their dilapidated housing, putting (thus) an end to their (main) complaints. Marduk, the great lord, was well pleased with my deeds and sent friendly blessings to myself, Cyrus, the king who worships him, to Cambyses, my son, the offspring of [my] loins, as well as to all my troops, and we all [praised] his great [godhead] joyously, standing before him in peace.</p>
-<p>All the kings of the entire world from the Upper to the Lower Sea, those who are seated in throne rooms, (those who) live in other [types of buildings as well as] all the kings of the West land living in tents, brought their heavy tributes and kissed my feet in Babylon. (As to the region) from&hellip; as far as Ashur and Susa, Agade, Eshnunna, the towns Zamban, Me-Turnu, Der as well as the region of the Gutians, I returned to (these) sacred cities on the other side of the Tigris, the sanctuaries of which have been ruins for a long time, the images which (used) to ‘live therein and established for them permanent sanctuaries. I (also) gathered all their (former) inhabitants and returned (to them) their habitations. Furthermore, I resettled upon the command of Marduk, the great lord, all the gods of Sumer and Akkad whom Nabonidus has brought into Babylon to the anger of the lord of the gods, unharmed, in their (former) chapels, the places which make them happy.</p>
-<p>May all the gods whom I have resettled in their sacred cities ask daily Bel and Nebo for a long life for me and may they recommend me (to him); to Marduk, my lord, they may say this: “Cyrus, the king who worships you, and Cambyses, his son, &hellip; all of them I settled in a peaceful place&hellip; ducks and doves, &hellip; I endeavoured to fortify/repair their dwelling places&hellip; (Pritchard)</p></blockquote>
-<p>Kuhrt points out two pieces of evidence that further flesh out the story of Cyrus, one a chronicle covering the reign of Nabonidus of Babylon, and one a poem condemning Nabonidus and praising Cyrus. Kuhrt accepts the Cylinder&rsquo;s authenticity but questions the motives of the Cylinder and poem, which she sees as propaganda pieces to support Cyrus&rsquo;s rule. Her translation of a fragment of the chronicle supports her view: &ldquo;when Cyrus did battle&hellip; against the army of Akkad, the people of Akkad retreated. He (sc. Cyrus) carried off the plunder (and) slaughtered the people&rdquo;. For my part, it seems only natural for ancient sources to overly praise one&rsquo;s rulers and vilify one&rsquo;s enemies, and neither the negative Babylonian presentation nor the positive Persian presentation are striking evidence for anything in particular. More interesting is her claim that the Cylinder text echoes earlier texts from Merodach-Baladan II (721) and Sargon II (710), such that Cyrus&rsquo;s claim that he has been selected for rule by Marduk because of the previous king&rsquo;s oppressive rule had been in vogue since the 8th century. She cites the repatriation of peoples and their gods as the &ldquo;concrete expression&rdquo; of this divine restoration, but it&rsquo;s unclear to me if she means that the previous kings also had such a policy. Either way, this is either evidence that Cyrus had precedent for restoring resident aliens to their homes, and therefore he probably did, or evidence that this was merely a literary convention, and therefore he probably didn&rsquo;t. I think the former is more convincing.</p>
-<p>Therefore, my conclusion is that the Cyrus Cylinder almost definitely refers to an actual Edict that actually repatriated peoples and their gods to at least Sumer and Mesopotamia.</p>
-<h3 id="ezra-nehemiah">Ezra-Nehemiah</h3>
-<p>I have to preface this section by stating that I have spent the last day poring over hundreds of pages of peer-reviewed arguments over Ezra-Nehemiah&rsquo;s authenticity and historicity. There is no consensus that I can discern. There&rsquo;s a lot of controversy over a very small amount of text. I will present the most interesting and compelling arguments here.</p>
-<p>The question at hand is, as I see it, over whether Cyrus facilitated the return of the Judeans to Judah, and not over whether Cyrus specifically supported the construction of a temple on Zion, so we will skip past arguments that Ezra-Nehemiah reflect an anti-Samaritan bias and delegitimization of worship at Mount Gerizim.</p>
-<p>The Edict of Cyrus is presented in Ezra 1:2-4:</p>
-<blockquote>
-<p>Thus saith Cyrus king of Persia, The Lord God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah. Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the Lord God of Israel, (he is the God,) which is in Jerusalem. And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem. (KJV)</p></blockquote>
-<p>Whether this fragment is an actual Persian proclamation or only written in the style of one, there are some interesting features to point out. Cyrus refers to the &ldquo;Lord God of heaven&rdquo; and the &ldquo;Lord God of Israel&rdquo;, consistent with the Persian government&rsquo;s policy that &ldquo;Persian administration necessarily styled the deities of the subject peoples in agreement with the phraseology used by the latter&rdquo; (Bickerman). Contemporary known-authentic documents employ this technique when referring to Marduk, Sin, Neith, and Khnum.</p>
-<p>The translations make it rather confusing to figure out who is giving gold and silver to whom. At a glance, this looks reminiscent of the Hebrews <del>robbing</del> asking for gifts from the Egyptians on their way to the reed sea, but Bickerman proposes another reading. First, it is important to note that the Judeans maintained a distinct ethnic identity throughout the Exile. &ldquo;Among the ancients, a resident alien and his descendants preserved his original nationality indefinitely, unless he was admitted among the citizens&rdquo;<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and &ldquo;the Exiles formed communities under their own chiefs&hellip; Herodotus says that they lived in a village &lsquo;by themselves.&rsquo;&rdquo; Certainly, the construction of a historiography (Deut thru 2 Kings) that presented the destruction of Jerusalem as part of, and not contradictory to, the Covenant helped to maintain the Israelite-Judean religion in exile. In any case, Bickerman&rsquo;s analysis of the grammar in the Aramaic suggests that it is the Judeans who choose to remain in Babylon who are commanded to give gifts to those who are returning to Judah, to help them get established. A perfectly sound policy.</p>
-<p>Ezra 6:10 gives Cyrus&rsquo;s motivation for allowing the Judeans to rebuild Jerusalem: &ldquo;That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.&rdquo; This is perfectly in line with the text of the Cylinder.</p>
-<p>Thus far, the evidence suggests that the Edict, as presented in Ezra-Nehemiah, is plausibly authentic. We can&rsquo;t prove that it&rsquo;s authentic, but if it isn&rsquo;t, it&rsquo;s a pretty convincing imitation. This seems to be Blankenship&rsquo;s position, who argues that &ldquo;Achaemenid strategies&hellip; are co-opted by the Jewish historian as well, and to some extent by the figures of Ezra and Nehemiah within the narrative&hellip; [T]he author of Ezra-Nehemiah&hellip; employs these authoritative Persian techniques, with guarantees of their power supplied both by literal Persian authorization and by the higher authority of YHWH, for the rhetorical purposes of asserting the self-determinacy and internal constitution of the Jewish Yehudite community after the return from Babylonia.&rdquo;</p>
-<h3 id="obligatory-josephus-section">Obligatory Josephus Section</h3>
-<p>The historicity of the Edict and return of Judeans to Judah is corroborated by Herodotus and Josephus, whom I consider to be <em>very poor historians</em>.</p>
-<h3 id="trickle-theory">Trickle Theory</h3>
-<p>Some sources suggested that the return from Babylon was not quite so dramatic and that it was a natural trickle of migration. Barring any substantial evidence for a significant wave of migration or for the authenticity of the Ezra-Nehemiah fragments, this is as good a theory as any.</p>
-<p>In any case, we can be pretty sure that the Judeans who were in Judah during the Roman occupation are the same ones who returned from Babylon, regardless of how much Cyrus did or did not have to do with it.</p>
-<h3 id="dna">DNA</h3>
-<p>The DNA evidence (Katsnelson) is pretty consistent with the gradual emergence model and confirms that modern Ashkenazi, Sephardi, and Mizrahi Jews all originate from the Levant.</p>
-<h2 id="political-philosophy">Political Philosophy</h2>
-<p>All history is politically motivated. Archeological digs only get funded if somebody thinks they&rsquo;ll like what they find. Archeological records are easily destroyed by bulldozers and tree-planting projects.</p>
-<p>It can be argued from the above evidence that Jews are indigenous to the Levant. How does the concept of indigeneity apply outside geographically isolated populations who were colonized and subjugated by the West (e.g. the Americas, Australia, New Zealand)? Would a claim to indigeneity justify the reconquest of the land? Did and do the Jews need or deserve a homeland in the aftermath of the Holocaust? To what degree is Britain responsible for creating and abandoning the most half-baked attempt at creating a modern nation-state ever? Why couldn&rsquo;t the new Jewish state have been somewhere else? Does the liturgically preserved longing for Jerusalem preclude any other geography?</p>
-<p>For a detailed discussion of the political philosophies surrounding Zionism, anti-Zionism, etc., I refer you to Chaim Gans&rsquo;s <em>A Political Theory for the Jewish People</em>.</p>
-<h2 id="conclusion">Conclusion</h2>
-<p>The Edict of Cyrus was most likely a real thing that happened.</p>
-<p>Whether it applied to Judea is unclear, but the Judeans <em>did</em> return to Judea during Cyrus&rsquo;s reign, either by his invitation or via natural migration because he didn&rsquo;t stop them.</p>
-<p>Political philosophy isn&rsquo;t fun for me. One side claims Jews are indigenous to the Levant and therefore have a right to the land. The other side claims that Jews are just European converts and have no claim to the land. DNA says Jews definitely came from the Levant. Compassion says they don&rsquo;t have a right to the land. Holocaust trauma says they need the land, whether they have an ancestral claim to it or not.</p>
-<p>For my part, I agree with Samuel:</p>
-<blockquote>
-<p>וַיֹּ֕אמֶר זֶ֗ה יִֽהְיֶה֙ מִשְׁפַּ֣ט הַמֶּ֔לֶךְ אֲשֶׁ֥ר יִמְלֹ֖ךְ עֲלֵיכֶ֑ם אֶת־בְּנֵיכֶ֣ם יִקָּ֗ח וְשָׂ֥ם לוֹ֙ בְּמֶרְכַּבְתּ֣וֹ וּבְפָרָשָׁ֔יו וְרָצ֖וּ לִפְנֵ֥י מֶרְכַּבְתּֽוֹ׃</p>
-<p>He said, “This will be the practice of the king who will rule over you: He will take your sons and appoint them as his charioteers and horsemen, and they will serve as outrunners for his chariots.</p>
-<p>וְלָשׂ֣וּם ל֔וֹ שָׂרֵ֥י אֲלָפִ֖ים וְשָׂרֵ֣י חֲמִשִּׁ֑ים וְלַחֲרֹ֤שׁ חֲרִישׁוֹ֙ וְלִקְצֹ֣ר קְצִיר֔וֹ וְלַעֲשׂ֥וֹת כְּלֵֽי־מִלְחַמְתּ֖וֹ וּכְלֵ֥י רִכְבּֽוֹ׃</p>
-<p>He will appoint them as his chiefs of thousands and of fifties; or they will have to plow his fields, reap his harvest, and make his weapons and the equipment for his chariots.</p>
-<p>וְאֶת־בְּנוֹתֵיכֶ֖ם יִקָּ֑ח לְרַקָּח֥וֹת וּלְטַבָּח֖וֹת וּלְאֹפֽוֹת׃</p>
-<p>He will take your daughters as perfumers, cooks, and bakers.</p>
-<p>וְאֶת־שְׂ֠דֽוֹתֵיכֶ֠ם וְאֶת־כַּרְמֵיכֶ֧ם וְזֵיתֵיכֶ֛ם הַטּוֹבִ֖ים יִקָּ֑ח וְנָתַ֖ן לַעֲבָדָֽיו׃</p>
-<p>He will seize your choice fields, vineyards, and olive groves, and give them to his courtiers.</p>
-<p>וְזַרְעֵיכֶ֥ם וְכַרְמֵיכֶ֖ם יַעְשֹׂ֑ר וְנָתַ֥ן לְסָרִיסָ֖יו וְלַעֲבָדָֽיו׃</p>
-<p>He will take a tenth part of your grain and vintage and give it to his eunuchs and courtiers.</p>
-<p>וְֽאֶת־עַבְדֵיכֶם֩ וְֽאֶת־שִׁפְח֨וֹתֵיכֶ֜ם וְאֶת־בַּחוּרֵיכֶ֧ם הַטּוֹבִ֛ים וְאֶת־חֲמוֹרֵיכֶ֖ם יִקָּ֑ח וְעָשָׂ֖ה לִמְלַאכְתּֽוֹ׃</p>
-<p>He will take your male and female slaves, your choice young men,-a and your asses, and put them to work for him.</p>
-<p>צֹאנְכֶ֖ם יַעְשֹׂ֑ר וְאַתֶּ֖ם תִּֽהְיוּ־ל֥וֹ לַעֲבָדִֽים׃</p>
-<p>He will take a tenth part of your flocks, and you shall become his slaves.</p>
-<p>וּזְעַקְתֶּם֙ בַּיּ֣וֹם הַה֔וּא מִלִּפְנֵ֣י מַלְכְּכֶ֔ם אֲשֶׁ֥ר בְּחַרְתֶּ֖ם לָכֶ֑ם וְלֹא־יַעֲנֶ֧ה יְהֹוָ֛ה אֶתְכֶ֖ם בַּיּ֥וֹם הַהֽוּא׃</p>
-<p>The day will come when you cry out because of the king whom you yourselves have chosen; and the LORD will not answer you on that day.” (1 Samuel 8:11-18, JPS)</p></blockquote>
-<h2 id="references">References</h2>
-<p>Bickerman, E. J. (2007). Studies in Jewish and Christian History (2 vols): A New Edition in English including The God of the Maccabees, introduced by Martin Hengel, edited by Amram Tropper. BRILL. <a href="https://doi.org/10.1163/ej.9789004152946.i-1242">https://doi.org/10.1163/ej.9789004152946.i-1242</a></p>
-<p>Blankenship, S. (2024). Persian-Style Historiography in Ezra-Nehemiah. Journal of Biblical Literature, 143(4), 623–642. <a href="https://doi.org/10.15699/jbl.1434.2024.4">https://doi.org/10.15699/jbl.1434.2024.4</a></p>
-<p>Chavalas, M. W., Hasel, M. G., Hawkins, R. K., Hess, R. S., Hess, R. S., Klingbeil, G. A., Klingbeil, G. A., Master, D. M., Mazani, P., Ortiz, S. M., Ray Jr, P. J., Ray Jr., P. J., Velázquez Ii, E., Wood, B. G., &amp; Younger Jr, K. L. (Eds.). (2021). Critical Issues in Early Israelite History. Penn State University Press. <a href="https://doi.org/10.1515/9781575065984">https://doi.org/10.1515/9781575065984</a></p>
-<p>Finḳelshṭayn, Y., &amp; Silberman, N. A. (2002). The Bible unearthed: Archaeology’s new vision of ancient Israel and the origin of its sacred texts. Free Press.</p>
-<p>Gans, C. (2016). A Political Theory for the Jewish People: Three Zionist Narratives. Oxford University Press USA - OSO.</p>
-<p>Gottwald, N. K. (1999). The tribes of Yahweh: A sociology of the religion of liberated Israel, 1250-1050 BCE. Sheffield Academic Press.</p>
-<p>Hayes, C. E. (2012). Introduction to the Bible. Yale University Press.</p>
-<p>Katsnelson, A. (2010). Jews worldwide share genetic ties. Nature, news.2010.277. <a href="https://doi.org/10.1038/news.2010.277">https://doi.org/10.1038/news.2010.277</a></p>
-<p>Kuhrt, A. T. L. (1988). The Achaemenid Empire: A Babylonian perspective. Proceedings of the Cambridge Philological Society, 34, 60–76. <a href="https://doi.org/10.1017/S0068673500005058">https://doi.org/10.1017/S0068673500005058</a></p>
-<p>Pritchard, J. B., &amp; Fleming, D. E. (Eds.). (2011). The ancient Near East: An anthology of texts and pictures. Princeton University Press.</p>
-<p><img loading="lazy" src="https://media1.tenor.com/m/z9YZPQYbaukAAAAC/rabbi-jacob.gif" alt="A GIF of some dancing chasids."  />
-</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>Arguably, this is still the case today, at least to an extent and perhaps extralegally, and it has certainly been the case for Jews in Europe for the last thousand years, as evidenced by the blood libels, expulsions, pogroms, etc.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
-]]></content>
-      </entry>
-      <entry>
-        <title>Horse, hevel, and healing</title>
-        <link rel="alternate" href="/posts/horse/" />
-        <id>/posts/horse/</id>
-        <published>2025-01-04T15:40:10-05:00</published>
-        <updated>2025-01-04T15:40:10-05:00</updated>
-        <summary type="html">&lt;p&gt;&lt;em&gt;This post is in progress and/or possibly abandoned.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This essay hopes to establish the psychopompic fuction of Horse, the enigmatic homeless man in the 2019 Netflix series &lt;em&gt;Russian Doll&lt;/em&gt;. This essay treats the first season as a self-contained standalone story.&lt;/p&gt;
-&lt;h3 id=&#34;what-is-a-psychopomp&#34;&gt;What Is a Psychopomp?&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;psychopomp&lt;/strong&gt; (&lt;em&gt;plural&lt;/em&gt; &lt;strong&gt;psychopomps&lt;/strong&gt;)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;(&lt;em&gt;religion&lt;/em&gt;) A spirit, deity, person, etc., who guides the souls of the dead to the afterlife. (Wiktionary, 2024)&lt;/li&gt;
-&lt;/ol&gt;&lt;/blockquote&gt;
-&lt;p&gt;A psychopomp ferries the souls of the dead from this world to the next. The Egyptian Anubis, the Germanic Wotan/Woden/Odin, and our own Grim Reaper — death itself personified — fulfill this psychopompic function.&lt;/p&gt;</summary>
-          <content type="html"><![CDATA[<p><em>This post is in progress and/or possibly abandoned.</em></p>
-<h2 id="introduction">Introduction</h2>
-<p>This essay hopes to establish the psychopompic fuction of Horse, the enigmatic homeless man in the 2019 Netflix series <em>Russian Doll</em>. This essay treats the first season as a self-contained standalone story.</p>
-<h3 id="what-is-a-psychopomp">What Is a Psychopomp?</h3>
-<blockquote>
-<p><strong>psychopomp</strong> (<em>plural</em> <strong>psychopomps</strong>)</p>
-<ol>
-<li>(<em>religion</em>) A spirit, deity, person, etc., who guides the souls of the dead to the afterlife. (Wiktionary, 2024)</li>
-</ol></blockquote>
-<p>A psychopomp ferries the souls of the dead from this world to the next. The Egyptian Anubis, the Germanic Wotan/Woden/Odin, and our own Grim Reaper — death itself personified — fulfill this psychopompic function.</p>
-<blockquote>
-<p>Sigmund rose up, and sorrowed nigh to death over him; then he took the corpse in his arms and fared away to the wood, and went till he came to a certain firth; and there he saw a man in a little boat; and that man asked if he would be wafted by him over the firth, and he said yea thereto; but so little was the boat, that they might not all go in it at once, so the corpse was first laid therein, while Sigmund went by the firth-side. But therewith the boat and the man therein vanished away from before Sigmund&rsquo;s eyes. (Volsunga Saga, Ch. X)</p></blockquote>
-<p>Animals, too, may serve psychopompic functions. Odin was accompanied by two ravens, and, indeed, Germanic stories often set the scene for bloodshed by indicating the presence of hungry ravens and wolves on the soon-to-be battlefield, eagerly awaiting their next meal. This connection suggests that the above definition is perhaps too limited in scope. Carrion animals do not guide the souls of the dead, but rather guide the corpses of the dead in their transformation from useless, decaying matter. Psychopomps are functionally transformational.</p>
-<blockquote>
-<p>Vultures orient us toward death as material transformation in a way that cares little for its cause&hellip; The vulture is a species that the ancient Greeks identified as a psychopomp — an animal guide to the other side, a greeter at death&rsquo;s door, a harbinger of demise. (Gray, 2017)</p></blockquote>
-<p>If the vulture, raven, and wolf are psychopomps in the material sense, transforming dead <em>matter</em>, the function of the deity is <em>spiritual</em> transformation. Narratively this takes the form of a metaphysical journey. Charon ferries the soul across the River Styx. The Valkyrie carries the slain to Valhalla. But if we peek behind the metaphor, we can speculate that this spiritual transformation is one which prepares the soul for whatever comes next.</p>
-<blockquote>
-<p>Plato&rsquo;s dialogue, <em>Meno</em>, opens with this question by Meno: &ldquo;Can you tell me Socrates — is virtue something that can be taught? Or does it come by practice? Or is it neither teaching nor practice that gives it to a man but natural aptitude or something else?&rdquo;</p>
-<p>&hellip; Whatever else the question entails properly as a consideration, it is a question about <em>change</em>: Can one go from a condition of being unlearned to one of being taught?&hellip;</p>
-<p>Let us use one of Plato&rsquo;s own examples from the <em>Republic</em>, the allegory of the cave&hellip; Those who have managed to be freed from their fetters ascertain by the act of turning around from the wall where the shadows play that there is a source or a cause of the shadows. They can give themselves an adequate account (<em>logos</em>) of what they had seen, that the world of appearances is what they had known, and that world is henceforth known in terms of something else. When they make their way up out of the cave, coming to the surface of earth they — by practice now — are able to recognize their own and other images reflected in water by the light of the Sun&hellip; But what have they been taught? And by whom have they been taught?&hellip;</p>
-<p>The allegory, which I am so briefly sketching here does not end with the emergence upon the surface of earth of those hitherto bound. They go back down into the cave to show, or to teach or to invite into the practice they have learned, those who remain there bound. There is, then, a very important sense in which such &ldquo;teachers&rdquo; are a kind of &ldquo;psychopomp&rdquo; leading the fettered soul from darkness to light&hellip;</p>
-<p>Plato&rsquo;s psychopomps (my term, not Plato&rsquo;s) in his allegory of the cave show others where they have been and how they got there, even though they themselves do not <em>know</em> fully how they got there or even, indeed, where they arrived. They invite others into an activity. They invite others into a functioning freely — functioning freely, albeit alongside a dialectic (dia-logic) that is a <em>partial</em> account of what is happening to them. (Cooper, 1978)</p></blockquote>
-<p>It is impossible to know, and pointless to speculate, how accurately the allegory of the cave applies to death, but the point remains that we can think of posthumous education as part of the role of the psychopomp. The psychopomp invites the deceased into the activity of death, whatever that may entail.</p>
-<h2 id="russian-doll"><em>Russian Doll</em></h2>
-<h3 id="s01e01">S01E01</h3>
-<blockquote>
-<p>The tale tells that great fires were made endlong the hall, and the great tree aforesaid stood midmost thereof; withal folk say that, whenas men sat by the fires in the evening, a certain man came into the hall unknown of aspect to all men; and suchlike array he had, that over him was a spotted cloak, and he was bare-foot, and had linen-breeches knit tight even unto the bone, and he had a sword in his hand as he went up to the Branstock, and a slouched hat upon his head: huge he was, and seeming-ancient, and one-eyed. (Volsunga Saga, Ch. III)</p></blockquote>
-<p>When we first meet Horse, Nadia is leaving her birthday party with Mike. She sees Horse across the street, leaning against a fence, asking passersby if they have a quarter. Mike sees her staring and asks, &ldquo;Are you alright?&rdquo; to which Nadia replies, &ldquo;I think I know that guy.&rdquo;</p>
-<p>Later interactions with Horse will establish that she does not, in fact, know that guy.</p>
-<p>The camera turns back around to Horse who is getting a light from another passerby. He takes a long drag on his cigarette while he stands barefoot, staring directly at the camera.</p>
-<blockquote>
-<p><img loading="lazy" src="/horse01.webp" alt="Horse smoking"  />
-
-(<em>Russian Doll</em>, S01E01)</p></blockquote>
-<p>Minutes later, Nadia sees her missing cat, steps into the street to retrieve him, is hit by a cab, and dies for the first time.</p>
-<p>In the next loop, Nadia sees him again at the same intersection.</p>
-<blockquote>
-<p>NADIA: I think I know this guy. Hey! Do I know you?</p>
-<p>HORSE: What?</p>
-<p>NADIA: Do we know each other?</p>
-<p>HORSE: Fuck off. (<em>Russian Doll</em>, S01E01)</p></blockquote>
-<p>We next see Horse in her next loop, playfully swinging on the fence. It is very cute.</p>
-<p>Notice how Horse&rsquo;s physical appearance is strikingly similar to the Volsungasaga&rsquo;s description of Odin, the quintessential psychopomp of Northern Europe who harvests the souls of heroes and kings. He almost never appears in Midgard (earth, the mortal realm) except in the garb of a vagrant.</p>
-<p>While I find it unlikely that Horse is <em>intended</em> to be Odin-like here, he serves a similar function: that of a vagrant who facilitates a spiritual transformation. While the traditional psychopomp transforms the spirit from one of life to one of death, Horse puts Nadia&rsquo;s soul on the path from brokenness to healing (and, depending on your interpretation of the series finale, this may be the same thing).</p>
-<p>It is also possible that Horse is merely an example of &ldquo;Wisdom from the Gutter&rdquo;: &ldquo;You don&rsquo;t expect your average homeless person to want to talk, much less have a lesson they&rsquo;re prepared to teach you (that somehow specifically addresses your problem)&rdquo; (TV Tropes).</p>
-<h3 id="s01e02">S01E02</h3>
-<blockquote>
-<p>Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity. (Ecclesiastes 1:2, KJV)</p></blockquote>
-<blockquote>
-<p>Utter futility!—said Koheleth—<br>
-Utter futility! All is futile! (Ecclesiastes 1:2, JPS, 1985)</p></blockquote>
-<p>&ldquo;Vanity&rdquo; is an interesting translation choice. The Hebrew word is &ldquo;<em>hevel</em>&rdquo;, breath or vapor. <em>Hevel</em> is like a mist. You can see it, but when you reach out to grasp it your hand comes away empty. It is the illusion of substance, the promise of fulfillment. <em>Kohelet</em> laments that all is <em>hevel</em> because he has tried all things, virtue and vice alike, and found it all as impermanent as the morning fog.</p>
-<p>As Nadia struggles to confront her (im)mortality, she throws herself fully into her birthday party. We see a montage of heavy drinking and drug use until Nadia passes out on the couch. <em>Hevel</em>, <em>hevel</em>! All is <em>hevel</em>!</p>
-<h3 id="s01e03">S01E03</h3>
-<p>Nadia is wandering drunk through the park.</p>
-<blockquote>
-<p>HORSE: What&rsquo;s on your head? I said, what&rsquo;s on your head? Is that a wig or a hat?</p>
-<p>NADIA: Where&rsquo;s your shoes, man?</p>
-<p>HORSE: Mmm, someone stole them last night at the shelter, so I&rsquo;m not going back there, not ever. I don&rsquo;t sleep among thieves.</p>
-<p>NADIA: Man, someone stole your shoes? Hey, what the fuck is going on in America, huh? What&rsquo;s your name, do I know you?</p>
-<p>HORSE: No, you can call me Horse, if you want.</p>
-<p>NADIA: Alright, Horse, I&rsquo;m Nadia. You want some?</p>
-<p>HORSE: Can I tell you something?</p>
-<p>NADIA: Yeah. Yeah, yeah. Yeah, yeah. I&rsquo;m, mm, y&rsquo;know, I wouldn&rsquo;t tell me anything, you know, if I was you, because I&rsquo;m just not the kind of person that you tell secrets to. Uh, I&rsquo;m the abyss.</p>
-<p><em>They both laugh uproariously.</em></p>
-<p>HORSE: I wanna cut your hair. (<em>Russian Doll</em>, S01E03)</p></blockquote>
-<p>Nadia immediately agrees. As Horse prepares his tools, Nadia jokes, &ldquo;You&rsquo;re gonna kill me.&rdquo;</p>
-<p>&ldquo;I&rsquo;m not.&rdquo;</p>
-<p>&ldquo;You can change your mind.&rdquo;</p>
-<p>&ldquo;Okay,&rdquo; Horse says, brandishing his scissors.</p>
-<p>Cut to post-haircut. Horse holds up a tuft of severed hair.</p>
-<blockquote>
-<p>HORSE: You see this? This is the old you. This is who you were day after day after day. But it&rsquo;s gone now. &lsquo;Cause this, this is the new you. Now you can be whoever you wanna be. (<em>Russian Doll</em>, S01E03)</p></blockquote>
-<p>Nadia and Horse hunker down for the night and Nadia respawns in the bathroom having frozen to death. Nadia goes to the shelter to keep an eye on Horse&rsquo;s shoes. He warns her not to touch him while he sleeps because he&rsquo;s &ldquo;got reflexes.&rdquo; Nadia prevents the theft. When Horse awakens the next morning he looks Nadia in the eye, announces that he wants to cut her hair, and trots out of the shelter without another word.</p>
-<p>Horse helps Nadia literally shed her old self, her baggage and trauma. The futility of life, especially life in the loop, suddenly takes a backseat to this simple selfless act of protecting Horse&rsquo;s shoes.</p>
-<h3 id="s01e04">S01E04</h3>
-<p>Alan&rsquo;s approach to the time loop is to attempt to control every aspect of his day. When he meets Nadia, he learns that his control was an illusion. Confronted with his own powerlessness and the futility of his actions, he begins to fall apart, culminating with his breaking a mirror.</p>
-<h3 id="s01e05">S01E05</h3>
-<p>This episode is largely about Nadia failing to make amends with John by meeting Lucy and Alan failing to figure out why Beatrice cheated on him. None of it is terribly relevant to the current topic.</p>
-<h3 id="s01e06">S01E06</h3>
-<p>Nadia and Alan are at a bar. Alan notices Nadia&rsquo;s necklace.</p>
-<blockquote>
-<p>ALAN: That&rsquo;s pretty.</p>
-<p>NADIA: Oh, this, this was my mother&rsquo;s. It&rsquo;s a <em>krugerrand</em>. You know what that is?</p>
-<p>ALAN: May— No. No, I definitely don&rsquo;t.</p>
-<p>NADIA: It&rsquo;s a South African gold bullion. It goes for about, uh, $1,500 an ounce.</p>
-<p>ALAN: Whoa. Cool.</p>
-<p>NADIA: I told you my grandparents are Holocaust survivors, right?</p>
-<p>ALAN: No, we basically just met. I&rsquo;m sorry about—</p>
-<p>NADIA: It&rsquo;s not on you. Anyway, after the war, you know, most survivors were a little bit paranoid about putting their money in banks, so my grandparents acquired 150 of these babies, and then my mother, &lsquo;cause shes a fucking piece of work, she spent them all except for this one.</p></blockquote>
-<p>Nadia steals Alan&rsquo;s shoes and takes them to the park.</p>
-<blockquote>
-<p>NADIA: Hey. Hey, Horse. Hey, man. Uh&hellip; Uh, Nadia. Yeah. It&rsquo;s me, I&rsquo;m your friend. You gave me a haircut.</p>
-<p>HORSE: I don&rsquo;t know you.</p>
-<p>NADIA: All right, be cool, man. Look, look, look, what size are you?
-HORSE: What do you mean?</p>
-<p><em>(NADIA holds up the shoes.)</em></p>
-<p>HORSE: Come with me.</p>
-<p>NADIA: All right. Where the fuck are we going?</p>
-<p>HORSE: I got plants.</p>
-<p><em>(Cut to the two of them smoking and huffing glue)</em></p>
-<p>HORSE: I prefer casual acquaintances over closer relations, and strangers above everybody else, &lsquo;cause humanity&rsquo;s a fuck, man. I had this business partner once in the 90s when we were creating the dark web, and he got arrested because it was a scam and our government is a scam, and once I saw it was all just bullshit I just dropped out completely.</p>
-<p>NADIA: How do you know that you&rsquo;re real?</p>
-<p>HORSE: Huh?</p>
-<p>NADIA: Do you think that we need people to be, like, witnesses?</p>
-<p>HORSE: I&rsquo;m here. That&rsquo;s where you know. I&rsquo;m glad I lost everything. Technology, cryptocurrencies&hellip; It&rsquo;s all bullshit, man. You don&rsquo;t need any of that stuff. The more stuff you accumulate, the more space you take up. You know, people can&rsquo;t even pick me out of a lineup &lsquo;cause they don&rsquo;t remember me. I&rsquo;m a shadow, man.</p>
-<p>NADIA: I think I&rsquo;m a shadow now, too.</p>
-<p><em>(NADIA gives HORSE her necklace)</em></p>
-<p>HORSE: Is that real gold? Why?</p>
-<p>NADIA: It&rsquo;s too heavy. (<em>Russian Doll</em>, S01E06)</p></blockquote>
-<p>Horse teaches Nadia that things are immaterial. Wealth and possessions are nothing. The person in front of you, that&rsquo;s what&rsquo;s real. And in response, she gives Horse the symbol of her resentment toward her mother. She sheds it as she did her hair three episodes ago.</p>
-<h3 id="s01e07">S01E07</h3>
-<h3 id="s01e08">S01E08</h3>
-<blockquote>
-<p><img loading="lazy" src="/wildhuntofodin.webp" alt="The Wild Hunt of Odin"  />
-
-(Arbo, 1872)</p></blockquote>
-<blockquote>
-<p><img loading="lazy" src="/wildhuntofhorse.webp" alt="The Wild Hunt of Horse"  />
-
-(<em>Russian Doll</em>, S01E08)</p></blockquote>
-<h2 id="references">References</h2>
-<p>Anonymous. (n.d.). <em>Völsunga Saga</em>. <a href="https://www.gutenberg.org/files/1152/1152-h/1152-h.htm#link2HCH0001">https://www.gutenberg.org/files/1152/1152-h/1152-h.htm#link2HCH0001</a></p>
-<p>Arbo, P. N. (1872). <em>Åsgårdsreien (The Wild Hunt of Odin)</em>.</p>
-<p>Cooper, R. M. (1978). <em>Psychopomps and Change-Agents, or Can Virtue Be Taught?</em> Theology Today, 35(3), 285–291. <a href="https://doi.org/10.1177/004057367803500305">https://doi.org/10.1177/004057367803500305</a></p>
-<p>Gray, J. M. (2017). <em>Vultures: Consumptions and Conjurings</em>. Rhetoric Society Quarterly, 47(3), 238–246. <a href="https://doi.org/10.1080/02773945.2017.1309907">https://doi.org/10.1080/02773945.2017.1309907</a></p>
-<p>Jewish Publication Society. (1985). Tanakh: Torah, Nevi’im, Kethuvim; the new translation of The Holy Scriptures according to the traditional Hebrew text. The Jewish Publication Society.</p>
-<p>TV Tropes. (n.d.). Wisdom from the Gutter. TV Tropes. <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/WisdomFromTheGutter">https://tvtropes.org/pmwiki/pmwiki.php/Main/WisdomFromTheGutter</a></p>
-<p>Wiktionary. (2024). <em>Psychopomp</em>. <a href="https://en.wiktionary.org/wiki/psychopomp">https://en.wiktionary.org/wiki/psychopomp</a></p>
-]]></content>
-      </entry>
-      <entry>
-        <title>Orthopraxy, ethno-religions, and Jewish identity</title>
-        <link rel="alternate" href="/posts/orthopraxy/" />
-        <id>/posts/orthopraxy/</id>
-        <published>2024-04-25T15:48:04-05:00</published>
-        <updated>2024-04-25T15:48:04-05:00</updated>
-        <summary type="html">&lt;h2 id=&#34;nicea-canonization-and-the-aryan-heresy&#34;&gt;Nicea, canonization, and the Aryan Heresy&lt;/h2&gt;
-&lt;p&gt;In the middle of the 4th Century CE, in bustling Alexandria, Egypt, a presbyter name Arius argued that Jesus Christ was a &amp;ldquo;god from nothing&amp;rdquo;. He believed that Jesus was created &lt;em&gt;ex nihilo&lt;/em&gt;, from nothing, the same way that the rest of Creation was. While he may have believed Jesus was the Son of God, and was divine himself, he was not himself God, or made up of the same substance as God.&lt;/p&gt;</summary>
-          <content type="html"><![CDATA[<h2 id="nicea-canonization-and-the-aryan-heresy">Nicea, canonization, and the Aryan Heresy</h2>
-<p>In the middle of the 4th Century CE, in bustling Alexandria, Egypt, a presbyter name Arius argued that Jesus Christ was a &ldquo;god from nothing&rdquo;. He believed that Jesus was created <em>ex nihilo</em>, from nothing, the same way that the rest of Creation was. While he may have believed Jesus was the Son of God, and was divine himself, he was not himself God, or made up of the same substance as God.</p>
-<p>Arius and his followers became known as Arians, and they would spark a centuries-long conflict in the early Christian Church.</p>
-<p>Unfortunately for Arius, Alexandria was also home to a deacon by the name of Athanasius. Athanasius would dedicate his life to stamping out the Arian Heresy.</p>
-<p>Athanasius was a strong believer in the consubstantiality of God and Christ. He argued that God and Jesus were not only made up of the same stuff, but were co-eternal and co-equal. Jesus was not created, but existed alongside and as a part of God from the very beginning.</p>
-<p>The battle between Arius and Athanasius came to a head at the Council of Nicea in 325 CE, where Athanasius would succeed in persuading Church leadership to his view. Arius and his followers were successfully branded heretics. Still, popular support for Arianism was strong, and its supporters included Emperor Constantine the Great. It would take several more decades for the early Church to fully stamp out the Arian Heresy.</p>
-<p>The Council of Nicea was not only important for what it condemned, but for what it proclaimed. Out of the Council emerged two important cornerstones of world Christendom: the elevation of the books of John and Revelation, and the writing of the Nicene Creed.</p>
-<p>Contrary to popular belief, the Council of Nicea was not responsible for the canonization of the Christian Bible. The Roman Catholic Church would not declare an official canon until fifty years later at the Council of Rome in 382 CE, and most of the books adopted were already widely accepted and circulated throughout the early Church.</p>
-<p>In 140 CE, Marcion of Sinope drew up a list of texts which he considered canonical. Marcion&rsquo;s list included a good deal of the present-day New Testament canon, including Luke, Galatians, I and II Corinthians, Romans, I and II Thessalonians, Ephesians, Colossians, Philemon, and Philippians.</p>
-<p>In roughly 180 CE, Irenaeus advocated for the four-gospel canon and drew on all of the books in the present-day New Testament except Philemon, II Peter, III John, and Jude in his treatise <em>Against Heresies</em>.</p>
-<p>By 200 CE, Origen of Alexandria was (probably) using the same list of 27 books that we have today.</p>
-<p>Canonization took place gradually over centuries, and was influenced by what early Christians were <em>actually</em> reading and circulating. It was not imposed on the Church by its leaders, but was formulated from the bottom up before being officially accepted.</p>
-<p>The Council of Nicea did, however, put to rest much of the early Church&rsquo;s discomfort with the books of John and Revelation. The Gospel of John is the only Gospel not to follow the Synoptic formula and expresses many ideas which seem to align with gnosticism, another heresy the early Church worked hard to destroy. Revelation is a bizarre revenge fantasy about Jesus returning to lead his people in violent revolt against Rome, disguised as apocalypse literature (a genre of literature in which readers &ldquo;in the know&rdquo; were expected to unpack dense metaphors to uncover the true meaning of the text).</p>
-<p>They hardly seem to fit in with the rest of the New Testament canon, but Athanasius fought to defend them and to elevate them to stand on equal footing with the other books. They were perfect weapons against Arianism.</p>
-<p>The Gospel of John begins, &ldquo;In the beginning was the Word, and the Word was with God, and the Word was God&hellip; And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.&rdquo; Clearly Jesus was not created, but is co-eternal and co-equal with God! Likewise, the Book of Revelation is filled to the brim with colorful illustrations of Christ&rsquo;s divine nature and authority.</p>
-<p>So the Church leadership at the Council of Nicea reached consensus regarding the Arian Heresy and had Scripture to support their stance. For the sake of the unity of the Church, and to combat the spread of Arianism and other heretical ideas, they formulated the Nicene Creed.</p>
-<blockquote>
-<p>We believe in one God, the Father Almighty, Maker of all things visible and invisible.</p>
-<p>And in one Lord Jesus Christ, the Son of God, begotten of the Father [the only-begotten; that is, of the essence of the Father, God of God,] Light of Light, very God of very God, begotten, not made, consubstantial with the Father;</p>
-<p>By whom all things were made [both in heaven and on earth];</p>
-<p>Who for us men, and for our salvation, came down and was incarnate and was made man;</p>
-<p>He suffered, and the third day he rose again, ascended into heaven;</p>
-<p>From thence he shall come to judge the quick and the dead.</p>
-<p>And in the Holy Ghost.</p>
-<p>[But those who say: 'There was a time when he was not;' and 'He was not before he was made;' and 'He was made out of nothing,' or 'He is of another substance' or 'essence,' or 'The Son of God is created,' or 'changeable,' or 'alterable'&mdash; they are condemned by the holy catholic and apostolic Church.]</p></blockquote>
-<p>Thus was Christian orthodoxy born. Or, at least, codified.</p>
-<h2 id="orthodoxy-and-orthopraxy">Orthodoxy and orthopraxy</h2>
-<p>Orthodoxy, Greek for &ldquo;correct belief&rdquo;, has been baked into the fabric of the Western worldview for millennia. Most aspects of an individual&rsquo;s identity are defined by belief. A Christian believes in the divinity, death, and resurrection of Christ. An atheist believes that there is no God and that science and reason are the key to living a fulfilling moral life. A Democrat believes in using the power of government to aid and uplift marginalized groups. Republicans believe in individuals&rsquo; freedom to do as they please with their hard-earned resources without government interference. Some trans people believe that their gender is determined by their internal alignment with socially defined gender roles. Some gay people believe that their same-sex attraction is an intrinsic part of their identity as much as is their height, shoe size, or love of pizza (I am assuming, correctly, that loving pizza is a universal constant).</p>
-<p>Often, I am asked what Jews believe. Sometimes the question is asked by somebody who knows little about Judaism and is hoping to get a general sense for what Judaism is all about. Sometimes the question is more specific: &ldquo;What do Jews believe about such and such?&rdquo; Regardless, my answer is always the same, &ldquo;I don&rsquo;t know. Which Jews, and when, and where?&rdquo;</p>
-<p>Unlike so many Western religions, Judaism is not orthodoxic. Judaism is orthopraxic; it emphasizes correct action over correct belief. That makes talking about Jewish beliefs a little tricky.</p>
-<p>In general, Jews believe in one God. We say the <em>shema</em>, a prayer declaring the Oneness of God, multiple times a day. However, not all Jews believe in God. Many Jews lost their faith in God in the face of the Holocaust, and they are still Jewish. Some humanistic and secular Jews may not believe in God, and they are still Jewish. Some Jews are pantheists, believing that God is not a distinct entity but that all things are God, and they are still Jewish. I can generally count on a Chabadnik to have some <em>tefillin</em> I can borrow, but I can&rsquo;t as easily predict his thoughts, feelings, or beliefs beyond &ldquo;Yes, you should wrap <em>tefillin</em>.&rdquo;</p>
-<p>There have been some attempts to capture in writing the spirit of Jewish beliefs. The famous medieval rabbi Maimonides wrote one such list of <em>13 Principles of Faith</em>. However, we are pretty sure his list was an attempt to explain Judaism to non-Jews in the hopes that they would ease up a little on the Jewish community. It is not widely known or accepted by the majority of world Jewry, and is of extremely limited actual usefulness.</p>
-<p>Judaism as a religion is, instead, focused on observing the <em>mitzvot</em>, acts of religious observance commanded by God in the Torah. Some <em>mitzvot</em> are positive: you <em>should</em> give charity, or you <em>should</em> pray the <em>shema</em> before you go to sleep. Some <em>mitzvot</em> are negative: you <em>should not</em> work on the Sabbath, or you <em>should not</em> eat pork. There aren&rsquo;t any <em>mitzvot</em> telling Jews what they should or should not believe in, only what they should or should not do.</p>
-<p>A non-Jew said to Rabbi Hillel, &ldquo;I will convert to Judaism if you can teach me the whole of the Torah while I stand on one foot.&rdquo;</p>
-<p>Rabbi Hillel replied, &ldquo;What is hateful to you, do not do to another. That is the whole of the Torah. The rest is commentary. Go and study.&rdquo;</p>
-<p>Rabbi Akiva added, &ldquo;Love the other as you love yourself.&rdquo;</p>
-<p>The most repeated commandment in the Hebrew Bible is to be kind to the strangers, for you were strangers in Egypt and you know how it feels to be oppressed.</p>
-<p>Of course, not all Jews observe the <em>mitzvot</em>, or observe the <em>mitzvot</em> to various degrees. Plenty of Jews eat bacon or go to work on Friday, and they are still Jews. A child born to Jewish parents and raised in a Jewish household who chooses not to believe in God or to observe a single <em>mitzvot</em> is still a Jew.</p>
-<p>And if that&rsquo;s the case, what even is a Jew? Perhaps what makes a Jew is their genetic heritage&mdash;but converts can become Jews regardless of their genetic makeup. Maybe a Jew is simply somebody who observes a set of cultural practices, like eating matzo and lox&mdash;but matzo and lox are Ashkenazic customs, and Sephardi and Mizrahi Jews have their own, distinct sets of customs. The definition of a Jew gets muddier and muddier as you go!</p>
-<h2 id="ethno-religions">Ethno-religions</h2>
-<p>Here we come up against another limit of the Western worldview: the separation of the concepts of ethnicity, culture, and religion. Judaism is an ethno-religious group. Judaism is not <em>merely</em> an ethnic group, set of cultural practices, or religion. It is all three at once, with all three aspects being inextricable parts of the whole.</p>
-<p>All Jews are descendants of Abraham, Isaac, and Jacob (or descendants of the inhabitants of the Kingdom of Judah, which is about as far back as we can historically verify). Many are genetic descendants. Many married into the family. Some were adopted into the family through conversion. Although world Jewry has been broken up and scattered across the world, developing into a number of distinct Diaspora cultures, we are all still family. The food we eat might have different flavors or colors, but we observe the <em>kashrut</em> laws. We pray the same prayers in the same ancestral tongue. We observe the same <em>Shabbat</em>, read the same Torah, and argue in the same Talmudic idiom. As many differences as there are between different Jewish communities, there are more similarities. In this way, Judaism can be thought of as an ethnic group whose cultural heritage includes a common religious practice. In other words, Judaism is an ethno-religion.</p>
-<p>No wonder it&rsquo;s so much harder to convert to Judaism than many other religions! In order to become a Christian, one need only accept Jesus as the Christ and profess their faith. In order to convert to Islam, one need only profess their belief in Allah and the Prophet Muhammad. There are religious and cultural practices that one might be expected to adopt after conversion, but they are not crucial to religious identity.</p>
-<p>Converting to Judaism, however, requires a period of study supervised by a Rabbi, and the approval of a Rabbinical Court (<em>beit din</em>). The <em>beit din</em> might ask about your beliefs, but they will ask much more about your understanding of Jewish history, ritual, culture, practice, etc. It&rsquo;s less like converting to a religion, and more like seeking citizenship in a new country.</p>
-<p>Of course, Jewish identity has become increasingly more complicated since the establishment of the political State of Israel in 1948. A detailed discussion of Zionism and Israel is beyond the scope of the present essay. Various strands of Zionist thought have sought to replace Jewish religious identity with a secular, nationalist one, a strategy which the Israeli government has largely adopted. The Israeli government has also, in various ways, attempted to exercise control over Jewish religious life. Likewise, some religious sects have exerted disproportionate influence on Israeli policy. Discussion about Israel&rsquo;s role in Jewish life and identity has been ubiquitous, and sometimes heated, since the October 7th Hamas attack and Israel&rsquo;s military response; and, although the historical and political situation in the Levant is incredibly complicated, a sharp increase in global antisemitism and violent attacks against Diaspora Jews, has made taking a stance on Israel a matter of public safety for Diaspora communities.</p>
-<p>Jewish identity, like all identities, is complicated. It is especially so when approached from a Western, predominantly Christian worldview. We live in an age when social media amplifies the most alarmist and vitriolic opinions and extremist populist movements are sweeping across the United States and Europe. I hope that this essay will serve to foster some understanding between Americans and the Jews among them.</p>
-]]></content>
-      </entry>
-      <entry>
-        <title>About</title>
-        <link rel="alternate" href="/about/" />
-        <id>/about/</id>
-        <published>0001-01-01T00:00:00Z</published>
-        <updated>0001-01-01T00:00:00Z</updated>
-        <summary type="html">&lt;p&gt;Evelyn is a computer nerd, anthropologist, and archivist-in-training. She enjoys LCD Digimon toys, South Park, and Hegel.&lt;/p&gt;</summary>
-          <content type="html"><![CDATA[<p>Evelyn is a computer nerd, anthropologist, and archivist-in-training. She enjoys LCD Digimon toys, South Park, and Hegel.</p>
-]]></content>
-      </entry>
-      <entry>
-        <title>Local IT Support</title>
-        <link rel="alternate" href="/it-support/" />
-        <id>/it-support/</id>
-        <published>0001-01-01T00:00:00Z</published>
-        <updated>0001-01-01T00:00:00Z</updated>
-        <summary type="html">&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
-&lt;p&gt;Computers are confusing, and learning how to effectively set up and manage devices can take a long time. It doesn&amp;rsquo;t help that everything from your doorbell to your car is computerized, and a lot of the resources out there use specialized jargon that&amp;rsquo;s impossible to understand.&lt;/p&gt;
-&lt;p&gt;I offer IT Support services to friends and community members. I am a Google-certified IT Support Professional and have been CompTIA A+ certified.&lt;/p&gt;</summary>
-          <content type="html"><![CDATA[<h2 id="about">About</h2>
-<p>Computers are confusing, and learning how to effectively set up and manage devices can take a long time. It doesn&rsquo;t help that everything from your doorbell to your car is computerized, and a lot of the resources out there use specialized jargon that&rsquo;s impossible to understand.</p>
-<p>I offer IT Support services to friends and community members. I am a Google-certified IT Support Professional and have been CompTIA A+ certified.</p>
-<p>Luckily, I grew up in the &ldquo;computer age&rdquo; and have been deploying, hardening, and maintaining my own fleet of devices for over a decade (since I was 12 years old!). Whatever you&rsquo;re having issues with, I&rsquo;m at least moderately well-prepared to deal with it!</p>
-<h2 id="how-i-can-help">How I Can Help</h2>
-<ul>
-<li>Buying new computers or devices at a good price</li>
-<li>Setting up new devices</li>
-<li>Migrating from an old device to a new one</li>
-<li>Smart appliances</li>
-<li>Home automation</li>
-<li>Virus prevention and recovery</li>
-<li>Technological black magic and man-made horrors beyond your comprehension</li>
-</ul>
-<h2 id="money-talk">Money Talk</h2>
-<p>I don&rsquo;t do this for money, but because it&rsquo;s fun, I want to keep my skills sharp, and I want to give back to my community. That said, I don&rsquo;t charge for my services.</p>
-<p><strong>This is a pay-what-you-want service.</strong></p>
-<p>If I need to buy parts, I will charge you the <em>actual amount that I paid for them</em>.</p>
-<p>I accept most forms of payment, including cash, card, and cryptocurrency.</p>
-]]></content>
-      </entry>
-      <entry>
-        <title>Privacy</title>
-        <link rel="alternate" href="/privacy/" />
-        <id>/privacy/</id>
-        <published>0001-01-01T00:00:00Z</published>
-        <updated>0001-01-01T00:00:00Z</updated>
-        <summary type="html">&lt;p&gt;The author will not collect your data in any way.&lt;/p&gt;
-&lt;p&gt;This website is hosted by Cloudflare Pages. You can &lt;a href=&#34;https://www.cloudflare.com/privacypolicy/&#34;&gt;read Cloudflare&amp;rsquo;s Privacy Policy here&lt;/a&gt;.&lt;/p&gt;</summary>
-          <content type="html"><![CDATA[<p>The author will not collect your data in any way.</p>
-<p>This website is hosted by Cloudflare Pages. You can <a href="https://www.cloudflare.com/privacypolicy/">read Cloudflare&rsquo;s Privacy Policy here</a>.</p>
-]]></content>
-      </entry>
-
-</feed>
-
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on evelyn park</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on evelyn park</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 May 2025 14:16:48 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the Historicity of the Edict of Cyrus</title>
+      <link>//localhost:1313/posts/cyrus/</link>
+      <pubDate>Fri, 09 May 2025 14:16:48 -0400</pubDate>
+      <guid>//localhost:1313/posts/cyrus/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Was the Edict of Cyrus a true historical event or a Biblical story? From what I can find, arguments on either side of that question are mostly propaganda in support of a political agenda for or against Zionism and claims of Jewish indigeneity to the Levant.&lt;/p&gt;&#xA;&lt;p&gt;In answering this question, it seems to make sense to approach its various parts chronologically, so this essay will begin with a whirlwind overview of the evidence of Israelite-Judean presence in the Levant, then cover evidence for the historicity of the Edict of Cyrus, and finally briefly-but-not-really-at-all touch on claims of indigeneity and modern political philosophy as it applies to the modern state of Israel. Please feel free to skip around.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Horse, hevel, and healing</title>
+      <link>//localhost:1313/posts/horse/</link>
+      <pubDate>Sat, 04 Jan 2025 15:40:10 -0500</pubDate>
+      <guid>//localhost:1313/posts/horse/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post is in progress and/or possibly abandoned.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This essay hopes to establish the psychopompic fuction of Horse, the enigmatic homeless man in the 2019 Netflix series &lt;em&gt;Russian Doll&lt;/em&gt;. This essay treats the first season as a self-contained standalone story.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-a-psychopomp&#34;&gt;What Is a Psychopomp?&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;psychopomp&lt;/strong&gt; (&lt;em&gt;plural&lt;/em&gt; &lt;strong&gt;psychopomps&lt;/strong&gt;)&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;(&lt;em&gt;religion&lt;/em&gt;) A spirit, deity, person, etc., who guides the souls of the dead to the afterlife. (Wiktionary, 2024)&lt;/li&gt;&#xA;&lt;/ol&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;A psychopomp ferries the souls of the dead from this world to the next. The Egyptian Anubis, the Germanic Wotan/Woden/Odin, and our own Grim Reaper — death itself personified — fulfill this psychopompic function.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Orthopraxy, ethno-religions, and Jewish identity</title>
+      <link>//localhost:1313/posts/orthopraxy/</link>
+      <pubDate>Thu, 25 Apr 2024 15:48:04 -0500</pubDate>
+      <guid>//localhost:1313/posts/orthopraxy/</guid>
+      <description>&lt;h2 id=&#34;nicea-canonization-and-the-aryan-heresy&#34;&gt;Nicea, canonization, and the Aryan Heresy&lt;/h2&gt;&#xA;&lt;p&gt;In the middle of the 4th Century CE, in bustling Alexandria, Egypt, a presbyter name Arius argued that Jesus Christ was a &amp;ldquo;god from nothing&amp;rdquo;. He believed that Jesus was created &lt;em&gt;ex nihilo&lt;/em&gt;, from nothing, the same way that the rest of Creation was. While he may have believed Jesus was the Son of God, and was divine himself, he was not himself God, or made up of the same substance as God.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Evelyn is a computer nerd, anthropologist, and archivist-in-training. She enjoys LCD Digimon toys, South Park, and Hegel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Contact methods are sorted into tiers based on how likely I am to check for messages on that platform. Preference is given according to three criteria:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Whether the platform is open source.&lt;/li&gt;&#xA;&lt;li&gt;Whether the platform supports zero-access end-to-end encryption.&lt;/li&gt;&#xA;&lt;li&gt;Whether the platform is decentralized.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Please note that, due to uncertainty about the future of the Android Open Source Project, some contact methods may become unavailable in the future. For example, if it becomes the case that GrapheneOS is unable to continue development and no viable open source alternative presents itself, platforms tied to smartphone access such as Signal and WhatsApp may be dropped to Tier 4.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Local IT Support</title>
+      <link>//localhost:1313/it-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/it-support/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;p&gt;Computers are confusing, and learning how to effectively set up and manage devices can take a long time. It doesn&amp;rsquo;t help that everything from your doorbell to your car is computerized, and a lot of the resources out there use specialized jargon that&amp;rsquo;s impossible to understand.&lt;/p&gt;&#xA;&lt;p&gt;I offer IT Support services to friends and community members. I am a Google-certified IT Support Professional and have been CompTIA A+ certified.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>//localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;The author will not collect your data in any way.&lt;/p&gt;&#xA;&lt;p&gt;This website is hosted by Cloudflare Pages. You can &lt;a href=&#34;https://www.cloudflare.com/privacypolicy/&#34;&gt;read Cloudflare&amp;rsquo;s Privacy Policy here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

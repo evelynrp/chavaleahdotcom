@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Categories on evelyn park</title>
-  <link rel="alternate" href="/categories/" />
-  <link rel="self" href="/categories/index.xml" />
-  <subtitle>Recent content in Categories on evelyn park</subtitle>
-  <id>/categories/</id>
-  <generator uri="http://gohugo.io" version="0.147.3">Hugo</generator>
-  <language>en</language>
-  <updated>0001-01-01T00:00:00Z</updated>
-  <author>
-    <name>Evelyn Park</name>
-    
-  </author>
-  <rights>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Evelyn Park</rights>
-
-</feed>
-
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on evelyn park</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on evelyn park</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

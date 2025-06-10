@@ -49,7 +49,7 @@ Later interactions with Horse will establish that she does not, in fact, know th
 
 The camera turns back around to Horse who is getting a light from another passerby. He takes a long drag on his cigarette while he stands barefoot, staring directly at the camera.
 
-> ![Horse smoking](/horse01.webp)
+> ![Horse smoking](horse01.webp)
 > (*Russian Doll*, S01E01)
 
 Minutes later, Nadia sees her missing cat, steps into the street to retrieve him, is hit by a cab, and dies for the first time.
@@ -194,10 +194,10 @@ Horse teaches Nadia that things are immaterial. Wealth and possessions are nothi
 
 ### S01E08
 
-> ![The Wild Hunt of Odin](/wildhuntofodin.webp)
+> ![The Wild Hunt of Odin](wildhuntofodin.webp)
 > (Arbo, 1872)
 
-> ![The Wild Hunt of Horse](/wildhuntofhorse.webp)
+> ![The Wild Hunt of Horse](wildhuntofhorse.webp)
 > (*Russian Doll*, S01E08)
 
 ## References

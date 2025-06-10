@@ -1,3 +1,3 @@
-[submodule "themes/WonderMod"]
-	path = themes/WonderMod
-	url = https://github.com/Wonderfall/hugo-WonderMod
+[submodule "themes/hugo-jackman"]
+	path = themes/hugo-jackman
+	url = git@codeberg.org:evelyn/hugo-jackman
