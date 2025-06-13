@@ -2,11 +2,12 @@
 title: "Contact"
 ---
 
-Contact methods are sorted into tiers based on how likely I am to check for messages on that platform. Preference is given according to three criteria:
+Contact methods are sorted into tiers based on how likely I am to check for messages on that platform. Preference is given to platforms which:
 
-1. Whether the platform is open source.
-2. Whether the platform supports zero-access end-to-end encryption.
-3. Whether the platform is decentralized.
+1. are open source
+2. support zero-access end-to-end encryption
+3. are decentralized
+4. support mobile push notifications via websocket or UnifiedPush
 
 ## Tier 1: Most preferred, quickest response
 
@@ -25,7 +26,8 @@ Contact methods are sorted into tiers based on how likely I am to check for mess
 - [Discord](https://discordapp.com/users/1025102936512143403)
 - [Facebook Messenger](https://m.me/orangetowerphone)
 - [LINE](https://line.me/ti/p/GKe-WRZv2p)
-
-## Tier 4: Nightmare Tier. Please don't.
-
 - WhatsApp
+
+## Tier 4: Physically incapable of receiving
+
+- RCS
