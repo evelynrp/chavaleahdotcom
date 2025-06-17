@@ -25,23 +25,41 @@ A prerequisite question to consider is whether Jesus existed as a legitimate his
 
 The Gospel narratives are the strongest evidence for the existence of the historical Jesus, but there are a number of issues which prevent them from serving as definitive proof.
 
-> the New Testament contains contradictory historical accounts of various parts of early Christianity... The account of the birth of Jesus and the origins of his family provided by Matthew is totally different from that in Luke, and any harmonization cannot stand up to the standards of modern historiography. The different narratives of his resurrection appearances---who of his disciples claimed they had seen him, when, and where?---in Mark, Matthew, Luke, and Paul contradict one another. The New Testament is simply not a reliable source for the history of Jesus or early Christianity when taken at face value. (Martin, 2012)
+{{< epigraph pre="" cite="Martin, 2012" link="#references" >}}
+the New Testament contains contradictory historical accounts of various parts of early Christianity... The account of the birth of Jesus and the origins of his family provided by Matthew is totally different from that in Luke, and any harmonization cannot stand up to the standards of modern historiography. The different narratives of his resurrection appearances---who of his disciples claimed they had seen him, when, and where?---in Mark, Matthew, Luke, and Paul contradict one another. The New Testament is simply not a reliable source for the history of Jesus or early Christianity when taken at face value. (Martin, 2012)
+{{< /epigraph >}}
 
+{{< figure
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alexamenos_graffito.jpg/960px-Alexamenos_graffito.jpg"
+  class="class param"
+  type="margin"
+  title="Alexamenos graffiti."
+  label="alexamenos"
+  caption="Housed in the Pallatine Museum in Rome."
+  attr="Wikimedia."
+  attrlink="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alexamenos_graffito.jpg/960px-Alexamenos_graffito.jpg"
+  alt="A photo of the Alexamenos graffiti."
+  link="link"
+ >}}
 This is often the case with ancient historical sources. All sources are biased: the data a historian chooses to examine, the way they construct and present arguments, and the conclusions they draw are all interpretations the historian is making for the reader. Ancient writers and historians had no concept for historical accuracy in the modern sense; they were less concerned with preserving exact words, numbers, dates, and the like than they were with presenting an interpretation of events which would help the reader to make sense out of events.
 
 We do much the same today. If a child asks how electricity works, we answer with an interpretation. "There is power in the walls, and that power can travel through these wires, and that makes machines work." We might say something about the movement of electrons. What we don't do is hand the child a physics textbook and a stack of electrical diagrams. The ancient writer, of course, had no electrical diagrams! The number of men in an army had to be counted and relayed to the historian's ear, quotes and dialog were written from memory or else made up in such a way as to most accurately convey the intended message, and so on.
 
 Archeological evidence, that is contemporary material objects which have survived and been discovered and studied, is a different beast altogether. Pieces of pottery, statues, figurines, and graffiti do not often explain themselves. No historian or writer has preemptively interpreted them for us. It is up to the archeologist to examine material culture and figure out what an object meant, how it was used, or what social function it served.
 
-> ![Alexamenos graffiti](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alexamenos_graffito.jpg/960px-Alexamenos_graffito.jpg)
->
-> The Alexamenos graffiti, housed in the Pallatine Museum in Rome
-
 Possibly the oldest verifiable archeological evidence of the historical Jesus is the Alexamenos graffiti, dated to ca. 200 CE, depicting a horse-headed figure hanging from a cross with the caption "Alexamenos worships his god".
 
-> ![Alexamenos graffiti sketch](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AlexGraffito.svg/500px-AlexGraffito.svg.png)
->
-> A sketch of the Alexamenos graffiti (Lanciani, 2022)
+{{< figure
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AlexGraffito.svg/500px-AlexGraffito.svg.png"
+  class="class param"
+  title="Alexamenos graffiti."
+  label="alexamenos-sketch"
+  caption="Sketched to show details."
+  attr="Lanciani, 2022"
+  attrlink="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AlexGraffito.svg/500px-AlexGraffito.svg.png"
+  alt="A sketch of the Alexamenos graffiti."
+  link="link"
+ >}}
 
 This graffiti does less to prove that Jesus existed than it does to prove that the Jesus cult was active around 200 CE, over a century after Jesus's death.
 
@@ -73,7 +91,9 @@ As discussed above, there is no consensus over whether Jesus was a real historic
 
 Most readers are likely familiar with the Gospels' accounts of the trial and crucifixion of Jesus. Jesus is arrested, brought before the chief priests and accused, then brought before Pilate and tried, and then crucified. The Gospels generally give rather detailed accounts of these events. This is surprising, because, in all likelihood, none of these events took place!
 
-> Jesus was executed by crucifixion, which was a common method of torture and execution used by the Romans... So the execution of Jesus was a Roman affair, possibly with the cooperation of the Jewish leadership in Jerusalem. The Romans did not need to try a troublesome Jewish peasant in order to kill him. They tortured and crucified nameless lower-class people all the time. In order to get rid of Jesus, who had caused a disturbance in the temple, had made radical-sounding pronouncements and prophecies, and was rumored to have aspirations to kingship, the Romans would have simply taken him by force and crucified him the next day along with a few others they were getting rid of. There was no need for any trial, much less two or more before different "courts." It would have been more trouble than a Roman governor needed for the desired result. (Martin, 2012)
+{{< epigraph pre="" cite="Martin, 2012" link="#references" >}}
+Jesus was executed by crucifixion, which was a common method of torture and execution used by the Romans... So the execution of Jesus was a Roman affair, possibly with the cooperation of the Jewish leadership in Jerusalem. The Romans did not need to try a troublesome Jewish peasant in order to kill him. They tortured and crucified nameless lower-class people all the time. In order to get rid of Jesus, who had caused a disturbance in the temple, had made radical-sounding pronouncements and prophecies, and was rumored to have aspirations to kingship, the Romans would have simply taken him by force and crucified him the next day along with a few others they were getting rid of. There was no need for any trial, much less two or more before different "courts." It would have been more trouble than a Roman governor needed for the desired result.
+{{< /epigraph >}}
 
 ## References
 

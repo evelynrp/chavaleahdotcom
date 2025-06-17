@@ -132,16 +132,16 @@ enableRobotsTXT = true
     ## Comments configuration
     [params.comments]
         ## Disable comments (disable fediverse comments)
-        disabled = true
+        disabled = false
         ## Comment platform selection, currently only 'fediverse' is supported, further options to be determined
-        # platform = 'fediverse'
+        platform = 'fediverse'
 
     ## Fediverse integration settings
     [params.fediverse]
         ## Fediverse instance URL
-        # instance = 'example.com'
+        instance = 'tech.lgbt'
         ## Fediverse username
-        # username = 'username'
+        username = 'chava'
 
     ## Giscus integration settings
 #    [params.giscus]
@@ -195,11 +195,11 @@ enableRobotsTXT = true
     ## Search configuration
     [params.search]
         ## Enable search functionality, please index your site first
-        enable = false
+        enable = true
         ## Use pagefind search when javascript enabled, currently only 'pagefind' is supported, further options to be determined
         pagefind = true
         ## fallback searchbox when javascript disabled, currently the options limited to 'mojeek', otherwise duckduckgo will be used
-        # fallback = 'mojeek'
+        fallback = 'mojeek'
 
     ## Typography settings
     [params.typeface]

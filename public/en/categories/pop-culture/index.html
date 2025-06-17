@@ -13,6 +13,8 @@
 <link rel="alternate" hreflang="en" href="/en/post/horse/" title="English">
 
 
+        <link rel="me" href="https://tech.lgbt/@chava">
+    
     
     <!-- twitterCard -->
     
@@ -36,7 +38,7 @@
 
 
 
-        <link rel="stylesheet" href="/css/hugo-brewm.min.css" integrity="sha256-2bUqxDL9F1hj35mWxW8WWWvXYB1X5/mmQpsxmzATKgw=" crossorigin="anonymous">
+        <link rel="stylesheet" href="/css/hugo-brewm.min.css" integrity="sha256-TK14U9Uyy7I7vd1CuiA6YsfvUa9Q9iiWjIkpzB5aENE=" crossorigin="anonymous">
 
     <!-- css/inline.html -->
     <style>
@@ -101,7 +103,50 @@
                 </ul>
             </nav>
     </details>
-            
+            <!-- search.html -->
+<details id="has-search" class="presentation js-details" name="on-deck">
+    <summary class="on-deck srm" accesskey="q" aria-keyshortcuts="q">
+        <span class="t t2 srt">Search</span>
+    </summary>
+    
+        <!-- pagefind.html -->
+    <div id="search" class="on-hull">
+        <div role="presentation" class="screening js-cgpn"></div>
+    </div>
+    <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+    <script>
+        let pageFindInitialized = false;
+        const initPageFind = function(event) {
+            if (!pageFindInitialized) {
+                new PagefindUI({
+                    element: "#search",
+                    showImages: false,
+                    translations: {
+                        placeholder: "Search"
+                    }
+                });
+                pageFindInitialized = true;
+                document.removeEventListener('DOMContentLoaded', initPageFind);
+            }
+        };
+        document.addEventListener('DOMContentLoaded', initPageFind);
+    </script>
+        <noscript id="has-search-fallback" class="on-hull">
+                
+    <!-- mojeek.html -->
+    <form id="mojeek" class="form on-plank"
+        name="x" action="//www.mojeek.com/search"
+        role="search" aria-label="[i18n] searchMojeek">
+        <input type="hidden" value="" name="site"></input>
+        <input class="ldots form__input" type="search" placeholder="Search" name="q" role="searchbox"></input>
+        <button class="form__button" type="submit" aria-label="Search">
+            <img src="https://www.mojeek.com/logos/icon_cc_73x45.png" alt="" role="presentation" aria-hidden="true">
+        </button>
+    </form>
+    <div role="presentation" class="screening js-cgpn"></div>
+        </noscript>
+    
+</details>
             <!-- menu.html -->
             <!-- i18n.html -->
 
