@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Evelyn Park</title>
+    <link>/en/tags/</link>
+    <description>Recent Posts in Tags on Evelyn Park</description>
+    <generator>Hugo 0.147.3</generator>
+    <language>en-GB</language>
+    <managingEditor>Evelyn Park</managingEditor>
+    
+      <webMaster>Evelyn Park</webMaster>
+    <lastBuildDate>Tue, 17 Jun 2025 14:36:30 -0400</lastBuildDate>
+    <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History</title>
+      <link>/en/tags/history/</link>
+      <pubDate>Fri, 09 May 2025 14:16:48 -0400</pubDate>
+      <author>Evelyn Park</author>
+      <guid>/en/tags/history/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Judaism</title>
+      <link>/en/tags/judaism/</link>
+      <pubDate>Fri, 09 May 2025 14:16:48 -0400</pubDate>
+      <author>Evelyn Park</author>
+      <guid>/en/tags/judaism/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Anthropology</title>
+      <link>/en/tags/anthropology/</link>
+      <pubDate>Sat, 04 Jan 2025 15:40:10 -0500</pubDate>
+      <author>Evelyn Park</author>
+      <guid>/en/tags/anthropology/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Pop Culture</title>
+      <link>/en/tags/pop-culture/</link>
+      <pubDate>Sat, 04 Jan 2025 15:40:10 -0500</pubDate>
+      <author>Evelyn Park</author>
+      <guid>/en/tags/pop-culture/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Television</title>
+      <link>/en/tags/television/</link>
+      <pubDate>Sat, 04 Jan 2025 15:40:10 -0500</pubDate>
+      <author>Evelyn Park</author>
+      <guid>/en/tags/television/</guid>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>

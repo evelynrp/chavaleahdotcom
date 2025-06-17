@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blooming on Evelyn Park</title>
+    <link>//localhost:1313/en/stage/blooming/</link>
+    <description>Recent Posts in Blooming on Evelyn Park</description>
+    <generator>Hugo 0.147.3</generator>
+    <language>en-GB</language>
+    <managingEditor>Evelyn Park</managingEditor>
+    
+      <webMaster>Evelyn Park</webMaster>
+    <lastBuildDate>Tue, 17 Jun 2025 13:25:54 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/en/stage/blooming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Horse, hevel, and healing</title>
+      <link>//localhost:1313/en/post/horse/</link>
+      <pubDate>Sat, 04 Jan 2025 15:40:10 -0500</pubDate>
+      <author>Evelyn Park</author>
+      <guid>//localhost:1313/en/post/horse/</guid>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>

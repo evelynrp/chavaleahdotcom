@@ -1,0 +1,102 @@
+#[[main]]
+#  name       = 'Fork!'
+#  identifier = 'fork'
+# weight     = 3
+#  url        = 'https://github.com/foxihd/hugo-brewm'
+#  pre        = 'github'
+
+[[main]]
+  name       = 'About'
+  identifier = 'about'
+  url        = '/en/author/evelyn-park'
+  weight     = 1
+
+[[main]]
+  name       = 'RSS'
+  identifier = 'rss'
+  url        = '/en/index.xml'
+  weight     = 1
+  pre        = 'rss'
+
+#  [[main]]
+#    name       = 'A Series'
+#    identifier = 'series1'
+#    pageRef    = '/'
+#    parent     = 'series'
+#    Post       = 'Example with post/description'
+
+[[evelyn-park]]
+  name       = ''
+  identifier = 'mastodon'
+  url        = 'https://tech.lgbt/@chava'
+  weight     = 3
+  pre        = 'mastodon'
+
+[[evelyn-park]]
+  name       = ''
+  identifier = 'liberapay'
+  url        = 'https://liberapay.com/chava'
+  weight     = 3
+  pre        = 'liberapay'
+
+[[evelyn-park]]
+  name       = ''
+  identifier = 'signal'
+  url        = 'https://signal.me/#eu/v0EI1qGTZw9hIokYF4OVK965lKiPIN98J2oWYZkawaDTsJyNqVpDRLE9UTqn5Pe3'
+  weight     = 3
+  pre        = 'signal'
+
+[[evelyn-park]]
+  name       = ''
+  identifier = 'xmpp'
+  url        = 'xmpp:chava@disroot.org'
+  weight     = 3
+  pre        = 'xmpp'
+
+[[evelyn-park]]
+  name       = ''
+  identifier = 'email'
+  url        = 'mailto:hello@evelynpark.com'
+  weight     = 3
+  pre        = 'email'
+
+[[footer]]
+  name       = ''
+  identifier = 'mastodon'
+  url        = 'https://tech.lgbt/@chava'
+  weight     = 3
+  pre        = 'mastodon'
+
+[[footer]]
+  name       = ''
+  identifier = 'liberapay'
+  url        = 'https://liberapay.com/chava'
+  weight     = 3
+  pre        = 'liberapay'
+
+[[footer]]
+  name       = ''
+  identifier = 'signal'
+  url        = 'https://signal.me/#eu/v0EI1qGTZw9hIokYF4OVK965lKiPIN98J2oWYZkawaDTsJyNqVpDRLE9UTqn5Pe3'
+  weight     = 3
+  pre        = 'signal'
+
+[[footer]]
+  name       = ''
+  identifier = 'xmpp'
+  url        = 'xmpp:chava@disroot.org'
+  weight     = 3
+  pre        = 'xmpp'
+
+[[footer]]
+  name       = ''
+  identifier = 'email'
+  url        = 'mailto:hello@evelynpark.com'
+  weight     = 3
+  pre        = 'email'
+
+[[contrib]]
+  identifier = 'liberapay'
+  url        = 'https://liberapay.com/chava/'
+  name       = 'Sponsor me on Liberapay'
+  pre        = 'liberapay'

@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/it/author/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/author/" /><xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/author/" />
+    <xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/author/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/it/categories/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/categories/" /><xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/categories/" />
+    <xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/categories/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/it/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/" /><xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/" />
+    <xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/it/series/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/series/" /><xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/series/" />
+    <xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/series/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/it/stage/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/stage/" /><xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/stage/" />
+    <xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/stage/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/it/tags/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/tags/" /><xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/tags/" />
+    <xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/tags/" />
+  </url>
+</urlset>

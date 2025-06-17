@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logo on Evelyn Park</title>
+    <link>//localhost:1313/en/tags/logo/</link>
+    <description>Recent Posts in Logo on Evelyn Park</description>
+    <generator>Hugo 0.147.3</generator>
+    <language>en-GB</language>
+    <managingEditor>Evelyn Park</managingEditor>
+    
+      <webMaster>Evelyn Park</webMaster>
+    <lastBuildDate>Tue, 17 Jun 2025 13:17:44 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/en/tags/logo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure Logo and Accent Color</title>
+      <link>//localhost:1313/en/post/configure-logo-and-accent-color/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>Evelyn Park</author>
+      <guid>//localhost:1313/en/post/configure-logo-and-accent-color/</guid>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>

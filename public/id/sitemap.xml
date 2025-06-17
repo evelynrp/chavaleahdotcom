@@ -1,0 +1,58 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/id/author/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/author/" /><xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/author/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/author/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/id/categories/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/categories/" /><xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/categories/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/categories/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/id/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/" /><xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/id/stage/evergreen/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/stage/evergreen/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/id/stage/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/stage/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/stage/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/id/stage/budding/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/stage/budding/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/id/stage/seedling/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/stage/seedling/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/id/series/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/series/" /><xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/series/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/series/" />
+  </url>
+  <url>
+    <loc>//localhost:1313/id/tags/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-GB" href="//localhost:1313/en/tags/" /><xhtml:link rel="alternate" hreflang="it-IT" href="//localhost:1313/it/tags/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="//localhost:1313/id/tags/" />
+  </url>
+</urlset>
