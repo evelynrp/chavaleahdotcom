@@ -1,6 +1,11 @@
 
 {
     "nodes": [{
+                "id": "c6a82bc13d6caa63a7b2633015126766",
+                "title": "Jews and Jesus",
+                "permalink": "/en/post/jews-jesus/",
+                "type": "post"
+            },{
                 "id": "e01727593b69fe523dba0dd4ba892d1f",
                 "title": "On the Historicity of the Edict of Cyrus",
                 "permalink": "/en/post/cyrus/",
@@ -66,6 +71,19 @@
                         },
     ],
     "links": [
+            
+                    {
+                        "source": "c6a82bc13d6caa63a7b2633015126766",
+                        "target": "categories-judaism",
+                    },
+                    {
+                        "source": "c6a82bc13d6caa63a7b2633015126766",
+                        "target": "tags-judaism",
+                    },
+                    {
+                        "source": "c6a82bc13d6caa63a7b2633015126766",
+                        "target": "tags-history",
+                    },
             
                     {
                         "source": "e01727593b69fe523dba0dd4ba892d1f",
