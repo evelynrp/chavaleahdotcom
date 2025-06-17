@@ -25,7 +25,6 @@ Contact methods are sorted into tiers based on how likely I am to check for mess
 
 - [Discord](https://discordapp.com/users/1025102936512143403)
 - [Facebook Messenger](https://m.me/orangetowerphone)
-- [LINE](https://line.me/ti/p/GKe-WRZv2p)
 - WhatsApp
 
 ## Tier 4: Physically incapable of receiving
