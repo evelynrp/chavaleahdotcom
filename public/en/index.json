@@ -40,6 +40,12 @@
                             "type": "categories"
                         },
                         {
+                            "id": "series-judaism-for-gentiles",
+                            "title": "Judaism for Gentiles",
+                            "permalink": "/en/series/judaism-for-gentiles/",
+                            "type": "series"
+                        },
+                        {
                             "id": "tags-anthropology",
                             "title": "Anthropology",
                             "permalink": "/en/tags/anthropology/",
@@ -75,6 +81,10 @@
                     {
                         "source": "c6a82bc13d6caa63a7b2633015126766",
                         "target": "categories-judaism",
+                    },
+                    {
+                        "source": "c6a82bc13d6caa63a7b2633015126766",
+                        "target": "series-judaism-for-gentiles",
                     },
                     {
                         "source": "c6a82bc13d6caa63a7b2633015126766",

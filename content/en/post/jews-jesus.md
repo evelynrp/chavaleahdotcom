@@ -11,6 +11,7 @@ tags = ["judaism", "history"]
 categories = ["judaism"]
 stage = "seedling"
 cover = 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AlexGraffito.svg/800px-AlexGraffito.svg.png'
+series = 'Judaism for Gentiles'
 history = [
   {date = "2025-06-17", stage="seedling", author = "Evelyn Park", note = "Rough outline"},
 ]
