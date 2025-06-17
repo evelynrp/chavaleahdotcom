@@ -26,7 +26,7 @@ A prerequisite question to consider is whether Jesus existed as a legitimate his
 The Gospel narratives are the strongest evidence for the existence of the historical Jesus, but there are a number of issues which prevent them from serving as definitive proof.
 
 {{< epigraph pre="" cite="Martin, 2012" link="#references" >}}
-the New Testament contains contradictory historical accounts of various parts of early Christianity... The account of the birth of Jesus and the origins of his family provided by Matthew is totally different from that in Luke, and any harmonization cannot stand up to the standards of modern historiography. The different narratives of his resurrection appearances---who of his disciples claimed they had seen him, when, and where?---in Mark, Matthew, Luke, and Paul contradict one another. The New Testament is simply not a reliable source for the history of Jesus or early Christianity when taken at face value. (Martin, 2012)
+the New Testament contains contradictory historical accounts of various parts of early Christianity... The account of the birth of Jesus and the origins of his family provided by Matthew is totally different from that in Luke, and any harmonization cannot stand up to the standards of modern historiography. The different narratives of his resurrection appearances---who of his disciples claimed they had seen him, when, and where?---in Mark, Matthew, Luke, and Paul contradict one another. The New Testament is simply not a reliable source for the history of Jesus or early Christianity when taken at face value.
 {{< /epigraph >}}
 
 {{< figure
