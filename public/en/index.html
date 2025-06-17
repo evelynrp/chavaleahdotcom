@@ -164,25 +164,6 @@
     
         <!-- carousel.html -->
         <aside class="carousel">
-                <nav class="carousel__nav" aria-label="slides">
-                    <ul class="rounded invert" role="presentation">
-                            <li>
-                                <a href="#slide-1" role="button" aria-controls="slide-1">
-                                    <span>Contact</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#slide-2" role="button" aria-controls="slide-2">
-                                    <span>Local IT Support</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#slide-3" role="button" aria-controls="slide-3">
-                                    <span>RSS Feed</span>
-                                </a>
-                            </li>
-                    </ul>
-                </nav>
 
             <div class="carousel__viewport">
                     <section id="slide-1" class="carousel__viewport__slide"
@@ -222,6 +203,12 @@
 
                             </div>
                         </div>
+                            <nav class="carousel__nav">
+                                    
+                                        <a href="#slide-2" rel="next" class="underline" role="button" aria-controls="slide-2">
+                                            <span>Local IT Support</span>
+                                        </a>
+                            </nav>
                     </section>
                     <section id="slide-2" class="carousel__viewport__slide"
                         aria-labelledby="slide-2__heading">
@@ -249,74 +236,12 @@
 
                             </div>
                         </div>
-                    </section>
-                    <section id="slide-3" class="carousel__viewport__slide"
-                        aria-labelledby="slide-3__heading">
-                        <div class="carousel__viewport__slide__content ">
-                                <h1 id="slide-3__heading" class="section-title">RSS Feed</h1>
-                            <div>
+                            <nav class="carousel__nav">
                                     
-        <div role="feed" aria-busy="false">
-                <article class="feed-item">
-                    <hgroup>
-                        <div><span>Evelyn Park </span><div><time datetime="Tue, 17 Jun 2025 00:00:00 &#43;0000">Tue, 17 Jun 2025</time></div>
-                        </div>
-                        <a href="/en/post/jews-jesus/" tabindex="-1"><h1>Jews and Jesus</h1></a>
-                    </hgroup>
-                    <a class="underline" href="/en/post/jews-jesus/" aria-label="Jews and Jesus"></a>
-                    
-                    <section class="has-cover">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AlexGraffito.svg/800px-AlexGraffito.svg.png" alt="Jews and Jesus" loading="lazy" />
-                        <div class="par"><h2 id="welcome">Welcome!</h2>
-<p>This is Evelyn Park&rsquo;s digital garden. Feel free to take a look around.</p></div>
-                    </section>
-                </article><hr class="ldots" role="presentation" aria-hidden="true">
-                <article class="feed-item">
-                    <hgroup>
-                        <div><span>Evelyn Park </span><div><time datetime="Fri, 09 May 2025 14:16:48 -0400">Fri, 09 May 2025</time></div>
-                        </div>
-                        <a href="/en/post/cyrus/" tabindex="-1"><h1>On the Historicity of the Edict of Cyrus</h1></a>
-                    </hgroup>
-                    <a class="underline" href="/en/post/cyrus/" aria-label="On the Historicity of the Edict of Cyrus"></a>
-                    
-                    <section class="has-cover">
-                            <img src="https://images.metmuseum.org/CRDImages/es/original/SF48_68_img3.jpg" alt="On the Historicity of the Edict of Cyrus" loading="lazy" />
-                        <div class="par"><h2 id="welcome">Welcome!</h2>
-<p>This is Evelyn Park&rsquo;s digital garden. Feel free to take a look around.</p></div>
-                    </section>
-                </article><hr class="ldots" role="presentation" aria-hidden="true">
-                <article class="feed-item">
-                    <hgroup>
-                        <div><span>Evelyn Park </span><div><time datetime="Sat, 04 Jan 2025 15:40:10 -0500">Sat, 04 Jan 2025</time></div>
-                        </div>
-                        <a href="/en/post/horse/" tabindex="-1"><h1>Horse, hevel, and healing</h1></a>
-                    </hgroup>
-                    <a class="underline" href="/en/post/horse/" aria-label="Horse, hevel, and healing"></a>
-                    
-                    <section class="has-cover">
-                            <img src="https://image.tmdb.org/t/p/original/4WijEAbnGMJifP6uepGALci3Jf.jpg" alt="Horse, hevel, and healing" loading="lazy" />
-                        <div class="par"><h2 id="welcome">Welcome!</h2>
-<p>This is Evelyn Park&rsquo;s digital garden. Feel free to take a look around.</p></div>
-                    </section>
-                </article><hr class="ldots" role="presentation" aria-hidden="true">
-                <article class="feed-item">
-                    <hgroup>
-                        <div><span>Evelyn Park </span><div><time datetime="Thu, 25 Apr 2024 15:48:04 -0500">Thu, 25 Apr 2024</time></div>
-                        </div>
-                        <a href="/en/post/orthopraxy/" tabindex="-1"><h1>Orthopraxy, ethno-religions, and Jewish identity</h1></a>
-                    </hgroup>
-                    <a class="underline" href="/en/post/orthopraxy/" aria-label="Orthopraxy, ethno-religions, and Jewish identity"></a>
-                    
-                    <section class="has-cover">
-                            <img src="https://static.timesofisrael.com/atlantajewishtimes/uploads/2020/05/merlin_171190755_505f0a2d-d87d-4345-9e4f-1321bd167096-superJumbo.jpg" alt="Orthopraxy, ethno-religions, and Jewish identity" loading="lazy" />
-                        <div class="par"><h2 id="welcome">Welcome!</h2>
-<p>This is Evelyn Park&rsquo;s digital garden. Feel free to take a look around.</p></div>
-                    </section>
-                </article>
-        </div>
-
-                            </div>
-                        </div>
+                                        <a href="#slide-1" rel="prev" class="underline" role="button" aria-controls="slide-1">
+                                            <span>Contact</span>
+                                        </a>
+                            </nav>
                     </section>
             </div>
         </aside>
@@ -368,7 +293,7 @@
             <!-- taxonomies.html -->
         <ul class="carousel__viewport" role="presentation">
             
-                    <li class="srs" style="--img: url(https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/2.svg);">
+                    <li class="srs" style="--img: url(https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/6.svg);">
                         <a href="/en/series/judaism-for-gentiles/"
                             aria-label="Series: Judaism for Gentiles"
                             aria-description="1 Post"
