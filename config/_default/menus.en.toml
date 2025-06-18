@@ -41,6 +41,13 @@
 
 [[evelyn-park]]
   name       = ''
+  identifier = 'patreon'
+  url        = 'https://patreon.com/evelynpark'
+  weight     = 3
+  pre        = 'patreon'
+
+[[evelyn-park]]
+  name       = ''
   identifier = 'signal'
   url        = 'https://signal.me/#eu/v0EI1qGTZw9hIokYF4OVK965lKiPIN98J2oWYZkawaDTsJyNqVpDRLE9UTqn5Pe3'
   weight     = 3
@@ -66,6 +73,13 @@
   url        = 'https://tech.lgbt/@chava'
   weight     = 3
   pre        = 'mastodon'
+
+[[footer]]
+  name       = ''
+  identifier = 'patreon'
+  url        = 'https://patreon.com/evelynpark'
+  weight     = 3
+  pre        = 'patreon'
 
 [[footer]]
   name       = ''
@@ -96,7 +110,7 @@
   pre        = 'email'
 
 [[contrib]]
-  identifier = 'liberapay'
-  url        = 'https://liberapay.com/chava/'
-  name       = 'Sponsor me on Liberapay'
-  pre        = 'liberapay'
+  identifier = 'patreon'
+  url        = 'https://patreon.com/evelynpark'
+  name       = 'Patronize me on Patreon!'
+  pre        = 'patreon'
