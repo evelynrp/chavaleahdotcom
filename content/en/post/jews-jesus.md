@@ -14,6 +14,7 @@ cover = 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AlexGraffito.
 series = 'Judaism for Gentiles'
 history = [
   {date = "2025-06-17", stage="seedling", author = "Evelyn Park", note = "Rough outline and Martin text"},
+  {date = "2025-06-18", stage="seedling", author = "Evelyn Park", note = "Talmud"},
 ]
 +++
 
@@ -64,6 +65,31 @@ This graffiti does less to prove that Jesus existed than it does to prove that t
 We will save the analysis of the Gospel accounts for the next section. Right now, it's enough for us to say that there is not enough solid evidence to establish the existence of a historical Jesus of Nazareth.
 
 ### Rabbinic Period
+
+{{< marginpar >}}Yeshua is the Hebrew equivalent of Joshua. On that note, Christ is Greek for Messiah, which means "annointed one", so Jesus Christ could be translated as "Oily Josh".{{< /marginpar >}}
+There is little to no Talmudic literature which deals with Jesus directly. There are a handful of references that seem to point to Jesus, but there is no consensus, and Yeshua was an unfortunately common name. All the same, we will examine a few examples.
+
+{{< epigraph pre="Koren-Steinsaltz (2012). The William Davidson Talmud. Sanhedrin 43a. " cite="https://www.sefaria.org/Sanhedrin.43a?lang=bi" link="https://www.sefaria.org/Sanhedrin.43a?lang=bi" >}}
+On Passover Eve they hung the corpse of Jesus the Nazarene after they killed him by way of stoning. And a crier went out before him for forty days, publicly proclaiming: Jesus the Nazarene is going out to be stoned because he practiced sorcery, incited people to idol worship, and led the Jewish people astray. Anyone who knows of a reason to acquit him should come forward and teach it on his behalf. And the court did not find a reason to acquit him, and so they stoned him and hung his corpse on Passover eve.
+
+Ulla said: And how can you understand this proof? Was Jesus the Nazarene worthy of conducting a search for a reason to acquit him? He was an inciter to idol worship, and the Merciful One states with regard to an inciter to idol worship: “Neither shall you spare, neither shall you conceal him” (Deuteronomy 13:9). Rather, Jesus was different, as he had close ties with the government, and the gentile authorities were interested in his acquittal. Consequently, the court gave him every opportunity to clear himself, so that it could not be claimed that he was falsely convicted.
+{{< /epigraph >}}
+
+This passage is actually dealing with the rights of the accused to have a crier go out before his execution to seek proof of his innocence, an ancient sort of due process. The Jesus in this story is accused of inciting people to worship idols, a crime which would normally result in his forfeiting this right. The Rabbis clarify that he was given this right anyway because the Gentile authorities did not want him executed, making it easier to send a crier than to deal with the Roman government.
+
+The account of this Jesus the Nazarene's execution does not match the Gospel narratives in any way. This Jesus is stoned rather than crucified, and while the Gospels' Jesus is executed by the Roman state, this Jesus is apparently on such good terms with the Roman state that they have a vested interest in his acquittal. So is this the same Jesus?
+
+Even the accusation of inciting idol worship is a flimsy match. Jesus does not generally claim to be divine himself; it is mostly from the later writings of the disciples and especially Paul that this idea emerges. Jesus is therefore more the object of idolatry rather than the inciter.
+
+{{< epigraph pre="Koren-Steinsaltz (2012). The William Davidson Talmud. Sanhedrin 107b. " cite="https://www.sefaria.org/Sanhedrin.107b.13?lang=bi" link="https://www.sefaria.org/Sanhedrin.107b.13?lang=bi" >}}
+Yehoshua ben Peraḥya said: How beautiful is this inn. Jesus, his student, said to him: But my teacher, the eyes of the innkeeper’s wife are narrow [terutot]. Yehoshua ben Peraḥya said to him: Wicked one! Do you involve yourself with regard to that matter, the appearance of a married woman? He produced four hundred shofarot and ostracized him.
+
+Jesus came before Yehoshua ben Peraḥya several times and said to him: Accept our, i.e., my, repentance. Yehoshua ben Peraḥya took no notice of him. One day Yehoshua ben Peraḥya was reciting Shema and Jesus came before him with the same request. Yehoshua ben Peraḥya intended to accept his request, and signaled him with his hand to wait until he completed his prayer. Jesus did not understand the signal and thought: He is driving me away. He went and stood a brick upright to serve as an idol and he bowed to it. Yehoshua ben Peraḥya then said to Jesus: Repent. Jesus said to him: This is the tradition that I received from you: Whoever sins and causes the masses to sin is not given the opportunity to repent. And the Master says: Jesus performed sorcery, incited Jews to engage in idolatry, and led Israel astray. Had Yehoshua ben Peraḥya not caused him to despair of atonement, he would not have taken the path of evil. 
+{{< /epigraph >}}
+
+In this story, Jesus is driven to incite others to idolatry by the stubborn refusal of his Rabbi to accept his repentance. This is more a cautionary tale encouraging one to be forgiving than a case against an idolator. It is a reminder not to let the evil inclination overtake you, and not to erect needless barriers before others which will cause them to stumble.
+
+To sum up, Rabbinical literature *may* condemn Jesus as a heretic of sorts, but this is significantly softened by the latter story which lays the blame with his teacher. The incongruities between these accounts and the Gospel accounts make it unclear whether the Rabbis are even talking about the right Jesus, so they may have had nothing to say about him whatsoever.
 
 ### Today
 
