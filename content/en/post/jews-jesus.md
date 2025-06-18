@@ -88,7 +88,7 @@ As discussed above, there is no consensus over whether Jesus was a real historic
 
 #### Rebellions Against Rome
 
-### The Gospel Account
+### The Gospel Accounts
 
 Most readers are likely familiar with the Gospels' accounts of the trial and crucifixion of Jesus. Jesus is arrested, brought before the chief priests and accused, then brought before Pilate and tried, and then crucified. The Gospels generally give rather detailed accounts of these events. This is surprising, because, in all likelihood, none of these events took place!
 
