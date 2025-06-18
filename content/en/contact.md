@@ -2,7 +2,7 @@
 type: 'slide'
 title: 'Contact'
 #cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/28.svg'
-weight: 1
+weight: 2
 params:
     headless: true
     target: 'https://github.com/foxihd/hugo-brewm'

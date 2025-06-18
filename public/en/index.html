@@ -164,12 +164,44 @@
     
         <!-- carousel.html -->
         <aside class="carousel">
+                <nav class="carousel__nav" aria-label="slides">
+                    <ul class="rounded invert" role="presentation">
+                            <li>
+                                <a href="#slide-1" role="button" aria-controls="slide-1">
+                                    <span>What Is a Digital Garden?</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#slide-2" role="button" aria-controls="slide-2">
+                                    <span>Contact</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#slide-3" role="button" aria-controls="slide-3">
+                                    <span>Local IT Support</span>
+                                </a>
+                            </li>
+                    </ul>
+                </nav>
 
             <div class="carousel__viewport">
                     <section id="slide-1" class="carousel__viewport__slide"
                         aria-labelledby="slide-1__heading">
                         <div class="carousel__viewport__slide__content ">
-                                <h1 id="slide-1__heading" class="section-title">Contact</h1>
+                                <h1 id="slide-1__heading" class="section-title">What Is a Digital Garden?</h1>
+                            <div>
+                                    <p>A digital garden is an online space for cultivating ideas in a fluid and dynamic way. Rather than a traditional personal blog, in which posts are expected to be static entities that don&rsquo;t change, digital gardens resemble the hyperlink-riddled chaos of early web pages. This more accurately represents the organic nature of communication, which is rarely so rigidly linear.</p>
+<h2 id="how-to-navigate-this-site">How to Navigate This Site</h2>
+<p>Content on this site is organized into three taxa (that&rsquo;s the plural form of taxon, or a taxonomic group): series, categories, and tags. Works in a series are intended to be consumed together in a more or less linear fashion, usually starting with the oldest and ending with the newest. Categories are, well, broad topical categories. Each article on this site belongs to only one category. Tags are similar to categories but are more fine-tuned. An article may belong to many tags.</p>
+<p>Content on this site is also dynamic: it changes over time. To reflect this, each article is represented by one of three stages of growth: seedling, blooming, and evergreen. A seedling is a work in its beginning stages&mdash;it may consist of little more than an outline&mdash;and is represented by the emoji 🌱. An article which is blooming has more meat on its bones, but is not quite fully mature, and is represented by the emoji 🌼. An evergreen article is more or less complete, and is represented by the emoji 🌳. The bottom of each article includes a Redaction History, which is a record of changes.</p>
+
+                            </div>
+                        </div>
+                    </section>
+                    <section id="slide-2" class="carousel__viewport__slide"
+                        aria-labelledby="slide-2__heading">
+                        <div class="carousel__viewport__slide__content ">
+                                <h1 id="slide-2__heading" class="section-title">Contact</h1>
                             <div>
                                     <p>Contact methods are sorted into tiers based on how likely I am to check for messages on that platform. Preference is given to platforms which:</p>
 <ol>
@@ -203,17 +235,11 @@
 
                             </div>
                         </div>
-                            <nav class="carousel__nav">
-                                    
-                                        <a href="#slide-2" rel="next" class="underline" role="button" aria-controls="slide-2">
-                                            <span>Local IT Support</span>
-                                        </a>
-                            </nav>
                     </section>
-                    <section id="slide-2" class="carousel__viewport__slide"
-                        aria-labelledby="slide-2__heading">
+                    <section id="slide-3" class="carousel__viewport__slide"
+                        aria-labelledby="slide-3__heading">
                         <div class="carousel__viewport__slide__content ">
-                                <h1 id="slide-2__heading" class="section-title">Local IT Support</h1>
+                                <h1 id="slide-3__heading" class="section-title">Local IT Support</h1>
                             <div>
                                     <p>Computers are confusing, and learning how to effectively set up and manage devices can take a long time. It doesn&rsquo;t help that everything from your doorbell to your car is computerized, and a lot of the resources out there use specialized jargon that&rsquo;s impossible to understand.</p>
 <p>I offer IT Support services to friends and community members. I am a Google-certified IT Support Professional and have been CompTIA A+ certified.</p>
@@ -236,12 +262,6 @@
 
                             </div>
                         </div>
-                            <nav class="carousel__nav">
-                                    
-                                        <a href="#slide-1" rel="prev" class="underline" role="button" aria-controls="slide-1">
-                                            <span>Contact</span>
-                                        </a>
-                            </nav>
                     </section>
             </div>
         </aside>
@@ -403,8 +423,9 @@
                 </span>
                 
                 <!-- timestamp.html-->
-    <div >
+    <div class="date-has-label">
         <time class="doc-publish-date" datetime="2025-06-17T00:00:00&#43;00:00" data-time-label="Published on">June 17, 2025</time>
+            <time class="doc-lastmod-date" datetime="2025-06-18T00:11:03-04:00" data-time-label="Modified on">June 18, 2025</time>
     </div>
             </div>
             <a href="/en/post/jews-jesus/" class="sr0" tabindex="-1" aria-describedby="desc-1">
