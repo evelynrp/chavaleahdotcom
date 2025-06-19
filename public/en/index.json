@@ -11,6 +11,11 @@
                 "permalink": "/en/post/cyrus/",
                 "type": "post"
             },{
+                "id": "32cc439d6f9cbc2aa9cd0008307ba6aa",
+                "title": "Horse, hevel, and healing",
+                "permalink": "/en/post/horse/",
+                "type": "post"
+            },{
                 "id": "9ef46c0f445669bfece3d33ee3646d9d",
                 "title": "Orthopraxy, ethno-religions, and Jewish identity",
                 "permalink": "/en/post/orthopraxy/",
@@ -101,6 +106,23 @@
                     {
                         "source": "e01727593b69fe523dba0dd4ba892d1f",
                         "target": "tags-history",
+                    },
+            
+                    {
+                        "source": "32cc439d6f9cbc2aa9cd0008307ba6aa",
+                        "target": "categories-pop-culture",
+                    },
+                    {
+                        "source": "32cc439d6f9cbc2aa9cd0008307ba6aa",
+                        "target": "tags-pop-culture",
+                    },
+                    {
+                        "source": "32cc439d6f9cbc2aa9cd0008307ba6aa",
+                        "target": "tags-anthropology",
+                    },
+                    {
+                        "source": "32cc439d6f9cbc2aa9cd0008307ba6aa",
+                        "target": "tags-television",
                     },
             
                     {

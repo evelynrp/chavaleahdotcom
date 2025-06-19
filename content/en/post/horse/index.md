@@ -9,7 +9,7 @@ translationKey = "pop culture"
 coffee = 1
 tags = ["pop culture", "anthropology", "television"]
 categories = ["pop culture"]
-stage = "budding"
+stage = "evergreen"
 cover = 'https://image.tmdb.org/t/p/original/4WijEAbnGMJifP6uepGALci3Jf.jpg'
 history = [
   {date = "2025-01-04", stage="seedling", author = "Evelyn Park", note = "Introduction"},
