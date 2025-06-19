@@ -16,6 +16,7 @@ history = [
   {date = "2025-02-15", stage="budding", author = "Evelyn Park", note = "Episodes 1-3"},
   {date = "2025-03-22", stage="budding", author = "Evelyn Park", note = "Episodes 4-6"},
   {date = "2025-06-17", stage="budding", author = "Evelyn Park", note = "Tufte formatting"},
+  {date = "2025-06-19", stage="evergreen", author = "Evelyn Park", note = "Finished"},
 ]
 +++
 
@@ -236,7 +237,24 @@ Horse teaches Nadia that things are immaterial. Wealth and possessions are nothi
 
 ### S01E07
 
+This episodes follows each of our heroes as they try to tackle some of their lingering issues head-on. Alan goes to have a chat with Beatrice in which he seems to forgive both her and himself, freeing himself from the shackles of his pathetic past self. Nadia wrestles with flashbacks and the guilt of leaving her mother, confronts her self-punishing lifestyle, and tries to break the cycle by bringing *Emily of New Moon* to the diner.
+
+The episode ends with a young Nadia asking her if she's ready to let her die. Nadia previously let go of her resentment toward her mother. Now she has to let go of her younger self, the part of herself that can't forgive her for betraying her mother and has her trapped in a guilt-induced spiral of self-destructive behavior.
+
 ### S01E08
+
+The episode opens on a high note, as both our characters start their loops with a fully repopulated world. They both have many joyous and healing interactions as they try to find each other. It quickly becomes clear that they are in separate loops, each having reset to their original missed opportunity to save the other's life.
+
+Horse primarily appears in Nadia's version of the loop. Horse bequeaths Oatmeal to her on her way to the diner, and then later is proposed to by a drunk Alan. Horse tells Alan to follow him, much like he has done to Nadia in past loops. They arrive in a sort of alley with some other dirty kids, to whom Horse tells he's "got another one", and Horse offers him a joint(?), then asks Alan if he's going to pay for it. Alan gives them all of his money, since he's planning on killing himself at this point and doesn't need it. At this point Nadia swoops in to rescue Alan, Horse shouts after her that they're keeping his stuff, and Horse promptly puts on a horse head.
+
+{{< marginpar >}}This scene is, admittedly, one that I've had difficulty interpretating. Feel free to let me know your thoughts on it.{{< /marginpar >}}
+Horse's behavior here seems somewhat out of character. He seems to be taking advantage of Alan in his weakened state, borderline robbing him, and he has never shown anything resembling predatory behavior toward Nadia. It is possible that Horse recognized in Nadia a kindred spirit of sorts, someone who is no stranger to pain and brokenness. Alan, on the other hand, is a well-dressed gentleman who has, until today, had his life pretty together. Horse may be simply taking advantage of somebody he perceives to be of a higher class than himself, much like Robin Hood.
+
+Horse's comment about having gotten another one is interesting. It could imply that Horse and his friends regularly rob drunk people, but I rather think that his statement has more to do with what immediately follows: the strange Halloween parade which they are all clearly preparing for. Horse dons his horse head as soon as Nadia and Alan leave. Horse taking all of Alan's money may not have been malicious---we've already seen how Horse feels about material wealth---and is, in fact, reaching out to Alan. This may be Alan's initiation into the parade.
+
+In any case, the episode ends with a sort of Halloween parade lead by Horse. Both timelines "merge" upon this parade, both Nadia and Alan having corrected their mistakes. They are ready to move forward into whatever comes next.
+
+In the United States, Halloween is mostly about candy, but this procession calls to mind other festivals of the dead such as Obon, Chuseok, or Día de los Muertos. In these festivals, the dead may roam the earth, visiting living family members. The living make offerings to the dead, sometimes out of respect, love, or honor, and sometimes to appease them and quiet their spirits. These festivals themselves have a sort of psychopompic function, transforming ritual action into spiritual energy for the benefit of the dead. This parade in particular bears a striking resemblance to the Wild Hunt of Odin, especially given Horse's resemblance to Odin.
 
 {{< figure
   src="wildhuntofodin.webp"
@@ -259,3 +277,5 @@ Horse teaches Nadia that things are immaterial. Wealth and possessions are nothi
   attrlink="https://www.netflix.com/title/80211627"
   alt="Horse leading a procession of masked revelers."
  >}}
+
+ The showrunners disagree with me on this, but this scene has always struck me as Nadia and Alan breaking free of the purgatory of the time loop and moving into death proper, freed of the burdens of their traumas. But whether they are dead or not, Horse's function throughout the season's narrative has been one of spiritual transformation. He has been the unassuming guide showing the way to healing.
