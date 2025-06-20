@@ -11,6 +11,7 @@ tags = ["judaism", "history", "anthropology"]
 categories = ["judaism"]
 stage = "evergreen"
 cover = 'https://static.timesofisrael.com/atlantajewishtimes/uploads/2020/05/merlin_171190755_505f0a2d-d87d-4345-9e4f-1321bd167096-superJumbo.jpg'
+lastmod = '2024-04-25'
 history = [
   {date = "2024-04-25", stage="evergreen", author = "Evelyn Park"},
 ]

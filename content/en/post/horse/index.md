@@ -11,6 +11,7 @@ tags = ["pop culture", "anthropology", "television"]
 categories = ["pop culture"]
 stage = "evergreen"
 cover = 'https://image.tmdb.org/t/p/original/4WijEAbnGMJifP6uepGALci3Jf.jpg'
+lastmod = '2025-06-19'
 history = [
   {date = "2025-01-04", stage="seedling", author = "Evelyn Park", note = "Introduction"},
   {date = "2025-02-15", stage="budding", author = "Evelyn Park", note = "Episodes 1-3"},

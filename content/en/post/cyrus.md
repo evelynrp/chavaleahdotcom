@@ -11,6 +11,7 @@ tags = ["judaism", "history"]
 categories = ["history"]
 stage = "evergreen"
 cover = 'https://images.metmuseum.org/CRDImages/es/original/SF48_68_img3.jpg'
+lastmod = '2025-06-17'
 history = [
   {date = "2025-05-09", stage="evergreen", author = "Evelyn Park"},
   {date = "2025-06-17", stage="evergreen", author = "Evelyn Park", note = "Tufte formatting"},

@@ -11,6 +11,7 @@ tags = ["movies", "sonic the hedgehog", "literary analysis"]
 categories = ["movies"]
 stage = "seedling"
 cover = 'https://static1.srcdn.com/wordpress/wp-content/uploads/2025/01/01688039_poster_w780-1.jpg'
+lastmod = '2025-06-20'
 history = [
   {date = "2025-06-20", stage="seedling", author = "Evelyn Park", note = "Rough outline"},
 ]

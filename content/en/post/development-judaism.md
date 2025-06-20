@@ -12,6 +12,7 @@ categories = ["judaism"]
 stage = "seedling"
 cover = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Second_Temple.jpg/960px-Second_Temple.jpg'
 series = 'Judaism for Gentiles'
+lastmod = '2025-06-17'
 history = [
   {date = "2025-06-17", stage="seedling", author = "Evelyn Park", note = "Rough outline"},
 ]
@@ -24,5 +25,3 @@ history = [
 ## Early Rabbinic Judaism
 
 ### The Pharisees and Portable Judaism
-
-# References
