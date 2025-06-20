@@ -1,6 +1,11 @@
 
 {
     "nodes": [{
+                "id": "bb638efe1049ae3f53b66f88859d980c",
+                "title": "A Tale of Two Sonics",
+                "permalink": "/en/post/tale-of-two-sonics/",
+                "type": "post"
+            },{
                 "id": "c6a82bc13d6caa63a7b2633015126766",
                 "title": "Jews and Jesus",
                 "permalink": "/en/post/jews-jesus/",
@@ -34,6 +39,12 @@
                             "type": "categories"
                         },
                         {
+                            "id": "categories-movies",
+                            "title": "Movies",
+                            "permalink": "/en/categories/movies/",
+                            "type": "categories"
+                        },
+                        {
                             "id": "categories-pop-culture",
                             "title": "Pop Culture",
                             "permalink": "/en/categories/pop-culture/",
@@ -64,9 +75,27 @@
                             "type": "tags"
                         },
                         {
+                            "id": "tags-literary-analysis",
+                            "title": "Literary Analysis",
+                            "permalink": "/en/tags/literary-analysis/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-movies",
+                            "title": "Movies",
+                            "permalink": "/en/tags/movies/",
+                            "type": "tags"
+                        },
+                        {
                             "id": "tags-pop-culture",
                             "title": "Pop Culture",
                             "permalink": "/en/tags/pop-culture/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-sonic-the-hedgehog",
+                            "title": "Sonic the Hedgehog",
+                            "permalink": "/en/tags/sonic-the-hedgehog/",
                             "type": "tags"
                         },
                         {
@@ -77,6 +106,23 @@
                         },
     ],
     "links": [
+            
+                    {
+                        "source": "bb638efe1049ae3f53b66f88859d980c",
+                        "target": "categories-movies",
+                    },
+                    {
+                        "source": "bb638efe1049ae3f53b66f88859d980c",
+                        "target": "tags-movies",
+                    },
+                    {
+                        "source": "bb638efe1049ae3f53b66f88859d980c",
+                        "target": "tags-sonic-the-hedgehog",
+                    },
+                    {
+                        "source": "bb638efe1049ae3f53b66f88859d980c",
+                        "target": "tags-literary-analysis",
+                    },
             
                     {
                         "source": "c6a82bc13d6caa63a7b2633015126766",

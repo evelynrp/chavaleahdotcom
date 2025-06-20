@@ -2,12 +2,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/en/post/tale-of-two-sonics/</loc>
+    <lastmod>2025-06-20T16:48:14-04:00</lastmod>
+    </url>
+  <url>
     <loc>/en/author/</loc>
-    <lastmod>2025-06-19T14:11:14-04:00</lastmod>
+    <lastmod>2025-06-20T16:48:14-04:00</lastmod>
     </url>
   <url>
     <loc>/en/categories/</loc>
-    <lastmod>2025-06-19T14:11:14-04:00</lastmod>
+    <lastmod>2025-06-20T16:48:14-04:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/tags/literary-analysis/</loc>
+    <lastmod>2025-06-20T16:48:14-04:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/categories/movies/</loc>
+    <lastmod>2025-06-20T16:48:14-04:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/tags/movies/</loc>
+    <lastmod>2025-06-20T16:48:14-04:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/tags/sonic-the-hedgehog/</loc>
+    <lastmod>2025-06-20T16:48:14-04:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2025-06-20T16:48:14-04:00</lastmod>
     </url>
   <url>
     <loc>/en/tags/history/</loc>
@@ -28,10 +52,6 @@
     <lastmod>2025-06-18T00:11:03-04:00</lastmod>
     </url>
   <url>
-    <loc>/en/tags/</loc>
-    <lastmod>2025-06-19T14:11:14-04:00</lastmod>
-    </url>
-  <url>
     <loc>/en/post/cyrus/</loc>
     <lastmod>2025-06-17T19:25:59-04:00</lastmod>
     <xhtml:link rel="alternate" hreflang="en-GB" href="/en/categories/history/" />
@@ -39,21 +59,21 @@
   </url>
   <url>
     <loc>/en/tags/anthropology/</loc>
-    <lastmod>2025-06-19T14:11:14-04:00</lastmod>
+    <lastmod>2025-06-19T14:26:07-04:00</lastmod>
     </url>
   <url>
     <loc>/en/post/horse/</loc>
-    <lastmod>2025-06-19T14:11:14-04:00</lastmod>
+    <lastmod>2025-06-19T14:26:07-04:00</lastmod>
     <xhtml:link rel="alternate" hreflang="en-GB" href="/en/categories/pop-culture/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/horse/" />
   </url>
   <url>
     <loc>/en/tags/pop-culture/</loc>
-    <lastmod>2025-06-19T14:11:14-04:00</lastmod>
+    <lastmod>2025-06-19T14:26:07-04:00</lastmod>
     </url>
   <url>
     <loc>/en/tags/television/</loc>
-    <lastmod>2025-06-19T14:11:14-04:00</lastmod>
+    <lastmod>2025-06-19T14:26:07-04:00</lastmod>
     </url>
   <url>
     <loc>/en/post/orthopraxy/</loc>
