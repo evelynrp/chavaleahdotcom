@@ -9,7 +9,7 @@
     <managingEditor>Evelyn Park</managingEditor>
     
       <webMaster>Evelyn Park</webMaster>
-    <lastBuildDate>Fri, 20 Jun 2025 17:06:42 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 17:11:16 -0400</lastBuildDate>
     <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movies</title>
@@ -18,7 +18,7 @@
       <author>Evelyn Park</author>
       <guid>/en/categories/movies/</guid>
       <description></description>
-      
+      <enclosure url="https://images.pexels.com/photos/66134/pexels-photo-66134.jpeg" length="0" type="image/jpeg" />
     </item>
     <item>
       <title>History</title>
