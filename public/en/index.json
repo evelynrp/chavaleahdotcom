@@ -39,12 +39,6 @@
                             "type": "categories"
                         },
                         {
-                            "id": "categories-movies",
-                            "title": "Movies",
-                            "permalink": "/en/categories/movies/",
-                            "type": "categories"
-                        },
-                        {
                             "id": "categories-pop-culture",
                             "title": "Pop Culture",
                             "permalink": "/en/categories/pop-culture/",
@@ -109,7 +103,7 @@
             
                     {
                         "source": "bb638efe1049ae3f53b66f88859d980c",
-                        "target": "categories-movies",
+                        "target": "categories-pop-culture",
                     },
                     {
                         "source": "bb638efe1049ae3f53b66f88859d980c",
@@ -118,6 +112,10 @@
                     {
                         "source": "bb638efe1049ae3f53b66f88859d980c",
                         "target": "tags-sonic-the-hedgehog",
+                    },
+                    {
+                        "source": "bb638efe1049ae3f53b66f88859d980c",
+                        "target": "tags-pop-culture",
                     },
                     {
                         "source": "bb638efe1049ae3f53b66f88859d980c",

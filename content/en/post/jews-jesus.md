@@ -107,6 +107,7 @@ The short answer to the question, "What do Jews think about Jesus?" is, "We don'
 
 ## Did the Jews Kill Jesus?
 
+{{< marginpar >}}Accusations of deicide have followed Jews for millenia. We're going to get into the details, but let me say up front: please stop.{{< /marginpar >}}
 As discussed above, there is no consensus over whether Jesus was a real historical figure. For the sake of answering this question, we will treat the Gospel narratives as being more or less reliable historical accounts, and consider contemporary historical evidence to analyze the political forces at work in the crucifixion.
 
 ### Second Temple Politics
