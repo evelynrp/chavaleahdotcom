@@ -144,11 +144,11 @@ enableRobotsTXT = true
         username = 'chava'
 
     ## Giscus integration settings
-#    [params.giscus]
-#        repo = "foxihd/hugo-brewm"
-#        repoID = "R_kgDONwvqMA"
-#        category = "Articles"
-#        categoryID = "DIC_kwDONwvqMM4CnXDQ"
+    [params.giscus]
+        repo = "evelynrp/chavaleahdotcom"
+        repoID = "R_kgDOOZqBBQ"
+        category = "General"
+        categoryID = "DIC_kwDOOZqBBc4Cryr2"
 
     ## Logo configuration
     [params.logo]
