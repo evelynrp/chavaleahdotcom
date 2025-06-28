@@ -1,6 +1,11 @@
 
 {
     "nodes": [{
+                "id": "0e80d7dd9169335e51d0ddf34bfa1196",
+                "title": "Judaism Reading List",
+                "permalink": "/en/post/reading-list/",
+                "type": "post"
+            },{
                 "id": "d84946f2580310fed433a82887a9550a",
                 "title": "A Tale of Two Sonics",
                 "permalink": "/en/post/tale-of-two-sonics/",
@@ -81,6 +86,12 @@
                             "type": "tags"
                         },
                         {
+                            "id": "tags-philosophy",
+                            "title": "Philosophy",
+                            "permalink": "/en/tags/philosophy/",
+                            "type": "tags"
+                        },
+                        {
                             "id": "tags-pop-culture",
                             "title": "Pop Culture",
                             "permalink": "/en/tags/pop-culture/",
@@ -100,6 +111,23 @@
                         },
     ],
     "links": [
+            
+                    {
+                        "source": "0e80d7dd9169335e51d0ddf34bfa1196",
+                        "target": "categories-judaism",
+                    },
+                    {
+                        "source": "0e80d7dd9169335e51d0ddf34bfa1196",
+                        "target": "tags-judaism",
+                    },
+                    {
+                        "source": "0e80d7dd9169335e51d0ddf34bfa1196",
+                        "target": "tags-history",
+                    },
+                    {
+                        "source": "0e80d7dd9169335e51d0ddf34bfa1196",
+                        "target": "tags-philosophy",
+                    },
             
                     {
                         "source": "d84946f2580310fed433a82887a9550a",

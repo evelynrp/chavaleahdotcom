@@ -2,15 +2,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/post/tale-of-two-sonics/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-    </url>
-  <url>
     <loc>/en/author/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>/en/categories/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/tags/history/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/tags/judaism/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/post/reading-list/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/jews-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/orthopraxy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/categories/judaism/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/reading-list/" />
+  </url>
+  <url>
+    <loc>/en/tags/philosophy/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>/en/post/tale-of-two-sonics/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
     </url>
   <url>
@@ -30,23 +52,11 @@
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>/en/tags/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>/en/tags/history/</loc>
-    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
-    </url>
-  <url>
     <loc>/en/post/jews-jesus/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/orthopraxy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/categories/judaism/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/reading-list/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/orthopraxy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/categories/judaism/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/jews-jesus/" />
   </url>
-  <url>
-    <loc>/en/tags/judaism/</loc>
-    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
-    </url>
   <url>
     <loc>/en/series/</loc>
     <lastmod>2025-06-17T23:18:08-04:00</lastmod>
@@ -74,7 +84,7 @@
   <url>
     <loc>/en/post/orthopraxy/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/jews-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/categories/judaism/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/reading-list/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/jews-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/categories/judaism/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/orthopraxy/" />
   </url>
   <url>
@@ -102,7 +112,7 @@
   <url>
     <loc>/en/categories/judaism/</loc>
     <lastmod>2025-06-17T14:36:57-04:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/jews-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/orthopraxy/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/reading-list/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/jews-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="/en/post/orthopraxy/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="/en/categories/judaism/" />
   </url>
   <url>

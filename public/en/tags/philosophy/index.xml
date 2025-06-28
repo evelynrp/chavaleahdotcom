@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on Evelyn Park</title>
+    <link>/en/tags/philosophy/</link>
+    <description>Recent Posts in Philosophy on Evelyn Park</description>
+    <generator>Hugo 0.147.3</generator>
+    <language>en-GB</language>
+    <managingEditor>Evelyn Park</managingEditor>
+    
+      <webMaster>Evelyn Park</webMaster>
+    <lastBuildDate>Sat, 28 Jun 2025 01:08:05 -0400</lastBuildDate>
+    <atom:link href="/en/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Judaism Reading List</title>
+      <link>/en/post/reading-list/</link>
+      <pubDate>Sat, 28 Jun 2025 00:42:28 -0400</pubDate>
+      <author>Evelyn Park</author>
+      <guid>/en/post/reading-list/</guid>
+      <description></description>
+      <enclosure url="https://images.pexels.com/photos/207662/pexels-photo-207662.jpeg" length="0" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>

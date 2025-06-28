@@ -9,8 +9,17 @@
     <managingEditor>Evelyn Park</managingEditor>
     
       <webMaster>Evelyn Park</webMaster>
-    <lastBuildDate>Sat, 21 Jun 2025 15:39:10 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 01:08:05 -0400</lastBuildDate>
     <atom:link href="/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Judaism Reading List</title>
+      <link>/en/post/reading-list/</link>
+      <pubDate>Sat, 28 Jun 2025 00:42:28 -0400</pubDate>
+      <author>Evelyn Park</author>
+      <guid>/en/post/reading-list/</guid>
+      <description></description>
+      <enclosure url="https://images.pexels.com/photos/207662/pexels-photo-207662.jpeg" length="0" type="image/jpeg" />
+    </item>
     <item>
       <title>A Tale of Two Sonics</title>
       <link>/en/post/tale-of-two-sonics/</link>
