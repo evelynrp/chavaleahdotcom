@@ -1,5 +1,5 @@
 +++
-date = '2025-07-xx'
+date = '2025-07-01'
 title = 'Did "The Jews" Kill Jesus?'
 author = ["Evelyn Park"]
 description = "Part 3 of Judaism for Gentiles"

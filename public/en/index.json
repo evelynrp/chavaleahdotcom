@@ -1,6 +1,11 @@
 
 {
     "nodes": [{
+                "id": "f9897ba67089cb37a8292f45c6067723",
+                "title": "What Did Jesus Think About Judaism?",
+                "permalink": "/en/post/what-did-jesus-think-about-judaism/",
+                "type": "post"
+            },{
                 "id": "0e80d7dd9169335e51d0ddf34bfa1196",
                 "title": "Judaism Reading List",
                 "permalink": "/en/post/reading-list/",
@@ -11,9 +16,9 @@
                 "permalink": "/en/post/tale-of-two-sonics/",
                 "type": "post"
             },{
-                "id": "c6a82bc13d6caa63a7b2633015126766",
-                "title": "Jews and Jesus",
-                "permalink": "/en/post/jews-jesus/",
+                "id": "14261d33ed089858c5a1f6bcbc27fe2d",
+                "title": "What Do Jews Think About Jesus?",
+                "permalink": "/en/post/what-do-jews-think-about-jesus/",
                 "type": "post"
             },{
                 "id": "e01727593b69fe523dba0dd4ba892d1f",
@@ -113,6 +118,23 @@
     "links": [
             
                     {
+                        "source": "f9897ba67089cb37a8292f45c6067723",
+                        "target": "categories-judaism",
+                    },
+                    {
+                        "source": "f9897ba67089cb37a8292f45c6067723",
+                        "target": "series-judaism-for-gentiles",
+                    },
+                    {
+                        "source": "f9897ba67089cb37a8292f45c6067723",
+                        "target": "tags-judaism",
+                    },
+                    {
+                        "source": "f9897ba67089cb37a8292f45c6067723",
+                        "target": "tags-history",
+                    },
+            
+                    {
                         "source": "0e80d7dd9169335e51d0ddf34bfa1196",
                         "target": "categories-judaism",
                     },
@@ -151,19 +173,19 @@
                     },
             
                     {
-                        "source": "c6a82bc13d6caa63a7b2633015126766",
+                        "source": "14261d33ed089858c5a1f6bcbc27fe2d",
                         "target": "categories-judaism",
                     },
                     {
-                        "source": "c6a82bc13d6caa63a7b2633015126766",
+                        "source": "14261d33ed089858c5a1f6bcbc27fe2d",
                         "target": "series-judaism-for-gentiles",
                     },
                     {
-                        "source": "c6a82bc13d6caa63a7b2633015126766",
+                        "source": "14261d33ed089858c5a1f6bcbc27fe2d",
                         "target": "tags-judaism",
                     },
                     {
-                        "source": "c6a82bc13d6caa63a7b2633015126766",
+                        "source": "14261d33ed089858c5a1f6bcbc27fe2d",
                         "target": "tags-history",
                     },
             

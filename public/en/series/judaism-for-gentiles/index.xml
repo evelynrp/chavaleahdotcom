@@ -9,14 +9,23 @@
     <managingEditor>Evelyn Park</managingEditor>
     
       <webMaster>Evelyn Park</webMaster>
-    <lastBuildDate>Sat, 28 Jun 2025 01:08:05 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 18:00:17 -0400</lastBuildDate>
     <atom:link href="/en/series/judaism-for-gentiles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jews and Jesus</title>
-      <link>/en/post/jews-jesus/</link>
+      <title>What Did Jesus Think About Judaism?</title>
+      <link>/en/post/what-did-jesus-think-about-judaism/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <author>Evelyn Park</author>
+      <guid>/en/post/what-did-jesus-think-about-judaism/</guid>
+      <description>A series explaining Judaism to Gentiles, written in preparation for a series of lectures.</description>
+      
+    </item>
+    <item>
+      <title>What Do Jews Think About Jesus?</title>
+      <link>/en/post/what-do-jews-think-about-jesus/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
       <author>Evelyn Park</author>
-      <guid>/en/post/jews-jesus/</guid>
+      <guid>/en/post/what-do-jews-think-about-jesus/</guid>
       <description>A series explaining Judaism to Gentiles, written in preparation for a series of lectures.</description>
       <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AlexGraffito.svg/800px-AlexGraffito.svg.png" length="0" type="image/jpeg" />
     </item>
