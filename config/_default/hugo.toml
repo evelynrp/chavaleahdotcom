@@ -1,5 +1,5 @@
 ## Base URL for the site
-baseURL = '/'
+baseURL = 'https://evelynpark.com/'
 ## Site title
 title = 'Evelyn Park'
 ## Use hugo-brewm theme

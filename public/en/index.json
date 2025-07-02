@@ -3,115 +3,115 @@
     "nodes": [{
                 "id": "f9897ba67089cb37a8292f45c6067723",
                 "title": "What Did Jesus Think About Judaism?",
-                "permalink": "/en/post/what-did-jesus-think-about-judaism/",
+                "permalink": "https://evelynpark.com/en/post/what-did-jesus-think-about-judaism/",
                 "type": "post"
             },{
                 "id": "0e80d7dd9169335e51d0ddf34bfa1196",
                 "title": "Judaism Reading List",
-                "permalink": "/en/post/reading-list/",
+                "permalink": "https://evelynpark.com/en/post/reading-list/",
                 "type": "post"
             },{
                 "id": "d84946f2580310fed433a82887a9550a",
                 "title": "A Tale of Two Sonics",
-                "permalink": "/en/post/tale-of-two-sonics/",
+                "permalink": "https://evelynpark.com/en/post/tale-of-two-sonics/",
                 "type": "post"
             },{
                 "id": "14261d33ed089858c5a1f6bcbc27fe2d",
                 "title": "What Do Jews Think About Jesus?",
-                "permalink": "/en/post/what-do-jews-think-about-jesus/",
+                "permalink": "https://evelynpark.com/en/post/what-do-jews-think-about-jesus/",
                 "type": "post"
             },{
                 "id": "e01727593b69fe523dba0dd4ba892d1f",
                 "title": "On the Historicity of the Edict of Cyrus",
-                "permalink": "/en/post/cyrus/",
+                "permalink": "https://evelynpark.com/en/post/cyrus/",
                 "type": "post"
             },{
                 "id": "32cc439d6f9cbc2aa9cd0008307ba6aa",
                 "title": "Horse, hevel, and healing",
-                "permalink": "/en/post/horse/",
+                "permalink": "https://evelynpark.com/en/post/horse/",
                 "type": "post"
             },{
                 "id": "9ef46c0f445669bfece3d33ee3646d9d",
                 "title": "Orthopraxy, ethno-religions, and Jewish identity",
-                "permalink": "/en/post/orthopraxy/",
+                "permalink": "https://evelynpark.com/en/post/orthopraxy/",
                 "type": "post"
             },
                         {
                             "id": "categories-history",
                             "title": "History",
-                            "permalink": "/en/categories/history/",
+                            "permalink": "https://evelynpark.com/en/categories/history/",
                             "type": "categories"
                         },
                         {
                             "id": "categories-judaism",
                             "title": "Judaism",
-                            "permalink": "/en/categories/judaism/",
+                            "permalink": "https://evelynpark.com/en/categories/judaism/",
                             "type": "categories"
                         },
                         {
                             "id": "categories-pop-culture",
                             "title": "Pop Culture",
-                            "permalink": "/en/categories/pop-culture/",
+                            "permalink": "https://evelynpark.com/en/categories/pop-culture/",
                             "type": "categories"
                         },
                         {
                             "id": "series-judaism-for-gentiles",
                             "title": "Judaism for Gentiles",
-                            "permalink": "/en/series/judaism-for-gentiles/",
+                            "permalink": "https://evelynpark.com/en/series/judaism-for-gentiles/",
                             "type": "series"
                         },
                         {
                             "id": "tags-anthropology",
                             "title": "Anthropology",
-                            "permalink": "/en/tags/anthropology/",
+                            "permalink": "https://evelynpark.com/en/tags/anthropology/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-history",
                             "title": "History",
-                            "permalink": "/en/tags/history/",
+                            "permalink": "https://evelynpark.com/en/tags/history/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-judaism",
                             "title": "Judaism",
-                            "permalink": "/en/tags/judaism/",
+                            "permalink": "https://evelynpark.com/en/tags/judaism/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-literary-analysis",
                             "title": "Literary Analysis",
-                            "permalink": "/en/tags/literary-analysis/",
+                            "permalink": "https://evelynpark.com/en/tags/literary-analysis/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-movies",
                             "title": "Movies",
-                            "permalink": "/en/tags/movies/",
+                            "permalink": "https://evelynpark.com/en/tags/movies/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-philosophy",
                             "title": "Philosophy",
-                            "permalink": "/en/tags/philosophy/",
+                            "permalink": "https://evelynpark.com/en/tags/philosophy/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-pop-culture",
                             "title": "Pop Culture",
-                            "permalink": "/en/tags/pop-culture/",
+                            "permalink": "https://evelynpark.com/en/tags/pop-culture/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-sonic-the-hedgehog",
                             "title": "Sonic the Hedgehog",
-                            "permalink": "/en/tags/sonic-the-hedgehog/",
+                            "permalink": "https://evelynpark.com/en/tags/sonic-the-hedgehog/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-television",
                             "title": "Television",
-                            "permalink": "/en/tags/television/",
+                            "permalink": "https://evelynpark.com/en/tags/television/",
                             "type": "tags"
                         },
     ],

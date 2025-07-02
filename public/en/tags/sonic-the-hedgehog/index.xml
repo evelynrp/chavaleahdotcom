@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sonic the Hedgehog on Evelyn Park</title>
-    <link>/en/tags/sonic-the-hedgehog/</link>
+    <link>https://evelynpark.com/en/tags/sonic-the-hedgehog/</link>
     <description>Recent Posts in Sonic the Hedgehog on Evelyn Park</description>
     <generator>Hugo 0.147.3</generator>
     <language>en-GB</language>
     <managingEditor>Evelyn Park</managingEditor>
     
       <webMaster>Evelyn Park</webMaster>
-    <lastBuildDate>Tue, 01 Jul 2025 21:36:54 -0400</lastBuildDate>
-    <atom:link href="/en/tags/sonic-the-hedgehog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jul 2025 23:25:45 -0400</lastBuildDate>
+    <atom:link href="https://evelynpark.com/en/tags/sonic-the-hedgehog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Tale of Two Sonics</title>
-      <link>/en/post/tale-of-two-sonics/</link>
+      <link>https://evelynpark.com/en/post/tale-of-two-sonics/</link>
       <pubDate>Fri, 20 Jun 2025 16:48:14 -0400</pubDate>
       <author>Evelyn Park</author>
-      <guid>/en/post/tale-of-two-sonics/</guid>
+      <guid>https://evelynpark.com/en/post/tale-of-two-sonics/</guid>
       <description></description>
       <enclosure url="https://static1.srcdn.com/wordpress/wp-content/uploads/2025/01/01688039_poster_w780-1.jpg" length="0" type="image/jpeg" />
     </item>

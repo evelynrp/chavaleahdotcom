@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Evelyn Park</title>
-    <link>/en/categories/</link>
+    <link>https://evelynpark.com/en/categories/</link>
     <description>Recent Posts in Categories on Evelyn Park</description>
     <generator>Hugo 0.147.3</generator>
     <language>en-GB</language>
     <managingEditor>Evelyn Park</managingEditor>
     
       <webMaster>Evelyn Park</webMaster>
-    <lastBuildDate>Tue, 01 Jul 2025 21:36:54 -0400</lastBuildDate>
-    <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jul 2025 23:25:45 -0400</lastBuildDate>
+    <atom:link href="https://evelynpark.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>History</title>
-      <link>/en/categories/history/</link>
+      <link>https://evelynpark.com/en/categories/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Evelyn Park</author>
-      <guid>/en/categories/history/</guid>
+      <guid>https://evelynpark.com/en/categories/history/</guid>
       <description></description>
       <enclosure url="https://images.pexels.com/photos/36006/renaissance-schallaburg-figures-facade.jpg" length="0" type="image/jpeg" />
     </item>
     <item>
       <title>Judaism</title>
-      <link>/en/categories/judaism/</link>
+      <link>https://evelynpark.com/en/categories/judaism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Evelyn Park</author>
-      <guid>/en/categories/judaism/</guid>
+      <guid>https://evelynpark.com/en/categories/judaism/</guid>
       <description></description>
       <enclosure url="https://images.pexels.com/photos/4033829/pexels-photo-4033829.jpeg" length="0" type="image/jpeg" />
     </item>
     <item>
       <title>Pop Culture</title>
-      <link>/en/categories/pop-culture/</link>
+      <link>https://evelynpark.com/en/categories/pop-culture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Evelyn Park</author>
-      <guid>/en/categories/pop-culture/</guid>
+      <guid>https://evelynpark.com/en/categories/pop-culture/</guid>
       <description></description>
       <enclosure url="https://images.pexels.com/photos/1637436/pexels-photo-1637436.jpeg" length="0" type="image/jpeg" />
     </item>
