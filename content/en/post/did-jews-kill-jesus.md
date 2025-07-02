@@ -9,12 +9,12 @@ translationKey = "judaism"
 coffee = 2
 tags = ["judaism", "history"]
 categories = ["judaism"]
-stage = "seedling"
-cover = ''
+stage = "evergreen"
+cover = 'https://m.media-amazon.com/images/M/MV5BMTc3MTcwMDY0Ml5BMl5BanBnXkFtZTcwODg0MDU5NA@@._V1_.jpg'
 series = 'Judaism for Gentiles'
 lastmod = '2025-07-02'
 history = [
-  {date = "2025-07-02", stage="seedling", author = "Evelyn Park", note = "Rough outline and Martin text"},
+  {date = "2025-07-02", stage="evergreen", author = "Evelyn Park", note = "Pretty much the whole thing"},
 ]
 +++
 
@@ -240,3 +240,111 @@ And he released unto them him that for sedition and murder was cast into prison,
 {{< /epigraph >}}
 
 In Luke's account, Jesus does not call himself the Messiah. Luke does corroborate Barabbas's status as a rebel of some sort, guilty of sedition and murder. Shockingly, Luke adds a *third* trial with King Herod between the other two!
+
+### John
+
+{{< epigraph pre="John 18:12-14, 19-24, 28-40, 19:1-16. " cite="KJV." link="" >}}
+Then the band and the captain and officers of the Jews took Jesus, and bound him,
+
+And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.
+
+Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.
+
+...
+
+The high priest then asked Jesus of his disciples, and of his doctrine.
+
+Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.
+
+Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.
+
+And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?
+
+Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?
+
+Now Annas had sent him bound unto Caiaphas the high priest.
+
+...
+
+Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.
+
+Pilate then went out unto them, and said, What accusation bring ye against this man?
+
+They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.
+
+Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:
+
+That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.
+
+Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?
+
+Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?
+
+Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?
+
+Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.
+
+Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.
+
+Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.
+
+But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?
+
+Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.
+
+...
+
+Then Pilate therefore took Jesus, and scourged him.
+
+And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,
+
+And said, Hail, King of the Jews! and they smote him with their hands.
+
+Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him.
+
+Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man!
+
+When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him.
+
+The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.
+
+When Pilate therefore heard that saying, he was the more afraid;
+
+And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.
+
+Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?
+
+Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.
+
+And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar's friend: whosoever maketh himself a king speaketh against Caesar.
+
+When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.
+
+And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!
+
+But they cried out, Away with him, away with him, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar.
+
+Then delivered he him therefore unto them to be crucified. And they took Jesus, and led him away.
+{{< /epigraph >}}
+
+John, the one Gnostic-flavored non-Synoptic Gospel, predictably tells a rather different story. The major story beats are the same, but the details are unique. In John, Caiaphas, the High Priest, seeks to kill Jesus because it is better for one man to die than a whole nation. In other words, Jesus is being sacrificed to Rome to protect the rest of the nation. In John's account, it is explicitly the chief priests who advocate for his execution. Jesus does not claim to be the Messiah, responding instead only in cryptic allusions to the Kingdom. Barabbas is downgraded from rebel and murderer to simply robber. Pilate is incredibly loathe to execute Jesus, appealing to the Jewish authorities on his behalf multiple times. The Jewish authorities seem to charge Jesus with challenging Caesar politically.
+
+### Analysis
+
+There are a few components of the story which are consistent across all tellings.
+
+One is the question of whether Jesus is the Messiah. Among modern Christians, the Messiah is generally understood to be a spiritual savior who liberates people from their sin. In Jewish thought, especially around the 1st Century CE, the Messiah was explicitly a military and political figure who would unite the Jews, expel the Romans, and establish an independent theocratic Jewish nation-state. Jesus was far from the only potential claimant to the title. Judas Maccabee, the founder of the Hasmonean Dynasty, was thought by many of his backers to be the Messiah. We can see, then, that any possible Messiah would be a threat to established powers on multiple fronts.
+
+First, a Messiah would be a threat to the power of the Hasmonean priests and Sadducees. The Temple cult was already controlled by the descendants of one alleged Messiah, and a new one was likely to usurp their position. Second, a Messiah would be a threat to the already-tenuous relationship between Judea and Rome. Judean resentments toward increasing taxation and military occupation are evident throughout the Gospel narratives, especially evident in the widespread hostility toward tax collectors who were viewed as traitors and Roman collaborators. There was widespread fear, especially among the ruling classes, that if these tensions came to a head in armed revolt, it would spell the end of the Judean state. Indeed, it did---the Temple and state both were destroyed in 70 CE following a rebellion!
+
+The second commonality is the presence of the second prisoner, Barabbas. Half of the Gospels imply that Barabbas is a Zealot who has been arrested for rebellion against Rome and murder. So why, if Messianism is to be avoided because of the fear of armed conflict with Rome, would the Jewish authorities release Barabbas? First, we should establish that there is neither substantial evidence nor scholarly consensus over whether Barabbas was a real figure. His name is "Son of the Father" in Aramaic, which is possibly a poetic epithet, and he may represent an idea rather than a literal individual person. He is Jesus's foil. We see the Jewish authorities choose between the Son of Man, the pacifist who eschews an earthly kingdom for a spiritual one, and the Son of the Father, a militant who seeks a material political kingdom of Judah. The Gospel writers seem to be highlighting Jesus's message: the Kingdom of Heaven is a kingdom of spirit characterized by reversals; the last will be first; the poor will be elevated, and the rich brought low; and its king will triumph, not by conquest, but by humbling himself to the death of a criminal.
+
+The third commonality is that it is always the Hasmonean priests who encite the crowds to urge Pilate to crucify Jesus and release Barabbas. We have established the Sadducees' willingness to engage in political machinations to maintain the status quo and preserve the priesthood, so if we are going to blame any of the Jews for the death of Jesus, it should be those guys specifically. The Sadducees essentially disappeared after the destruction of the Second Temple in 70 CE, and modern Judaism evolved out of the Pharisaic rabbinic tradition of "portable Judaism", so there is no reason to hold modern Jews accountable for the actions of one faction which even we have rejected!
+
+Finally, according to the Gospel narratives, the Jewish authorities lacked the right to exercise capital punishment. Pilate, the Roman governor of Judea, surely had the power to pardon Jesus, and surely was not obligated to kill him just because the high priests wanted him to. In the account of Paul's life in Acts, Paul manages to reduce his own sentance to one of house arrest, where he stays until the end of the book---it is unclear if he was even executed or simply died in his home of old age or disease. Why was it so hard to kill Paul, but so hard to not kill Jesus? The whole account, while a beautiful literary conclusion to the life of Jesus as told in the Gospels, simply doesn't hold up to scrutiny.
+
+## Conclusion
+
+There is no evidence that Jesus was a real historical figure. The Gospel accounts of the crucifixion are unlikely to have occurred as described, and do not line up with historical accounts of Roman executions and Roman political power and procedure. Even in the Gospel accounts, the worst the Jews as a whole did was fall into a mob mentality incited by a faction of political elites protecting their own power---aka bootlickers.
+
+The Jews are not guilty of deicide, and this accusation has been the cause of millennia of violence against Jews.

@@ -2,7 +2,7 @@
 date = '2025-06-17'
 title = 'What Do Jews Think About Jesus?'
 author = ["Evelyn Park"]
-description = "Part 1 of Judaism for Gentiles"
+description = "Part 1 of Judaism for Gentiles."
 type = "post"
 draft = false
 translationKey = "judaism"
