@@ -29,9 +29,10 @@ Contact methods are sorted into tiers based on how likely I am to check for mess
 
 ## Tier 3: Least preferred, response not guaranteed
 
-- [Discord](https://discordapp.com/users/1025102936512143403)
-- [Facebook Messenger](https://m.me/orangetowerphone)
+- Discord
+- Facebook Messenger
 - WhatsApp
+- Phone/SMS (numbers not in my contacts are automatically blocked)
 
 ## Tier 4: Physically incapable of receiving
 
