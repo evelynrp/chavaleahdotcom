@@ -63,7 +63,7 @@ languages:
       profileMode:
         enabled: true
         title: jan Ewalin
-        subtitle: "sona jan, sona sewi, en sona lipu."
+        subtitle: "sona jan en sona sewi en sona lipu."
         # buttons:
         #   - name: Blog
         #     url: posts
