@@ -104,14 +104,19 @@ params:
     # imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
-    # buttons:
-    #   - name: Archives
-    #     url: archives
+    buttons:
+      - name: 👤 Bio
+        url: /about
+      - name: 🖥️📱 Help me!
+        url: /it-support
 
   socialIcons:
-    - name: email
-      title: email
+    - name: tuta
+      title: Tuta Mail
       url: "mailto:hello@evelynpark.com"
+    - name: protonmail
+      title: Proton Mail
+      url: "mailto:hello@chavaleah.com"
     - name: matrix
       title: Matrix
       url: "https://matrix.to/#/@evelyn:unredacted.org"
@@ -127,6 +132,9 @@ params:
     - name: liberapay
       title: Liberapay
       url: "https://liberapay.com/chava"
+    - name: cv
+      title: CV
+      url: "/cv.pdf"
 
   # editPost:
   #   URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
