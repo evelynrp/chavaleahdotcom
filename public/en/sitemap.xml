@@ -1,153 +1,89 @@
-
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://evelynpark.com/en/author/</loc>
+    <loc>https://evelynpark.com/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tok"
+                href="https://evelynpark.com/tok/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evelynpark.com/"
+                />
+  </url><url>
+    <loc>https://evelynpark.com/posts/did-jews-kill-jesus/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/post/did-jews-kill-jesus/</loc>
+  </url><url>
+    <loc>https://evelynpark.com/posts/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-did-jesus-think-about-judaism/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/reading-list/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-do-jews-think-about-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/orthopraxy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/judaism/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/did-jews-kill-jesus/" />
-  </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/history/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/judaism/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/series/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/post/what-did-jesus-think-about-judaism/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tok"
+                href="https://evelynpark.com/tok/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evelynpark.com/posts/"
+                />
+  </url><url>
+    <loc>https://evelynpark.com/posts/what-did-jesus-think-about-judaism/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/did-jews-kill-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/reading-list/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-do-jews-think-about-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/orthopraxy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/judaism/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-did-jesus-think-about-judaism/" />
-  </url>
-  <url>
-    <loc>https://evelynpark.com/en/post/reading-list/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/did-jews-kill-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-did-jesus-think-about-judaism/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-do-jews-think-about-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/orthopraxy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/judaism/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/reading-list/" />
-  </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/philosophy/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/post/tale-of-two-sonics/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/literary-analysis/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/movies/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/pop-culture/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/sonic-the-hedgehog/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/post/what-do-jews-think-about-jesus/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/did-jews-kill-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-did-jesus-think-about-judaism/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/reading-list/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/orthopraxy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/judaism/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-do-jews-think-about-jesus/" />
-  </url>
-  <url>
-    <loc>https://evelynpark.com/en/post/cyrus/</loc>
+  </url><url>
+    <loc>https://evelynpark.com/posts/reading-list/</loc>
+    <lastmod>2025-06-28T00:42:28-04:00</lastmod>
+  </url><url>
+    <loc>https://evelynpark.com/posts/tale-of-two-sonics/</loc>
+    <lastmod>2025-06-20T16:48:14-04:00</lastmod>
+  </url><url>
+    <loc>https://evelynpark.com/posts/what-do-jews-think-about-jesus/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/history/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/cyrus/" />
+  </url><url>
+    <loc>https://evelynpark.com/posts/cyrus/</loc>
+    <lastmod>2025-05-09T14:16:48-04:00</lastmod>
+  </url><url>
+    <loc>https://evelynpark.com/posts/horse/</loc>
+    <lastmod>2025-01-04T15:40:10-05:00</lastmod>
+  </url><url>
+    <loc>https://evelynpark.com/posts/orthopraxy/</loc>
+    <lastmod>2024-04-25T15:48:04-05:00</lastmod>
+  </url><url>
+    <loc>https://evelynpark.com/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tok"
+                href="https://evelynpark.com/tok/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evelynpark.com/archives/"
+                />
+  </url><url>
+    <loc>https://evelynpark.com/categories/</loc>
+  </url><url>
+    <loc>https://evelynpark.com/it-support/</loc>
+  </url><url>
+    <loc>https://evelynpark.com/privacy/</loc>
+  </url><url>
+    <loc>https://evelynpark.com/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tok"
+                href="https://evelynpark.com/tok/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evelynpark.com/search/"
+                />
+  </url><url>
+    <loc>https://evelynpark.com/series/</loc>
+  </url><url>
+    <loc>https://evelynpark.com/tags/</loc>
   </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/anthropology/</loc>
-    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/post/horse/</loc>
-    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/pop-culture/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/horse/" />
-  </url>
-  <url>
-    <loc>https://evelynpark.com/en/tags/television/</loc>
-    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/post/orthopraxy/</loc>
-    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/did-jews-kill-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-did-jesus-think-about-judaism/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/reading-list/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-do-jews-think-about-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/judaism/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/orthopraxy/" />
-  </url>
-  <url>
-    <loc>https://evelynpark.com/en/</loc>
-    <lastmod>2025-06-17T14:36:57-04:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/stage/budding/</loc>
-    <lastmod>2025-06-17T23:18:08-04:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/author/evelyn-park/</loc>
-    <lastmod>2025-06-18T02:27:18-04:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/stage/evergreen/</loc>
-    <lastmod>2025-06-17T23:18:08-04:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/categories/history/</loc>
-    <lastmod>2025-06-17T14:36:57-04:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/cyrus/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/history/" />
-  </url>
-  <url>
-    <loc>https://evelynpark.com/en/categories/judaism/</loc>
-    <lastmod>2025-06-17T14:36:57-04:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/did-jews-kill-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-did-jesus-think-about-judaism/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/reading-list/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/what-do-jews-think-about-jesus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/orthopraxy/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/judaism/" />
-  </url>
-  <url>
-    <loc>https://evelynpark.com/en/series/judaism-for-gentiles/</loc>
-    <lastmod>2025-06-17T23:18:08-04:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/categories/pop-culture/</loc>
-    <lastmod>2025-06-17T14:36:57-04:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/post/horse/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://evelynpark.com/en/categories/pop-culture/" />
-  </url>
-  <url>
-    <loc>https://evelynpark.com/en/post/</loc>
-    <lastmod>2025-06-17T19:44:04-04:00</lastmod>
-    <changefreq>always</changefreq>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/stage/seedling/</loc>
-    <lastmod>2025-06-17T23:18:08-04:00</lastmod>
-    </url>
-  <url>
-    <loc>https://evelynpark.com/en/stage/</loc>
-    <lastmod>2025-06-17T23:18:08-04:00</lastmod>
-    </url>
 </urlset>
