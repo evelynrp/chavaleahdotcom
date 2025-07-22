@@ -30,6 +30,18 @@
   </url><url>
     <loc>https://evelynpark.com/tok/kulupu-lili/</loc>
   </url><url>
+    <loc>https://evelynpark.com/tok/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evelynpark.com/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tok"
+                href="https://evelynpark.com/tok/privacy/"
+                />
+  </url><url>
     <loc>https://evelynpark.com/tok/posts/</loc>
     <xhtml:link
                 rel="alternate"

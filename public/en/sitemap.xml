@@ -71,6 +71,16 @@
     <loc>https://evelynpark.com/it-support/</loc>
   </url><url>
     <loc>https://evelynpark.com/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tok"
+                href="https://evelynpark.com/tok/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evelynpark.com/privacy/"
+                />
   </url><url>
     <loc>https://evelynpark.com/search/</loc>
     <xhtml:link
