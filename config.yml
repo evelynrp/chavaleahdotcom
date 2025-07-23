@@ -65,7 +65,7 @@ languages:
         title: jan Ewalin
         subtitle: "sona jan en sona sewi en sona lipu."
         buttons:
-          - name: 👤 lipu pona
+          - name: 👤 lipu jan
             url: about/
 
 outputs:
