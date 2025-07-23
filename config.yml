@@ -64,9 +64,9 @@ languages:
         enabled: true
         title: jan Ewalin
         subtitle: "sona jan en sona sewi en sona lipu."
-        # buttons:
-        #   - name: Blog
-        #     url: posts
+        buttons:
+          - name: 👤 jan Ewalin li seme?
+            url: about/
 
 outputs:
   home:
