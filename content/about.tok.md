@@ -1,5 +1,5 @@
 ---
-title: About
+title: lon jan Ewalin
 ---
 
 jan Ewalin li kama sona e sona jan lon tomo sona kulupu Ewisona. ona li kama sona e sona pi tomo lipu lon tomo sona kulupu Wen lon Sitowi Misakin. ona li alasa e pali lon tomo lipu lon Sitowi.

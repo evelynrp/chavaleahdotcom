@@ -9,20 +9,20 @@
     <copyright>CC BY Evelyn Park · Privacy Policy</copyright>
     <atom:link href="https://evelynpark.com/tok/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>lawa len</title>
+      <link>https://evelynpark.com/tok/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://evelynpark.com/tok/privacy/</guid>
+      <description>&lt;p&gt;mi alasa ala sona sina. lipu ni li lon ma Kape Pesi. &lt;a href=&#34;https://www.cloudflare.com/privacypolicy/&#34;&gt;o lukin e lawa len ona&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lon jan Ewalin</title>
       <link>https://evelynpark.com/tok/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://evelynpark.com/tok/about/</guid>
       <description>&lt;p&gt;jan Ewalin li kama sona e sona jan lon tomo sona kulupu Ewisona. ona li kama sona e sona pi tomo lipu lon tomo sona kulupu Wen lon Sitowi Misakin. ona li alasa e pali lon tomo lipu lon Sitowi.&lt;/p&gt;
 &lt;p&gt;ona li pali e lawa ilo e sitelen linluwi e sitelen lipu lon tomo sewi &lt;a href=&#34;https://partnership.place&#34;&gt;Patnawi Pe&lt;/a&gt;. ona li jan nasin lon kulupu pana Tansisi Ewisisi Pentasen.&lt;/p&gt;
 &lt;p&gt;ona li musi e ilo musi Tisimon e sona lon sitelen tawa Sa Pa e lukin lon jan Eka.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>lawa len</title>
-      <link>https://evelynpark.com/tok/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://evelynpark.com/tok/privacy/</guid>
-      <description>&lt;p&gt;mi alasa ala sona sina. lipu ni li lon ma Kape Pesi. &lt;a href=&#34;https://www.cloudflare.com/privacypolicy/&#34;&gt;o lukin e lawa len ona&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
