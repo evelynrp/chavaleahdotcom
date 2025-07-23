@@ -53,6 +53,16 @@
     <lastmod>2024-04-25T15:48:04-05:00</lastmod>
   </url><url>
     <loc>https://evelynpark.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tok"
+                href="https://evelynpark.com/tok/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evelynpark.com/about/"
+                />
   </url><url>
     <loc>https://evelynpark.com/archives/</loc>
     <xhtml:link

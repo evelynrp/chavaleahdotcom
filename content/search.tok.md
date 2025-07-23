@@ -1,5 +1,5 @@
 ---
 title: "alasa"
-placeholder: alasa ...
+placeholder: o alasa ...
 layout: "search"
 ---

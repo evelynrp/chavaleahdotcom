@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://evelynpark.com/tok/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evelynpark.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tok"
+                href="https://evelynpark.com/tok/about/"
+                />
+  </url><url>
     <loc>https://evelynpark.com/tok/search/</loc>
     <xhtml:link
                 rel="alternate"
