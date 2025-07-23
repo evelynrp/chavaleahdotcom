@@ -120,21 +120,21 @@ params:
     - name: matrix
       title: Matrix
       url: "https://matrix.to/#/@evelyn:unredacted.org"
-    - name: mastodon
-      title: Mastodon
-      url: "https://tech.lgbt/@chava"
     - name: XMPP
       title: XMPP
       url: "xmpp:chava@disroot.org"
+    - name: mastodon
+      title: Mastodon
+      url: "https://tech.lgbt/@chava"
+    - name: cv
+      title: CV
+      url: "/cv.pdf"
     - name: patreon
       title: Patreon
       url: "https://patreon.com/evelynpark"
     - name: liberapay
       title: Liberapay
       url: "https://liberapay.com/chava"
-    - name: cv
-      title: CV
-      url: "/cv.pdf"
 
   # editPost:
   #   URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
