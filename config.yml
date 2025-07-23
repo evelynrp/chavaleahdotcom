@@ -63,7 +63,7 @@ languages:
       profileMode:
         enabled: true
         title: jan Ewalin
-        subtitle: "sona jan en sona sewi en sona lipu."
+        subtitle: "sona jan en sona sewi en sona lipu.</br>mi kama sona e toki pona. o pona e mi!"
         buttons:
           - name: 👤 lipu jan
             url: about/
