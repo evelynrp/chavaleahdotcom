@@ -123,6 +123,9 @@ params:
     - name: XMPP
       title: XMPP
       url: "xmpp:chava@disroot.org"
+    - name: misskey
+      title: Misskey
+      url: "https://transfem.social/@chava"
     - name: mastodon
       title: Mastodon
       url: "https://tech.lgbt/@chava"
