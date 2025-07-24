@@ -26,6 +26,18 @@
                 href="https://evelynpark.com/tok/"
                 />
   </url><url>
+    <loc>https://evelynpark.com/tok/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://evelynpark.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tok"
+                href="https://evelynpark.com/tok/about/"
+                />
+  </url><url>
     <loc>https://evelynpark.com/tok/kulupu/</loc>
   </url><url>
     <loc>https://evelynpark.com/tok/kulupu-lili/</loc>
@@ -67,17 +79,5 @@
                 />
   </url><url>
     <loc>https://evelynpark.com/tok/lipu-linja/</loc>
-  </url><url>
-    <loc>https://evelynpark.com/tok/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://evelynpark.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tok"
-                href="https://evelynpark.com/tok/about/"
-                />
   </url>
 </urlset>
