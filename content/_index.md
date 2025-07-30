@@ -16,5 +16,6 @@ I'm Evelyn. I also answer to Chava (חַוָּה). I'm enthusiastic about religi
   - [Part 3: Did "The Jews" Kill Jesus?](/posts/did-jews-kill-jesus)
 - [Need tech help?](/it-support)
 - [Contact me](/contact)
+- [Hire me](/cv.pdf)
 - [Patronize me on Patreon](https://patreon.com/evelynpark)
 - [Or support me on Liberapay](https://liberapay.com/chava)
