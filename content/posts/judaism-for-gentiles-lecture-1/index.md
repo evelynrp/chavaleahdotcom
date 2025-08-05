@@ -10,7 +10,7 @@ Edit: Due to technical limitations, I am unable to provide large file downloads 
 
 ## Video
 
-Still rendering...
+{{< youtube _NzpNWVOcj4 >}}
 
 ## Audio
 

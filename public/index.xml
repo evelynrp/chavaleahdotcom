@@ -17,7 +17,10 @@
       <description>&lt;p&gt;The first lecture was given on the morning of August 3, 2025. The video is available to stream &lt;del&gt;and to download&lt;/del&gt;. You can also download &lt;del&gt;just the audio&lt;/del&gt;, subtitles, or transcripts in a variety of formats.&lt;/p&gt;
 &lt;p&gt;Edit: Due to technical limitations, I am unable to provide large file downloads at this time. I hope to resolve this soon.&lt;/p&gt;
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
-&lt;p&gt;Still rendering&amp;hellip;&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_NzpNWVOcj4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
 &lt;h2 id=&#34;audio&#34;&gt;Audio&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;del&gt;ogg&lt;/del&gt;&lt;/li&gt;
