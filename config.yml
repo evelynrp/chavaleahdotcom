@@ -81,6 +81,8 @@ params:
         url: /about
       - name: 🖥️📱 Help me!
         url: /it-support
+      - name: Judaism Class
+        url: /series/judaism-for-gentiles
 
   socialIcons:
     - name: tuta
