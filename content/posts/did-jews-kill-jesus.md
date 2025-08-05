@@ -1,6 +1,7 @@
 ---
 date: '2025-07-02'
 title: 'Judaism for Gentiles 3: Did "The Jews" Kill Jesus?'
+series: 'Judaism for Gentiles'
 ---
 
 As discussed above, there is no consensus over whether Jesus was a real historical figure. For the sake of answering this question, we will treat the Gospel narratives as being more or less reliable historical accounts, and analyze it in light of contemporary political forces.

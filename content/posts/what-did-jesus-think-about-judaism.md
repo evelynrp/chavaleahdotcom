@@ -1,6 +1,7 @@
 ---
 date: '2025-07-01'
 title: 'Judaism for Gentiles 2: What Did Jesus Think About Judaism?'
+series: 'Judaism for Gentiles'
 ---
 
 ## Historical Background

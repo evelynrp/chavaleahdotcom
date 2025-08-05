@@ -1,6 +1,7 @@
 ---
 date: '2025-06-17'
 title: 'Judaism for Gentiles 1: What Do Jews Think About Jesus?'
+series: 'Judaism for Gentiles'
 ---
 
 ## What Do Jews Think about Jesus?

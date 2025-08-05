@@ -1,3 +1,3 @@
-[submodule "themes/hugo-jackman"]
-	path = themes/hugo-jackman
-	url = https://codeberg.org/evelyn/hugo-jackman
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
