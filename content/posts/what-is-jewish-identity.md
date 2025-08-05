@@ -1,8 +1,9 @@
 ---
 date: '2025-07-30'
 title: 'Judaism for Gentiles 4: Is Judaism a Religion or an Ethnicity? What Makes Someone Jewish?'
-draft: true
 ---
+
+## Introduction
 
 For most of the history of the West, this question would make little sense. Religion and ethnicity, or at least some intrinsic element of identity like "peoplehood", have typically been inseparable. Christian history offers a striking example. Before 1517 CE, nearly all of Europe was Catholic. After Luther kicked off the Protestant Reformation, a good chunk of Europe became Protestant. But the shift from Catholicism to Protestantism did not occur on an individual basis. Germany is an excellent example, since medieval Germany was not a unified nation state but rather a hodgepodge of duchies, baronies, and petty kingdoms. It was the Duke or Baron who decided whether to convert, and all of his subjects followed, regardless of personal inclination. To not do so was to risk losing peoplehood, to become an enemy to one's own community, and to face discrimination, persecution, and, possibly, criminal charges.
 
