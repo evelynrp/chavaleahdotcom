@@ -103,6 +103,9 @@ params:
     - name: mastodon
       title: Mastodon
       url: "https://tech.lgbt/@chava"
+    - name: youtube
+      title: YouTube
+      url: "https://www.youtube.com/@evelynparkbarkbark"
     - name: cv
       title: CV
       url: "/cv.pdf"
