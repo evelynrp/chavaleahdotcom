@@ -1,0 +1,30 @@
+baseURL = "https://evelynpark.com"
+title = "Evelyn Park"
+theme = "hugo-jackman"
+
+[params]
+  tagline = "Evelyn Park"
+  copyrighturl = "https://creativecommons.org/licenses/by/4.0/"
+  copyrighttext = "CC BY 4.0"
+
+[taxonomies]
+  series = "series"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "series"
+    name = "Series"
+    url = "/series"
+    weight = 15
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 20
