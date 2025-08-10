@@ -1,0 +1,87 @@
+---
+date: '2025-08-09'
+title: 'Judaism for Gentiles 5: Jewish Holidays'
+series: 'Judaism for Gentiles'
+---
+
+## High Holidays
+
+### Rosh Hoshanah
+
+Rosh Hoshanah is the Jewish New Year, and is the beginning of a roughly week-long period of repentance, reflection, and remembrance.
+
+Rosh Hoshanah is primarily associated with the mitzvah of hearing the blowing of the shofar, a ram's horn which is blown on certain ritual occasions.
+
+### Yom Kippur
+
+Yom Kippur, the Day of Atonement, takes place 9 days after Rosh Hoshanah.
+
+Yom Kippur is characterized by the strictest restrictions of any day in the Jewish year. In addition to the work-related restrictions of Shabbat, Yom Kippur prohibits bathing, anointing with oil or perfume, engaging in sexual relations, and wearing leather shoes.
+
+Before sunset on Erev Yom Kippur (Yom Kippur Eve) (Jewish days begin at sunset), an ancient Aramaic prayer called Kol Nidre is recited. This prayer releases one from any vows which may have been made so that unfulfilled vows will be annulled and forgiven. This is especially interesting since vows are against halakha anyway.
+
+Yom Kippur prayer services are the longest of the year; in some communities, prayer begins and sunrise and ends at sunset with no interruptions in between. Yom Kippur prayers center around reflection and atonement, and include the Yizkor, or prayer of remembrance.
+
+During the morning prayer, the entire Book of Jonah is recited. At the end of the day, before sunset, communities recite the Ne'ilah, a special service pleading for God's forgiveness before the Book of Life is closed.
+
+Yom Kippur concludes with a final blowing of the shofar.
+
+## Major Holidays
+
+Major holidays, or Torah Holidays, are considered more important than minor holidays because they are based on commandments in the Torah and usually involve specific restrictions or commandments.
+
+### Pesach
+
+Pesach, or Passover or the Festival of Unleavened Bread, celebrates the Exodus from Egypt. Pesach is derived from passages through Exodus, Leviticus, and Deuteronomy.
+
+Pesach lasts for seven days. Jews are forbidden from eating or possessing chametz (leavened food) during Pesach, so most Jews will kasher (make kosher) their homes before Passover begins. One ritual involves ritualistically removing the last crumb of bread from the home with a feather and burning it outside. Another common practice is to sell the household's chametz to a friendly gentile, and then to buy it back after the holiday ends (although, for this to be kosher, the gentile must not be under any obligation to actually sell it back).
+
+Work is prohibited on the first and last days of Pesach.
+
+The first night of Pesach is celebrated with the Passover Seder, a ritualistic meal which commemorates the Exodus from Egypt. The Seder involves a number of blessings over wine, ritualistic handwashing, eating vegetables dipped in salt water which symbolizes the tears of Hebrew slaves, retelling the Passover story, and eating bitter herbs. Time is taken to spill drops of wine for each of the plagues in remembrance of the suffering of the Egyptians.
+
+### Shavuot
+
+Shavuot, or the Feast of Weeks, derives from Exodus 34:22. Shavuot lasts for only one day, during which work is prohibited. Shavuot was originally an agricultural festival, but today commemorates the revelation of the Torah at Sinai. It is celebrated by studying Torah for 25 hours straight, a practice popularized in the medieval period by kabbalists who had just discovered coffee.
+
+### Sukkot
+
+Sukkot, or the Feast of Booths / Tabernacles, is a 7-day holiday. Work is prohibited on the first and last day. The primary mitzvah of sukkot is to dwell in a sukkah, or a booth or tabernacle. This is usually interpreted to mean that one must, at least, eat meals in the sukkah, but many will dwell in the sukkah all day long, even sleeping in it. One is exempt from dwelling in the sukkah during inclement weather, though some communities view inclement weather during sukkot as an ill omen since it prevents the fulfillment of a mitzvah.
+
+There are several rules governing the construction of the sukkah. The sukkah must have at least three walls, be at least three feet tall, and enclose at least 16 square cubits. The walls must be able to withstand wind; if they sway in normal levels of wind, the sukkah is not considered kosher. No more than one of the walls may belong to a pre-existing structure. The roof is thatched from natural materials, typically scavenged branches, sticks, and leaves, but woven sheets of straw or bamboo are also common. The roof must be thick enough to provide more shade than sun, but must not be so thick that one cannot see the stars.
+
+Sukkot includes a special prayer with choreography involving the Four Species, the lulav (palm), hadass (myrtle), aravah (willow), and etrog (citron). There has been much debate, and no consensus, over the significance of the Four Species. Colloquially, some refer to this ritual as "shaking a lemon at God".
+
+Sukkot is described in Leviticus 23:42-43,
+
+> You shall live in booths for seven days; all that are citizens in Israel shall live in booths, so that your generations may know that I made the people of Israel live in booths when I brought them out of the land of Egypt: I am the Lord your God.
+
+and commemorates the forty years Israel wandered in the desert following the Exodus. The rules concerning the construction of the sukkah reflect the ramshackle, temporary nature of dwellings during the desert sojourn.
+
+## Minor Holidays
+
+Minor holidays, or historical holidays, are not founded on Torah commands. Instead, they commemorate historical events. They are, therefore, less binding, and do not typically involve additional restrictions or commandments.
+
+### Purim
+
+Purim commemorates the story of Esther. Purim is celebrated with the reading of the Book of Esther, giving gifts of food to friends, neighbors, and the poor, and a celebratory meal.
+
+The recitation of the Megillah (the Book of Esther) is usually a festive event. Since the text commands Jews to blot out the name of Haman (the villain in the story who seeks to annihilate the Jews), whenever his name is read the audience will drown it out with boos, jeers, and noisemakers. Some communities will avoid reading the final chapter, in which the Jews turn around and murder their oppressors, but most communities emphasize it and enjoy grappling with the ethical and moral implications of the narrative.
+
+During the Purim meal, it is tradition to get so drunk that you cannot tell the difference between Haman and Mordechai (the hero).
+
+### Simchat Torah
+
+Simchat Torah, the Celebration of Torah, occurs immediately after the conclusion of sukkot. Communities typically celebrate by removing the Torah scroll from the synagogue's ark and parading or dancing with it.
+
+### Hanukkah
+
+Hanukkah, or the Festival of Lights, celebrates the successful military Maccabean Revolt against the Seleucid Empire. The Rabbis of the Talmud, to distance the holiday from its militaristic and nationalistic origin, gave the holiday a more mystical story. When it came time to rededicate the Temple following the Revolt, they found only a single day's supply of oil. However, the oil miraculously burned for eight days.
+
+Hanukkah is celebrated with the lighting of the hanukkiah (Hanukkah menorah); the consumption of oily foods, especially potato pancakes called sufganiyot or latkes; the dreidel game; and giving chocolate gelt to children.
+
+The Hanukkiah has spots for nine candles. One candle, the shemash, is raised above the others. The shemash is placed in the Hanukkiah first, and is used to light the other candles. The candles are placed into the Hanukkiah from right to left, and are lit from left to right. A candle is added each night, beginning with one candle plus the shemash on the first night, and ending with a full Hanukkiah on the eighth. The Hanukkiah should, if possible, be placed in a window so that it can be seen from outside; this advertizes the miracle of Hanukkah.
+
+## Revision History
+
+- 2025-08-09: Original posting.
