@@ -9,7 +9,10 @@ After hearing some feedback on the first lecture, I realized that I may have put
 ![A poster of the books of Tanakh and major divisions.](tanakh-poster.png)
 ![A timeline of Jewish history from 2000 BCE to the Common Era.](timeline-ancient.jpg)
 ![A timeline of Jewish history from the beginning of the Common Era to the Spanish Golden Age.](timeline-rome.jpg)
+![A timeline of Jewish history in the Medieval Era.](timeline-medieval.jpg)
+![A timeline of recent Jewish history.](timeline-modern.jpg)
 
 ## Revision History
 
+- 2025-08-10: Added medieval and modern timelines.
 - 2025-08-06: Original posting.
