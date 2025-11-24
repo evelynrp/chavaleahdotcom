@@ -1,6 +1,7 @@
 ---
 date: '2025-06-20T16:48:14-04:00'
 title: 'A Tale of Two Sonics'
+draft: true
 ---
 
 ![A gif of a kid's ice cream flying sideways off the cone for no reason.](icecream.gif)

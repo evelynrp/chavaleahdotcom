@@ -4,7 +4,7 @@ title: "Home"
 
 # Anthropology, Religion, Literature
 
-Welcome! I'm Evelyn, and I make educational content about cultural anthropology, religious anthropology, and pop culture literary analysis.
+Humanities grad student by day, privsec hobbyist by night.
 
 ## Links
 
@@ -13,8 +13,8 @@ Welcome! I'm Evelyn, and I make educational content about cultural anthropology,
 - [Proton Mail](mailto:hello@chavaleah.com)
 - [Matrix](https://matrix.to/#/@evelyn:unredacted.org)
 - [XMPP](xmpp:chava@disroot.org)
-- [Misskey](https://transfem.social/@chava)
-- [Mastodon](https://tech.lgbt/@chava)
+- [Misskey](https://transfem.social/@chava) (not very active)
+- [Mastodon](https://tech.lgbt/@chava) (even less active)
 - [YouTube](https://youtube.com/@evelynparkbarkbark)
 - [Hire me!](/cv.pdf)
 - [Patronize me on Patreon](https://patreon.com/evelynpark)
