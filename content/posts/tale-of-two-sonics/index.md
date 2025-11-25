@@ -36,7 +36,15 @@ Sonic 3 was a string of bad, loosely-connected jokes and fanservice bone-throws.
 
 ## Jim Carrey
 
+This section is likely to be divisive if the reviews on RottenTomatoes are any indication of public opinion, but Jim Carrey's performance in *Sonic 3* does the film a serious disservice, especially when compared to his performance in the previous film. Rather than contributing to the plot in any meaningful way, or at least being funny, many of Carrey's scenes in *Sonic 3* are senseless and seem designed to pacify infants *a la* *CoComelon* with a senses-dulling inundation of lights and sounds with no actual semantic content.
+
 ### Dancing
+
+Both *Sonic 2* and *Sonic 3* have long dance scenes. In *Sonic 2*, the dance scene occurs in some sort of Russian pub at which Sonic and Tails stop on their quest to find the Master Macguffin. In *Sonic 3*, the dance scene occurs as the Robotniks are en route to the secret key to the not-Space-Colony-ARK underneath a highly-secure GUN facility for some reason(?). Admittedly, both plots are somewhat contrived, but that's not what this section is about.
+
+Why does the dance scene in *Sonic 2* work, but the one in *Sonic 3* doesn't?
+
+TK
 
 ### CGI Cybernetic Insect Augmentations?
 
@@ -44,5 +52,4 @@ Sonic 3 was a string of bad, loosely-connected jokes and fanservice bone-throws.
 
 ## Revision History
 
-- 2025-06-20: Rough outline
-- 2025-06-21: Ice cream gif
+- TK
